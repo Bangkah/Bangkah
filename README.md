@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Dhiyaul Atha</h1>
-<h3 align="center">Mahasiswa Teknik Informatika | PHP Developer | Web Enthusiast</h3>
+<h3 align="center">Mahasiswa Teknik Informatika | Web Developer | Web Enthusiast</h3>
 
 <p align="center">
   <a href="https://github.com/Bangkah">
