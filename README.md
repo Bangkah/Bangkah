@@ -1,54 +1,64 @@
 <h1 align="center">Hi 👋, I'm Muhammad Dhiyaul Atha</h1>
-<h3 align="center">Mahasiswa Teknik Informatika | Front-End Developer | Tech Enthusiast</h3>
+<h3 align="center">Mahasiswa Teknik Informatika | PHP Developer | Web Enthusiast</h3>
 
 <p align="center">
   <a href="https://github.com/Bangkah">
-    <img src="https://komarev.com/ghpvc/?username=bangkah&label=Profile%20views&color=0e75b6&style=flat" alt="bangkah" />
+    <img src="https://komarev.com/ghpvc/?username=bangkah&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
   </a>
 </p>
 
 ---
 
-### 👨‍💻 Tentang Saya
-- 🏫 Mahasiswa Teknik Informatika, Politeknik Negeri Lhokseumawe  
-- 💻 Web Developer fokus pada Front-End (React, Tailwind)  
-- 🔧 Sedang mempelajari Back-End (Node.js, Express, MySQL)  
-- ✍️ Aktif berkontribusi dalam proyek open source & membuat konten edukasi  
-- 🎯 Target saya: Menjadi Full-Stack Developer yang berdampak
+## 👨‍💻 Tentang Saya
+
+- 🎓 Mahasiswa Teknik Informatika di Politeknik Negeri Lhokseumawe  
+- 💻 Fokus pada pengembangan web menggunakan **PHP** (native & framework)  
+- 🧠 Terus belajar membangun aplikasi fullstack yang bersih dan efisien  
+- 🤝 Terbuka untuk proyek freelance, kolaborasi open-source & tim dev  
+- 🎯 Tujuan: Menjadi Full-Stack Web Developer yang berkualitas dan berdampak
 
 ---
 
-### 💼 Tech Stack
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-</p>
+## 🛠️ Tech Stack
 
----
-
-### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bangkah&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bangkah&layout=compact&theme=tokyonight" width="48%" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 ---
 
-### 🔗 Hubungi Saya
-- 🌐 Website: [bento.me/mdhiyaulatha](https://bento.me/mdhiyaulatha)
-- 💼 LinkedIn: [linkedin.com/in/muhammadatha](https://linkedin.com/in/muhammadatha)
-- 📷 Instagram: [@mdhiyaulatha](https://instagram.com/mdhiyaulatha)
-- 📧 Email: mdhyaulatha@gmail.com
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bangkah&show_icons=true&theme=tokyonight" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bangkah&layout=compact&theme=tokyonight" width="47%" />
+</p>
 
 ---
 
-<p align="center">Terima kasih sudah berkunjung 🙌</p>
-<p align="center">⭐ Jangan lupa kasih bintang ke proyek yang kamu suka ya!</p>
+## 🔗 Temukan Saya di
+
+<p align="center">
+  <a href="mailto:mdhyaulatha@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://aatha.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portofolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/dhyaul-atha-42a6b7280" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/mdhiyaulatha" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center"><i>Terima kasih telah mengunjungi profil saya! Jangan lupa ⭐ repo jika bermanfaat.</i></p>
