@@ -35,11 +35,10 @@
 
 ## 📈 GitHub Stats
 
-<p align="center">
+
   <img src="https://github-readme-stats.vercel.app/api?username=bangkah&show_icons=true&theme=tokyonight" width="47%" />
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bangkah&layout=compact&theme=tokyonight" width="47%" />
-</p>
 
 ---
 
