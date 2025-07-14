@@ -47,7 +47,10 @@
 
 ---
 
-[![Bangkah's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bangkah&show_icons=true&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Bangkah's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bangkah&show_icons=true&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Bangkah&theme=dracula&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
 _✨ Terima kasih telah mengunjungi profil saya! Jangan lupa beri ⭐ ke repo yang kamu suka ya!_
