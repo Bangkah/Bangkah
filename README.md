@@ -47,4 +47,7 @@
 
 ---
 
+[![Bangkah's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bangkah&show_icons=true&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
 _✨ Terima kasih telah mengunjungi profil saya! Jangan lupa beri ⭐ ke repo yang kamu suka ya!_
