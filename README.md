@@ -51,7 +51,7 @@
   <a href="https://portfolio-bangkahs-projects.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portofolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/dhyaul-atha-42a6b7280" target="_blank">
+  <a href="https://www.linkedin.com/in/muhammad-dhyaul-atha-42a6b7280/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://instagram.com/mdhiyaulatha" target="_blank">
