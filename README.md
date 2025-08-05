@@ -48,7 +48,7 @@
   <a href="mailto:mdhyaulatha@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://aatha.vercel.app/" target="_blank">
+  <a href="https://portfolio-bangkahs-projects.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portofolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/dhyaul-atha-42a6b7280" target="_blank">
