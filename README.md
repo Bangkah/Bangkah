@@ -1,6 +1,6 @@
 <!-- Header Animasi -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=00F700&center=true&vCenter=true&width=550&lines=Hi+👋,+I'm+Muhammad+Dhiyaul+Atha;Web+Developer+%7C+Shell+Scripting;Cybersecurity+Learner+%7C+Linux+Tools;Always+Learning+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=00F700&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Muhammad+Dhiyaul+Atha;Web+Developer+%7C+Shell+Scripting;Cybersecurity+Learner+%7C+Linux+Tools;Always+Learning+🚀" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">Mahasiswa Teknik Informatika | Web Developer | Shell Scripting Enthusiast | Cybersecurity Learner</h3>
@@ -31,6 +31,18 @@
 
 ---
 
+## 📜 Sertifikasi
+<p align="center">
+  <a href="https://www.cyberacademy.id/certificate/PKMI1109231611" target="_blank">
+    <img src="https://img.shields.io/badge/Introduction%20to%20Information%20Security-0056D2?style=for-the-badge&logo=readthedocs&logoColor=white" alt="CyberAcademy Certificate" />
+  </a>
+  <a href="https://www.credly.com/badges/af6c8d8c-da8f-4f19-a213-9e63b2f3bd93/linked_in_profile" target="_blank">
+    <img src="https://img.shields.io/badge/Google%20Cybersecurity%20Certificate-34A853?style=for-the-badge&logo=google&logoColor=white" alt="Google Cybersecurity Certificate" />
+  </a>
+</p>
+
+---
+
 ## 📊 Statistik GitHub
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bangkah&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
@@ -40,15 +52,10 @@
 ---
 
 ## 🌟 Proyek Unggulan
-<p>
-  <a href="https://github.com/Bangkah/Muslim-Life">📌 Muslim-Life</a> — Aplikasi Islami berbasis web  
-  <br>
-  <a href="https://github.com/Bangkah/kali-linux-tools">📌 kali-linux-tools</a> — Koleksi tool untuk hacking & security  
-  <br>
-  <a href="https://github.com/Bangkah/portfolio">📌 portfolio</a> — Website portofolio pribadi  
-  <br>
-  <a href="https://github.com/Bangkah/Fishing-OS">📌 Fishing-OS</a> — Sistem Shell scripting
-</p>
+- [📌 Muslim-Life](https://github.com/Bangkah/Muslim-Life) — Aplikasi Islami berbasis web  
+- [📌 kali-linux-tools](https://github.com/Bangkah/kali-linux-tools) — Koleksi tool untuk hacking & security  
+- [📌 portfolio](https://github.com/Bangkah/portfolio) — Website portofolio pribadi  
+- [📌 Fishing-OS](https://github.com/Bangkah/Fishing-OS) — Sistem Shell scripting
 
 ---
 
