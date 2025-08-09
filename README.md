@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm Muhammad Dhiyaul Atha</h1>
-<h3 align="center">Mahasiswa Teknik Informatika | Web Developer | Web Enthusiast</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F700&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+Muhammad+Dhiyaul+Atha;Web+Developer+%7C+Shell+Scripting;Cybersecurity+%7C+Linux+Tools;Always+Learning+🚀" alt="Typing SVG" />
+</h1>
+
+<h3 align="center">Mahasiswa Teknik Informatika | Web Developer | Shell Scripting Enthusiast | Cybersecurity Learner</h3>
 
 <p align="center">
   <a href="https://github.com/Bangkah">
@@ -10,40 +13,39 @@
 ---
 
 ## 👨‍💻 Tentang Saya
-
 - 🎓 Mahasiswa Teknik Informatika di Politeknik Negeri Lhokseumawe  
-- 💻 Fokus pada pengembangan web menggunakan **PHP** (native & framework)  
-- 🧠 Terus belajar membangun aplikasi fullstack yang bersih dan efisien  
-- 🤝 Terbuka untuk proyek freelance, kolaborasi open-source & tim dev  
-- 🎯 Tujuan: Menjadi Full-Stack Web Developer yang berkualitas dan berdampak
+- 💻 Full-stack Web Development (**PHP**, JavaScript, HTML, CSS)  
+- 🐧 Linux & Shell Scripting untuk automasi dan pengembangan tools  
+- 🔒 Minat di Cybersecurity & Ethical Hacking (Kali Linux tools, malware analysis)  
+- 📱 Eksperimen dengan aplikasi berbasis Java  
+- 🎯 Tujuan: Menjadi developer serbaguna yang berdampak
 
 ---
 
 ## 🛠️ Tech Stack
-
 <p align="center">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,java,linux,bash,git,github,vscode" />
 </p>
 
 ---
 
 ## 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bangkah&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bangkah&layout=compact&theme=tokyonight" width="48%" />
+</p>
 
+---
 
-  <img src="https://github-readme-stats.vercel.app/api?username=bangkah&show_icons=true&theme=tokyonight" width="47%" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bangkah&layout=compact&theme=tokyonight" width="47%" />
+## 🌟 Proyek Unggulan
+- [Muslim-Life](https://github.com/Bangkah/Muslim-Life) — Aplikasi Islami berbasis web  
+- [kali-linux-tools](https://github.com/Bangkah/kali-linux-tools) — Koleksi tool untuk hacking & security  
+- [portfolio](https://github.com/Bangkah/portfolio) — Website portofolio pribadi  
+- [Fishing-OS](https://github.com/Bangkah/Fishing-OS) — Sistem Shell scripting
 
 ---
 
 ## 🔗 Temukan Saya di
-
 <p align="center">
   <a href="mailto:mdhyaulatha@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
