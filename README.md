@@ -1,6 +1,6 @@
 <!-- Header Animasi -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=00F700&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Muhammad+Dhiyaul+Atha;Web+Developer+%7C+Shell+Scripting;Cybersecurity+Learner+%7C+Linux+Tools;Always+Learning+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=00F700&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Muhammad+Dhiyaul+Atha;Web+Developer+%7C+Shell+Scripting;Cybersecurity+Learner+%7C+Linux+Tools;Always+Learning+🚀" alt="Muhammad Dhiyaul Atha" />
 </h1>
 
 <h3 align="center">Mahasiswa Teknik Informatika | Web Developer | Shell Scripting Enthusiast | Cybersecurity Learner</h3>
