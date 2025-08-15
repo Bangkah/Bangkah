@@ -49,6 +49,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bangkah&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bangkah&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  ![Stats](https://github-readme-stats.vercel.app/api?username=bangkah&cache_seconds=1800&v=20240815)
 </p>
 
 ---
