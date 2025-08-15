@@ -51,6 +51,15 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bangkah&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=60" width="48%" />
 </p>
 
+
+<p align="center">
+  ![Followers](https://img.shields.io/github/followers/Bangkah?label=Followers&style=for-the-badge)
+  ![Stars](https://img.shields.io/github/stars/Bangkah?label=Stars&style=for-the-badge)
+  ![Repositories](https://img.shields.io/github/public-repos/Bangkah?label=Repos&style=for-the-badge)
+  ![Commits](https://img.shields.io/github/commit-activity/y/Bangkah?label=Commits&style=for-the-badge)
+</p>
+
+
 ---
 
 ## 🌟 Proyek Unggulan
