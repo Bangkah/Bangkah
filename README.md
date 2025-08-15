@@ -47,9 +47,8 @@
 
 ## 📊 Statistik GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bangkah&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=60" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bangkah&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=10" width="48%" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bangkah&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=60" width="48%" alt="Top Languages" />
-  ![Stats](https://github-readme-stats.vercel.app/api?username=bangkah&show_icons=true&theme=tokyonight&cache_seconds=60)
 </p>
 
 ---
