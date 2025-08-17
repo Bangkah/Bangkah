@@ -7,13 +7,6 @@
   Tech Enthusiast | Open Source Learner | Always Exploring Technology
 </h3>
 
-<!-- Profile Views -->
-<p align="center">
-  <a href="https://github.com/Bangkah">
-    <img src="https://komarev.com/ghpvc/?username=bangkah&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  </a>
-</p>
-
 ---
 
 ## 👨‍💻 Tentang Saya
@@ -43,8 +36,11 @@
   <a href="mailto:mdhyaulatha@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://www.linkedin.com/in/muhammad-dhyaul-atha/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://portfolio-bangkahs-projects.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://instagram.com/mdhiyaulatha">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
 
