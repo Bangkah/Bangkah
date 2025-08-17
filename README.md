@@ -1,10 +1,10 @@
 <!-- Header Animasi -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=00F700&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Muhammad+Dhiyaul+Atha;Web+Developer+%7C+Shell+Scripting;Cybersecurity+Learner+%7C+Linux+Tools;Always+Learning+🚀" alt="Muhammad Dhiyaul Atha" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=00F700&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Muhammad+Dhiyaul+Atha;Tech+Enthusiast;Always+Learning+🚀" alt="Muhammad Dhiyaul Atha" />
 </h1>
 
 <h3 align="center">
-  Mahasiswa Teknik Informatika | Web Developer | Shell Scripting Enthusiast | Cybersecurity Learner
+  Tech Enthusiast | Open Source Learner | Always Exploring Technology
 </h3>
 
 <!-- Profile Views -->
@@ -17,30 +17,15 @@
 ---
 
 ## 👨‍💻 Tentang Saya
-- 🎓 Mahasiswa Teknik Informatika **Politeknik Negeri Lhokseumawe**
-- 💻 Full-stack Web Developer (PHP • JavaScript • HTML • CSS)
-- 🐧 Linux & Shell Scripting untuk otomasi dan pengembangan tools
-- 🔒 Cybersecurity & Ethical Hacking (Kali Linux, malware analysis)
-- 📱 Eksperimen dengan aplikasi berbasis Java
-- 🎯 Tujuan: developer serbaguna yang berdampak
+- 💡 Tech Enthusiast, suka eksplorasi teknologi baru  
+- 💻 Belajar Web Development & Linux Tools  
+- 🚀 Selalu terbuka untuk kolaborasi & belajar hal baru  
 
 ---
 
 ## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,java,linux,bash,git,github,vscode" alt="Tech Stack" />
-</p>
-
----
-
-## 📜 Sertifikasi
-<p align="center">
-  <a href="https://www.cyberacademy.id/certificate/PKMI1109231611" target="_blank">
-    <img src="https://img.shields.io/badge/Cyber%20Academy-PKMI1109231611-blue?style=for-the-badge" alt="Cyber Academy Certificate" />
-  </a>
-  <a href="https://www.credly.com/badges/af6c8d8c-da8f-4f19-a213-9e63b2f3bd93" target="_blank">
-    <img src="https://img.shields.io/badge/IBM%20SkillsBuild-Granite-blueviolet?style=for-the-badge" alt="IBM SkillsBuild Badge" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,linux,git,github,vscode" alt="Tech Stack" />
 </p>
 
 ---
@@ -53,29 +38,13 @@
 
 ---
 
-## 🌟 Proyek Unggulan
-| Nama | Deskripsi |
-|------|-----------|
-| [📌 Muslim-Life](https://github.com/Bangkah/Muslim-Life) | Aplikasi Islami berbasis web (React & Tailwind) |
-| [📌 kali-linux-tools](https://github.com/Bangkah/kali-linux-tools) | Skrip otomatisasi instalasi tools Kali Linux |
-| [📌 portfolio](https://github.com/Bangkah/portfolio) | Website portofolio pribadi |
-| [📌 Fishing-OS](https://github.com/Bangkah/Fishing-OS) | Sistem Shell-scripting untuk edukasi |
-
----
-
 ## 📬 Temukan Saya di
 <p align="center">
   <a href="mailto:mdhyaulatha@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://portfolio-bangkahs-projects.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
   <a href="https://www.linkedin.com/in/muhammad-dhyaul-atha/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://instagram.com/mdhiyaulatha">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
 
@@ -87,5 +56,5 @@
 </p>
 
 <p align="center">
-  <i>Terima kasih telah mengunjungi profil saya! Jangan lupa ⭐ repo jika bermanfaat.</i>
+  <i>Terima kasih sudah mampir! Jangan lupa ⭐ repo kalau bermanfaat.</i>
 </p>
