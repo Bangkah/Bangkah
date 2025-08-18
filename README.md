@@ -58,6 +58,11 @@
 </p>
 
 ---
+## 🏆 Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=bangkah&theme=tokyonight&margin-w=10&margin-h=10" alt="GitHub Achievements" />
+</p>
+
 
 ## Contact
 <p align="center">
