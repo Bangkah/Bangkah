@@ -43,12 +43,10 @@
     width="48%"
   />
 </p>
-  <<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/Bangkah/metrics/master/github-metrics.svg"
-    alt="GitHub Metrics"
-    width="600"
-  />
+  <p align="center">
+  <img src="https://raw.githubusercontent.com/Bangkah/metrics/master/github-metrics.svg"
+       alt="GitHub Metrics"
+       width="480" />
 </p>
 
 ---
