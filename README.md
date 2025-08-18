@@ -25,11 +25,18 @@
 
 ## 📊 Statistik GitHub
 <p align="center">
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=bangkah&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <br>
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bangkah&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img
+    alt="GitHub Stats"
+    src="https://github-readme-stats.vercel.app/api?username=bangkah&show_icons=true&theme=tokyonight&hide_border=true"
+    width="48%"
+  />
+  <br />
+  <img
+    alt="Top Languages"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=bangkah&layout=compact&theme=tokyonight&hide_border=true"
+    width="48%"
+  />
 </p>
-
 ---
 
 ## 📬 Temukan Saya di
