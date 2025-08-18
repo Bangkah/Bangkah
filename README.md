@@ -1,4 +1,3 @@
-<!-- ✨ Header with fade-in animation -->
 <p align="center">
   <img
     src="https://capsule-render.vercel.app/api?type=rect&color=0:00F700,100:006400&height=120&section=header&text=Muhammad%20Dhiyaul%20Atha&fontSize=40&fontColor=ffffff&animation=fadeIn"
@@ -7,21 +6,21 @@
 </p>
 
 <h3 align="center">
-  Tech Enthusiast | Linux Lover | Web Developer 🚀
+  Tech Enthusiast | Linux Specialist | Web Developer
 </h3>
 
 ---
 
-## 👨‍💻 About Me
-- 🧑‍💻 Informatics Engineering student  
-- 💡 Always up-to-date with the latest tech trends  
-- 🐧 Linux fan & command-line lover  
-- 💻 Main language: **PHP**; also fluent in **JavaScript**  
-- 🚀 Open to collaboration and continuous learning  
+## About Me
+- Mahasiswa **Teknik Informatika**  
+- Selalu mengikuti perkembangan teknologi terbaru  
+- Penggemar **Linux** dan berbagai tool Linux  
+- Bahasa pemrograman utama: **PHP**, juga menguasai **JavaScript**  
+- Terbuka untuk kolaborasi dan pengembangan proyek teknologi  
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 <p align="center">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -33,17 +32,18 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Statistics
 <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=bangkah&show_icons=true&theme=tokyonight&hide_border=true"
     alt="GitHub Stats"
-    width="49%"
+    width="48%"
+    style="margin-right:2%"
   />
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=bangkah&layout=compact&theme=tokyonight&hide_border=true"
     alt="Top Languages"
-    width="49%"
+    width="48%"
   />
 </p>
 
@@ -51,13 +51,14 @@
   <img
     src="https://raw.githubusercontent.com/Bangkah/metrics/master/github-metrics.svg"
     alt="GitHub Metrics"
-    width="480"
+    width="500"
+    style="max-width:100%; height:auto;"
   />
 </p>
 
 ---
 
-## 📬 Find Me
+## Contact
 <p align="center">
   <a href="mailto:mdhyaulatha@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
@@ -76,9 +77,6 @@
   </a>
 </p>
 
----
-
-<!-- ✨ Waving footer -->
 <p align="center">
   <img
     src="https://capsule-render.vercel.app/api?type=waving&color=00F700&height=100&section=footer"
@@ -87,5 +85,5 @@
 </p>
 
 <p align="center">
-  <i>Thanks for visiting! ⭐ this repo if it helped you.</i>
+  <i>Thank you for visiting! Please ⭐ this repository if you found it useful.</i>
 </p>
