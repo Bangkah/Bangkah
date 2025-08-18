@@ -1,5 +1,9 @@
+<!-- ✨ Header with fade-in animation -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F700,100:006400&height=120&section=header&text=Muhammad%20Dhiyaul%20Atha&fontSize=40&fontColor=ffffff&animation=fadeIn" alt="header" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:00F700,100:006400&height=120&section=header&text=Muhammad%20Dhiyaul%20Atha&fontSize=40&fontColor=ffffff&animation=fadeIn"
+    alt="header"
+  />
 </p>
 
 <h3 align="center">
@@ -8,12 +12,12 @@
 
 ---
 
-## 👨‍💻 Tentang Saya
-- 🧑‍💻 Mahasiswa **Teknik Informatika**  
-- 💡 Tech Enthusiast, selalu update dengan teknologi terbaru  
-- 🐧 Tertarik dengan **Linux** & tool-tool Linux  
-- 💻 Bahasa utama: **PHP**, tapi juga menguasai sedikit **JavaScript**  
-- 🚀 Terbuka untuk kolaborasi dan belajar hal baru  
+## 👨‍💻 About Me
+- 🧑‍💻 Informatics Engineering student  
+- 💡 Always up-to-date with the latest tech trends  
+- 🐧 Linux fan & command-line lover  
+- 💻 Main language: **PHP**; also fluent in **JavaScript**  
+- 🚀 Open to collaboration and continuous learning  
 
 ---
 
@@ -29,7 +33,7 @@
 
 ---
 
-## 📊 Statistik GitHub
+## 📊 GitHub Stats
 <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=bangkah&show_icons=true&theme=tokyonight&hide_border=true"
@@ -50,7 +54,10 @@
     width="480"
   />
 </p>
-##  📬 Temukan Saya di
+
+---
+
+## 📬 Find Me
 <p align="center">
   <a href="mailto:mdhyaulatha@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
@@ -71,11 +78,14 @@
 
 ---
 
-<!-- Footer animasi -->
+<!-- ✨ Waving footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F700&height=100&section=footer" alt="footer" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=00F700&height=100&section=footer"
+    alt="footer"
+  />
 </p>
 
 <p align="center">
-  <i>Terima kasih sudah mampir! Jangan lupa ⭐ repo kalau bermanfaat.</i>
+  <i>Thanks for visiting! ⭐ this repo if it helped you.</i>
 </p>
