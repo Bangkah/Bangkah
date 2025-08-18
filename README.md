@@ -24,6 +24,7 @@
 ---
 
 ## 📊 Statistik GitHub
+![Metrics](https://raw.githubusercontent.com/Bangkah/metrics/master/metrics.svg)
 <p align="center">
   <img
     alt="GitHub Stats"
