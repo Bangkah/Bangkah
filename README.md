@@ -1,41 +1,36 @@
-<!-- Header dengan animasi profesional -->
+<!-- Header animasi profesional -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F700,100:006400&height=120&section=header&text=Muhammad%20Dhiyaul%20Atha&fontSize=40&fontColor=ffffff&animation=fadeIn" alt="header" />
 </p>
 
 <h3 align="center">
-  Tech Enthusiast | Open Source Learner | Always Exploring Technology 🚀
+  Tech Enthusiast | Linux Lover | Web Developer 🚀
 </h3>
 
 ---
 
 ## 👨‍💻 Tentang Saya
-- 💡 Tech Enthusiast, suka eksplorasi teknologi baru  
-- 💻 Belajar **Web Development**, **Linux Tools**, dan **Fullstack Development**  
-- 🚀 Selalu terbuka untuk kolaborasi & belajar hal baru  
-- 🌱 Saat ini fokus memperdalam **React.js**, **Node.js**, dan **Backend Development**  
+- 🧑‍💻 Mahasiswa **Teknik Informatika**  
+- 💡 Tech Enthusiast, selalu update dengan teknologi terbaru  
+- 🐧 Tertarik dengan **Linux** & tool-tool Linux  
+- 💻 Bahasa utama: **PHP**, tapi juga menguasai sedikit **JavaScript**  
+- 🚀 Terbuka untuk kolaborasi dan belajar hal baru  
 
 ---
 
 ## 🛠️ Tech Stack
 <p align="center">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 ---
 
 ## 📊 Statistik GitHub
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Bangkah/metrics/master/github-metrics.svg" alt="GitHub Metrics" width="100%" />
-</p>
-
 <p align="center">
   <img
     alt="GitHub Stats"
