@@ -31,22 +31,29 @@
 ---
 
 ## 📊 Statistik GitHub
+<!-- 📊 Kombo stats -->
 <p align="center">
+  <!-- GitHub Stats card -->
   <img
-    alt="GitHub Stats"
     src="https://github-readme-stats.vercel.app/api?username=bangkah&show_icons=true&theme=tokyonight&hide_border=true"
-    width="48%"
+    alt="GitHub Stats"
+    width="49%"
   />
+  <!-- Top Languages card -->
   <img
-    alt="Top Languages"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=bangkah&layout=compact&theme=tokyonight&hide_border=true"
-    width="48%"
+    alt="Top Languages"
+    width="49%"
   />
 </p>
-  <p align="center">
-  <img src="https://raw.githubusercontent.com/Bangkah/metrics/master/github-metrics.svg"
-       alt="GitHub Metrics"
-       width="480" />
+
+<!-- GitHub Metrics (ukuran asli agar tidak terpotong) -->
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/Bangkah/metrics/master/github-metrics.svg"
+    alt="GitHub Metrics"
+    width="480"
+  />
 </p>
 
 ---
