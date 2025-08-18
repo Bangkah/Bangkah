@@ -1,4 +1,3 @@
-<!-- Header animasi profesional -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F700,100:006400&height=120&section=header&text=Muhammad%20Dhiyaul%20Atha&fontSize=40&fontColor=ffffff&animation=fadeIn" alt="header" />
 </p>
@@ -31,15 +30,12 @@
 ---
 
 ## 📊 Statistik GitHub
-<!-- 📊 Kombo stats -->
 <p align="center">
-  <!-- GitHub Stats card -->
   <img
     src="https://github-readme-stats.vercel.app/api?username=bangkah&show_icons=true&theme=tokyonight&hide_border=true"
     alt="GitHub Stats"
     width="49%"
   />
-  <!-- Top Languages card -->
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=bangkah&layout=compact&theme=tokyonight&hide_border=true"
     alt="Top Languages"
@@ -47,7 +43,6 @@
   />
 </p>
 
-<!-- GitHub Metrics (ukuran asli agar tidak terpotong) -->
 <p align="center">
   <img
     src="https://raw.githubusercontent.com/Bangkah/metrics/master/github-metrics.svg"
@@ -55,7 +50,7 @@
     width="480"
   />
 </p>
-## 📬 Temukan Saya di
+##  📬 Temukan Saya di
 <p align="center">
   <a href="mailto:mdhyaulatha@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
