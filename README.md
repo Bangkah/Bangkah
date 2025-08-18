@@ -17,8 +17,9 @@
 ---
 
 ## 🛠️ Tech Stack
+<!-- 📊 Metrik GitHub real-time -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,linux,git,github,vscode" alt="Tech Stack" />
+  <img src="https://raw.githubusercontent.com/Bangkah/metrics/master/github-metrics.svg" alt="GitHub Metrics" width="100%" />
 </p>
 
 ---
