@@ -55,9 +55,6 @@
     width="480"
   />
 </p>
-
----
-
 ## 📬 Temukan Saya di
 <p align="center">
   <a href="mailto:mdhyaulatha@gmail.com">
