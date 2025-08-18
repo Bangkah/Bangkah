@@ -11,34 +11,44 @@
 
 ## 👨‍💻 Tentang Saya
 - 💡 Tech Enthusiast, suka eksplorasi teknologi baru  
-- 💻 Belajar Web Development & Linux Tools  
+- 💻 Belajar **Web Development**, **Linux Tools**, dan **Fullstack Development**  
 - 🚀 Selalu terbuka untuk kolaborasi & belajar hal baru  
+- 🌱 Saat ini fokus memperdalam **React.js**, **Node.js**, dan **Backend Development**  
 
 ---
 
 ## 🛠️ Tech Stack
-<!-- 📊 Metrik GitHub real-time -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Bangkah/metrics/master/github-metrics.svg" alt="GitHub Metrics" width="100%" />
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 ---
 
 ## 📊 Statistik GitHub
-![Metrics](https://raw.githubusercontent.com/Bangkah/metrics/master/metrics.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Bangkah/metrics/master/github-metrics.svg" alt="GitHub Metrics" width="100%" />
+</p>
+
 <p align="center">
   <img
     alt="GitHub Stats"
     src="https://github-readme-stats.vercel.app/api?username=bangkah&show_icons=true&theme=tokyonight&hide_border=true"
     width="48%"
   />
-  <br />
   <img
     alt="Top Languages"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=bangkah&layout=compact&theme=tokyonight&hide_border=true"
     width="48%"
   />
 </p>
+
 ---
 
 ## 📬 Temukan Saya di
@@ -55,11 +65,14 @@
   <a href="https://instagram.com/mdhiyaulatha">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
+  <a href="https://github.com/Bangkah">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </p>
 
 ---
 
-<!-- Footer -->
+<!-- Footer animasi -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00F700&height=100&section=footer" alt="footer" />
 </p>
