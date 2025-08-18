@@ -40,6 +40,7 @@
     width="48%"
     style="margin-right:2%"
   />
+  <br>
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=bangkah&layout=compact&theme=tokyonight&hide_border=true"
     alt="Top Languages"
@@ -85,5 +86,5 @@
 </p>
 
 <p align="center">
-  <i>Thank you for visiting! Please ⭐ this repository if you found it useful.</i>
+  <i>Terima kasih telah mengunjungi profil ini! Jangan lupa beri ⭐ jika bermanfaat.</i>
 </p>
