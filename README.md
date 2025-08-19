@@ -34,14 +34,12 @@
 
 ## GitHub Statistics
 <p align="center">
-  <!-- GitHub Stats - Auto refresh every 60 s -->
-<img
-    src="https://github-readme-stats.vercel.app/api?username=bangkah&show_icons=true&theme=tokyonight&hide_border=true atha&#39;s GitHub Stats, Rank: B- atha&#39;s GitHub Stats, Rank: B-  "
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=bangkah&show_icons=true&theme=tokyonight&hide_border=true"
     alt="GitHub Stats"
     width="48%"
     style="margin-right:2%"
   />
-  <br>
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=bangkah&layout=compact&theme=tokyonight&hide_border=true"
     alt="Top Languages"
