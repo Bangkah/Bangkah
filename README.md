@@ -15,7 +15,7 @@
 - Mahasiswa **Teknik Informatika**  
 - Selalu mengikuti perkembangan teknologi terbaru  
 - Penggemar **Linux** dan berbagai tool Linux  
-- Bahasa pemrograman utama: **PHP**, juga menguasai **JavaScript**  
+- Bahasa pemrograman utama: **PHP**, **JavaScript**  
 - Terbuka untuk kolaborasi dan pengembangan proyek teknologi  
 
 ---
@@ -35,7 +35,7 @@
 ## GitHub Statistics
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=bangkah&show_icons=true&theme=tokyonight&hide_border=true"
+    <img src="https://github-readme-stats.vercel.app/api?username=bangkah&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=60" alt="GitHub Stats" width="48%" style="margin-right:2%" />
     alt="GitHub Stats"
     width="48%"
     style="margin-right:2%"
