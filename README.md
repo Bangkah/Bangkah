@@ -50,7 +50,7 @@
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/Bangkah/metrics/master/github-metrics.svg"
+    src="https://raw.githubusercontent.com/Bangkah/metrics/master/metrics.svg"
     alt="GitHub Metrics"
     width="500"
     style="max-width:100%; height:auto;"
