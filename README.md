@@ -34,12 +34,24 @@
 
 ## GitHub Statistics
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=bangkah&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="GitHub Stats"
-    width="48%"
-    style="margin-right:2%"
-  />
+  <!-- GitHub Stats - Auto refresh every 60 s -->
+<img id="gh-stats"
+     src="https://github-readme-stats.vercel.app/api?username=bangkah&show_icons=true&theme=tokyonight&hide_border=true"
+     alt="GitHub Stats"
+     width="48%"
+     style="margin-right:2%;"
+/>
+
+<script>
+  (function () {
+    const img = document.getElementById('gh-stats');
+    function refresh() {
+      img.src = 'https://github-readme-stats.vercel.app/api?username=bangkah&show_icons=true&theme=tokyonight&hide_border=true&t=' + Date.now();
+    }
+    refresh();                 // pertama kali
+    setInterval(refresh, 60000); // tiap 60 detik
+  })();
+</script>
   <br>
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=bangkah&layout=compact&theme=tokyonight&hide_border=true"
