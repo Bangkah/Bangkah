@@ -35,7 +35,7 @@
 ## GitHub Statistics
 <p align="center">
   <img
-    <img src="https://github-readme-stats.vercel.app/api?username=bangkah&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=60" alt="GitHub Stats" width="48%" style="margin-right:2%" />
+     src="https://github-readme-stats.vercel.app/api?username=bangkah&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=60" alt="GitHub Stats" width="48%" style="margin-right:2%" 
     alt="GitHub Stats"
     width="48%"
     style="margin-right:2%"
