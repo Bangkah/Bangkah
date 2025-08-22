@@ -98,3 +98,7 @@
 <p align="center">
   <i>Terima kasih telah mengunjungi profil ini! Jangan lupa beri ⭐ jika bermanfaat.</i>
 </p>
+
+<p align="center">
+  <img src="https://yourdomain.com/contribution-anim.gif" alt="Contribution Animation" />
+</p>
