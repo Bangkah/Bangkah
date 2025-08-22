@@ -1,41 +1,16 @@
-name: Generate Snake
-
+name: GitHub Metrics
 on:
-  schedule:
-    - cron: "0 0 * * *"
+  schedule: [{cron: "0 */12 * * *"}] 
   workflow_dispatch:
-  push:
-    branches:
-      - main
-
-permissions:
-  contents: write
 
 jobs:
-  build:
+  github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repo
-        uses: actions/checkout@v4
-
-      - name: Generate snake SVG (light)
-        uses: Platane/snk/svg-only@v3
+      - uses: lowlighter/metrics@latest
         with:
-          github_user_name: Bangkah
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-
-      - name: Generate snake SVG (dark)
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: Bangkah
-          outputs: |
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - name: Push to 'output' branch
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: Bangkah
+          template: terminal
+          base: header, activity, community, repositories, metadata
+          config_timezone: Asia/Jakarta
