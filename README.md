@@ -102,3 +102,5 @@
 <p align="center">
   <img src="https://yourdomain.com/contribution-anim.gif" alt="Contribution Animation" />
 </p>
+
+![GitHub Snake Animation](https://github.com/Bangkah/Bangkah/blob/output/github-contribution-grid-snake.svg)
