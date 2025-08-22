@@ -5,6 +5,11 @@
   />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Bangkah&label=Visitors&color=0e75b6&style=flat" alt="visitor badge"/>
+</p>
+
+
 <h3 align="center">
   Tech Enthusiast | Linux Specialist | Web Developer
 </h3>
