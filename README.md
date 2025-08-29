@@ -53,20 +53,6 @@
   />
 </p>
 
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/Bangkah/metrics/master/metrics.svg"
-    alt="GitHub Metrics"
-    width="500"
-    style="max-width:100%; height:auto;"
-  />
-</p>
-
----
-## 🏆 Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bangkah&theme=tokyonight&margin-w=10&margin-h=10" alt="GitHub Achievements" />
-</p>
 
 
 ## Contact
