@@ -15,15 +15,14 @@
 
 ---
 
-## 👋 About Me  
+## 👋 About Me
 
-Halo! Nama saya **Muhammad Dhiyaul Atha**, seorang mahasiswa **Teknik Informatika** yang selalu bersemangat untuk belajar dan berkembang di dunia teknologi.  
+Halo! Saya adalah seorang mahasiswa Teknik Informatika yang senang mengikuti perkembangan teknologi terbaru. Sehari-hari saya banyak berinteraksi dengan Linux dan berbagai tool open-source, karena menurut saya dunia open-source selalu memberi peluang belajar tanpa batas.  
 
-Saya memiliki minat besar dalam **pengembangan web**, khususnya dengan teknologi **Laravel** untuk backend dan **React** untuk frontend. Saat ini saya terus memperdalam kedua framework tersebut, sekaligus tetap terbuka untuk mempelajari berbagai teknologi baru agar dapat mengikuti perkembangan industri ke depan.  
+Dalam pemrograman, saya sedang mendalami PHP dan JavaScript, serta mulai belajar bahasa Java untuk memperluas wawasan. Meskipun kemampuan saya masih terus berkembang, saya berusaha konsisten untuk melatih diri melalui berbagai proyek kecil maupun praktikum.  
 
-Selain itu, saya adalah **penggemar Linux** dan berbagai tool open-source yang mendukung produktivitas dan keamanan. Saya juga menguasai beberapa bahasa pemrograman seperti **PHP** dan **JavaScript**, serta sedang mempelajari **Java** untuk memperluas keahlian saya.  
+Saya juga terbuka untuk berkolaborasi dan ikut serta dalam pengembangan proyek teknologi, karena saya percaya dengan bekerja sama, kita bisa saling belajar dan tumbuh bersama. 
 
-Saya sangat terbuka untuk **kolaborasi** dalam pengembangan proyek teknologi, berbagi ilmu, maupun membangun solusi digital yang bermanfaat. 🚀  
  
 
 ---
