@@ -1,4 +1,6 @@
-
+<div align="center">
+  <i>Thanks for visiting my profile! Feel free to explore my repositories and connect with me.</i>
+</div>
 
 <br><p align="center">
   <img
@@ -27,6 +29,7 @@ Saat ini, saya banyak berlatih menggunakan bahasa pemrograman seperti **PHP** da
 Bagi saya, teknologi bukan hanya soal kode, tapi juga tentang kolaborasi. Karena itu, saya selalu terbuka untuk berdiskusi, berbagi pengetahuan, maupun mengembangkan proyek bersama orang lain. Saya percaya, dari kerja sama kita bisa belajar lebih cepat dan menciptakan sesuatu yang bermanfaat.
 
 ---
+
 ## 🛠️ Technical Skills
 
 <p align="center">
@@ -67,10 +70,15 @@ Bagi saya, teknologi bukan hanya soal kode, tapi juga tentang kolaborasi. Karena
 
 ---
 
-
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 ![Bangkah's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bangkah&show_icons=true&theme=radical)
+
+---
+
+### 📈 Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bangkah&layout=compact&theme=radical)
 
 ---
 
@@ -93,7 +101,7 @@ OS: Arch Linux
 Editor: Visual Studio Code
 Shell: Bash & Zsh
 Version Control: Git
-
+```
 
 ---
 
@@ -118,10 +126,6 @@ Version Control: Git
 </p>
 
 ---
-
-<div align="center">
-  <i>Thanks for visiting my profile! Feel free to explore my repositories and connect with me.</i>
-</div>
 
 <p align="center">
   <img
