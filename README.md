@@ -11,22 +11,24 @@
 </p>
 
 <div align="center">
-  <h3>Software Engineering Student | Full Stack Developer | Open Source Enthusiast</h3>
+  <h3>Software Engineering Student | Full Stack Learner | Linux Enthusiast</h3>
 </div>
 
 ---
 
-## About Me
+## 👋 About Me
 
-I am a dedicated Computer Science student with a strong passion for technology and continuous learning. My journey in the tech world revolves around exploring cutting-edge technologies, contributing to open-source projects, and building innovative solutions.
+Hi! My name is **Muhammad Dhiyaul Atha**, a Computer Science student who is passionate about technology and continuous learning.  
+I enjoy working with **Linux** and open-source tools, as they help me explore and understand how technology can be built collaboratively.  
 
-My expertise spans across web development with proficiency in **PHP** and **JavaScript**, while actively expanding my knowledge in **Java** for enterprise-level development. I thrive in Linux environments and believe in the power of open-source collaboration to drive technological advancement.
+Right now, I’m focusing on **full-stack web development** using **Laravel** and **React**, while also sharpening my skills in **PHP** and **JavaScript**.  
+At the same time, I’m learning **Java** to expand my knowledge in software development.  
 
-Currently focused on developing full-stack applications and contributing to meaningful projects that make a difference in the tech community.
+I may still be in the process of learning, but I believe every project I work on is a step toward becoming better and making meaningful contributions. 🚀  
 
 ---
 
-## Technical Skills
+## 🛠️ Technical Skills
 
 <p align="center">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
@@ -35,22 +37,22 @@ Currently focused on developing full-stack applications and contributing to mean
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/VSCode-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
 </p>
 
 ---
 
-## GitHub Statistics
+## 📊 GitHub Statistics
 
-<div align="center">
+<p align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=Bangkah&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" 
     alt="GitHub Stats"
@@ -61,71 +63,21 @@ Currently focused on developing full-stack applications and contributing to mean
     alt="Top Languages"
     height="180em"
   />
-</div>
+</p>
 
-<div align="center">
+<p align="center">
   <img 
     src="https://github-readme-streak-stats.herokuapp.com/?user=Bangkah&theme=tokyonight&hide_border=true"
     alt="GitHub Streak"
   />
-</div>
+</p>
 
 ---
 
-## Development Environment
+## 💻 Development Environment
 
 ```bash
 OS: Arch Linux
 Editor: Visual Studio Code
 Shell: Bash/Zsh
 Version Control: Git
-```
-
----
-
-## Current Focus
-
-- Building responsive web applications with modern frameworks
-- Contributing to open-source projects
-- Learning advanced Java concepts and design patterns
-- Exploring cloud technologies and DevOps practices
-
----
-
-## Connect With Me
-
-<p align="center">
-  <a href="mailto:mdhyaulatha@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://portfolio-bangkahs-projects.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/muhammad-dhyaul-atha/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://instagram.com/mdhiyaulatha">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://github.com/Bangkah">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:142D4C,50:9FD3C7,100:E1D5E7&height=100&section=footer"
-    alt="footer"
-  />
-</p>
-
-<div align="center">
-  <i>Thank you for visiting my profile! Feel free to explore my repositories and connect with me.</i>
-</div>
-
-<br>
-
-![GitHub Snake Light](https://github.com/Bangkah/Bangkah/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)  
-![GitHub Snake Dark](https://github.com/Bangkah/Bangkah/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
