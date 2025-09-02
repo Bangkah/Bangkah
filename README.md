@@ -82,15 +82,15 @@ Bagi saya, teknologi bukan hanya soal kode, tapi juga tentang kolaborasi. Karena
 
 ---
 
-<div align="center">
-  <i>Thanks for visiting my profile! Feel free to explore my repositories and connect with me.</i>
-</div>
 <p align="center">
   <img
     src="https://capsule-render.vercel.app/api?type=waving&color=0:142D4C,50:9FD3C7,100:E1D5E7&height=100&section=footer"
     alt="footer"
-    <p align="center">✨ "Belajar itu perjalanan, bukan perlombaan." ✨</p>
   />
+  <p align="center">✨ "Belajar itu perjalanan, bukan perlombaan." ✨</p>
+  <div align="center">
+  <i>Thanks for visiting my profile! Feel free to explore my repositories and connect with me.</i>
+</div>
 </p>
 
 ![GitHub Snake Light](https://github.com/Bangkah/Bangkah/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)  
