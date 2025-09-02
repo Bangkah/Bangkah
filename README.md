@@ -23,7 +23,7 @@ Currently, I’m focusing on sharpening my skills in **web development, database
 
 ---
 
-### 🛠️ Languages & Tools
+## 🛠️ Technical Skills
 <p align="center">
   <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
@@ -37,9 +37,14 @@ Currently, I’m focusing on sharpening my skills in **web development, database
 
 ---
 
-## 📊 GitHub Stats ![Bangkah's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bangkah&show_icons=true&theme=radical)
+## 📊 GitHub Stats
+![Bangkah's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bangkah&show_icons=true&theme=radical)
+
 --- 
-### 📈 Top Languages ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bangkah&layout=compact&theme=radical)
+
+### 📈 Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bangkah&layout=compact&theme=radical)
+
 ---
 
 ## 📫 Contact  
