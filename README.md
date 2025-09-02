@@ -11,22 +11,18 @@
 </p>
 
 <div align="center">
-  <h3>Computer Science Student | Web Developer | Linux Enthusiast</h3>
+  <h3>Computer Science Student | Web Developer</h3>
 </div>
 
 ---
 
 ## About Me
 
-I am a Computer Science student with a genuine interest in technology and software development. My learning journey focuses on web technologies and open-source systems, where I continue to develop my understanding through practical projects and academic coursework.
-
-Currently working with **PHP** and **JavaScript** for web development, while gradually expanding my knowledge in **Java**. I enjoy working in Linux environments and value the collaborative nature of open-source development.
-
-Always eager to learn from others and contribute to projects that help me grow as a developer.
+Computer Science student learning web development and open-source technologies. Currently working with PHP, JavaScript, and exploring Java.
 
 ---
 
-## Technologies I Work With
+## Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
@@ -48,7 +44,7 @@ Always eager to learn from others and contribute to projects that help me grow a
 
 ---
 
-## GitHub Statistics
+## GitHub Stats
 
 <div align="center">
   <img 
@@ -72,28 +68,7 @@ Always eager to learn from others and contribute to projects that help me grow a
 
 ---
 
-## Development Environment
-
-```bash
-OS: Arch Linux
-Editor: Visual Studio Code
-Shell: Bash
-Version Control: Git
-```
-
----
-
-## Currently Learning
-
-- Modern web development frameworks and best practices
-- Advanced Java programming concepts
-- Linux system administration
-- Database design and management
-- Software engineering principles
-
----
-
-## Connect With Me
+## Contact
 
 <p align="center">
   <a href="mailto:mdhyaulatha@gmail.com">
@@ -121,12 +96,6 @@ Version Control: Git
     alt="footer"
   />
 </p>
-
-<div align="center">
-  <i>Thank you for visiting my profile. I appreciate any feedback and opportunities to learn from the community.</i>
-</div>
-
-<br>
 
 ![GitHub Snake Light](https://github.com/Bangkah/Bangkah/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)  
 ![GitHub Snake Dark](https://github.com/Bangkah/Bangkah/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
