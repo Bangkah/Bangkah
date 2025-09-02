@@ -67,27 +67,22 @@ Bagi saya, teknologi bukan hanya soal kode, tapi juga tentang kolaborasi. Karena
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Bangkah&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" 
-    alt="GitHub Stats"
-    height="180em"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bangkah&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"
-    alt="Top Languages"
-    height="180em"
-  />
-</div>
+### 📊 GitHub Stats
 
-<div align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com?user=Bangkah&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
-  />
-</div>
+![Bangkah's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bangkah&show_icons=true&theme=radical)
+
+---
+
+### 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Bangkah&theme=radical)](https://github-profile-trophy.vercel.app/?username=Bangkah)
+
+---
+
+### 🔥 Streak Stats
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Bangkah&theme=radical)](https://git.io/streak-stats)
 
 ---
 
