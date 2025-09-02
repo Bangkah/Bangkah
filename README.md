@@ -17,8 +17,9 @@
 
 ## 👋 About Me
 
-I’m Muhammad Dhiyaul Atha, an informatics student who enjoys exploring open-source technologies.  
-My current focus is sharpening **PHP**, **JavaScript**, and **Java** skills while deepening my understanding of **Linux** ecosystems. I believe steady practice and collaboration accelerate growth, so I’m always open to constructive feedback and joint projects.
+I’m **Muhammad Dhiyaul Atha**, an enthusiastic **Informatics Engineering student** with a deep interest in technology and software development.  
+I love exploring programming languages, web development, and system optimization.  
+Currently, I’m focusing on sharpening my skills in **web development, databases, and open-source projects**, while also enjoying experimenting with **Linux systems**.  
 
 ---
 
@@ -39,6 +40,7 @@ My current focus is sharpening **PHP**, **JavaScript**, and **Java** skills whil
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Bangkah&show_icons=true&theme=tokyonight" alt="stats" height="165"/>
+  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bangkah&layout=compact&theme=tokyonight" alt="top langs" height="165"/>
 </p>
 
