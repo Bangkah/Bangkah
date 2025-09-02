@@ -1,4 +1,8 @@
-<p align="center">
+<div align="center">
+  <i>Thanks for visiting my profile! Feel free to explore my repositories and connect with me.</i>
+</div>
+
+<br><p align="center">
   <img
     src="https://capsule-render.vercel.app/api?type=waving&color=0:E1D5E7,50:9FD3C7,100:142D4C&height=180&section=header&text=Muhammad%20Dhiyaul%20Atha&fontSize=40&fontColor=ffffff&animation=fadeIn"
     alt="header"
@@ -11,18 +15,22 @@
 </p>
 
 <div align="center">
-  <h3>Computer Science Student | Web Developer</h3>
+  <h3>Software Engineering Student | Full Stack Learner | Linux Enthusiast</h3>
 </div>
 
 ---
 
-## About Me
+## 👋 About Me
 
-Computer Science student learning web development and open-source technologies. Currently working with PHP, JavaScript, and exploring Java.
+Halo! Nama saya **Muhammad Dhiyaul Atha**, seorang mahasiswa Teknik Informatika yang senang belajar hal-hal baru di dunia teknologi. Sejak awal kuliah, saya mulai tertarik dengan berbagai perkembangan teknologi, khususnya yang berkaitan dengan pemrograman dan sistem open-source. 
+
+Saat ini, saya banyak berlatih menggunakan bahasa pemrograman seperti **PHP** dan **JavaScript**, serta perlahan mulai mendalami **Java**. Meskipun kemampuan saya masih terus berkembang, saya menikmati setiap proses belajar yang saya jalani. Selain itu, saya juga cukup akrab dengan ekosistem **Linux** dan berbagai tool open-source yang membantu saya memahami dunia IT dengan lebih luas.  
+
+Bagi saya, teknologi bukan hanya soal kode, tapi juga tentang kolaborasi. Karena itu, saya selalu terbuka untuk berdiskusi, berbagi pengetahuan, maupun mengembangkan proyek bersama orang lain. Saya percaya, dari kerja sama kita bisa belajar lebih cepat dan menciptakan sesuatu yang bermanfaat.
 
 ---
 
-## Tech Stack
+## 🛠️ Technical Skills
 
 <p align="center">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
@@ -31,20 +39,20 @@ Computer Science student learning web development and open-source technologies. 
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
 </p>
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
   <img 
@@ -68,7 +76,27 @@ Computer Science student learning web development and open-source technologies. 
 
 ---
 
-## Contact
+## 💻 Development Environment
+
+```bash
+OS: Arch Linux
+Editor: Visual Studio Code
+Shell: Bash/Zsh
+Version Control: Git
+```
+
+---
+
+## 🌱 Current Focus
+
+- Building responsive web applications with Laravel & React
+- Contributing to open-source projects
+- Learning advanced Java concepts
+- Exploring cloud & DevOps basics
+
+---
+
+## 📫 Contact
 
 <p align="center">
   <a href="mailto:mdhyaulatha@gmail.com">
