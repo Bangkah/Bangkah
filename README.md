@@ -1,4 +1,5 @@
-<br><p align="center">
+<br>
+<p align="center">
   <img
     src="https://capsule-render.vercel.app/api?type=waving&color=0:E1D5E7,50:9FD3C7,100:142D4C&height=180&section=header&text=Muhammad%20Dhiyaul%20Atha&fontSize=40&fontColor=ffffff&animation=fadeIn"
     alt="header"
@@ -38,14 +39,20 @@ Currently, I’m focusing on sharpening my skills in **web development, database
 ---
 
 ## 📊 GitHub Stats
-![Bangkah's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bangkah&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bangkah&show_icons=true&theme=radical" alt="GitHub Stats"/>
+</p>
 
-  <img src="https://streak-stats.demolab.com/?user=Bangkah-f&theme=tokyonight
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Bangkah&theme=tokyonight" alt="GitHub Streak"/>
+</p>
 
---- 
+---
 
-### 📈 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bangkah&layout=compact&theme=radical)
+## 📈 Top Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bangkah&layout=compact&theme=radical" alt="Top Languages"/>
+</p>
 
 ---
 
@@ -75,11 +82,14 @@ Currently, I’m focusing on sharpening my skills in **web development, database
     src="https://capsule-render.vercel.app/api?type=waving&color=0:142D4C,50:9FD3C7,100:E1D5E7&height=100&section=footer"
     alt="footer"
   />
-  <p align="center">✨ "Small steps, steady growth." ✨</p>
-  <div align="center">
-    <i>Thanks for visiting my profile! Feel free to explore my repositories and connect with me.</i>
-  </div>
 </p>
 
-![GitHub Snake Light](https://github.com/Bangkah/Bangkah/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+<p align="center">✨ "Small steps, steady growth." ✨</p>
+<div align="center">
+  <i>Thanks for visiting my profile! Feel free to explore my repositories and connect with me.</i>
+</div>
+
+---
+
+![GitHub Snake Light](https://github.com/Bangkah/Bangkah/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)  
 ![GitHub Snake Dark](https://github.com/Bangkah/Bangkah/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
