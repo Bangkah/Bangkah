@@ -40,6 +40,8 @@ Currently, I’m focusing on sharpening my skills in **web development, database
 ## 📊 GitHub Stats
 ![Bangkah's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bangkah&show_icons=true&theme=radical)
 
+  <img src="https://streak-stats.demolab.com/?user=Bangkah-f&theme=tokyonight
+
 --- 
 
 ### 📈 Top Languages
