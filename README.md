@@ -40,26 +40,27 @@ Currently, I’m focusing on sharpening my skills in **web development, database
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bangkah&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Bangkah&show_icons=true&theme=radical" alt="GitHub Stats" width="450"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Bangkah&theme=tokyonight" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=Bangkah&theme=tokyonight" alt="GitHub Streak" width="450"/>
 </p>
 
 ---
 
 ## 📈 Top Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bangkah&layout=compact&theme=radical" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bangkah&layout=compact&theme=radical" alt="Top Languages" width="400"/>
 </p>
 
 ---
 
 ## 📈 Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bangkah&theme=tokyo-night" alt="Contribution Graph of Muhammad Dhiyaul Atha"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bangkah&theme=tokyo-night" alt="Contribution Graph of Muhammad Dhiyaul Atha" width="800"/>
 </p>
+
 ---
 
 ## 📫 Contact  
