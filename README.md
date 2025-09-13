@@ -56,6 +56,11 @@ Currently, I’m focusing on sharpening my skills in **web development, database
 
 ---
 
+### 📈 Contribution Graph
+[![Rosan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Bangkah-f&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
 ## 📫 Contact  
 <p align="center">
   <a href="mailto:mdhyaulatha@gmail.com">
