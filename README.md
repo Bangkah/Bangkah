@@ -56,9 +56,9 @@ Currently, I’m focusing on sharpening my skills in **web development, database
 
 ---
 
-### 📈 Contribution Graph
+## 📈 Contribution Graph
 <p align="center">
-[![Rosan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Bangkah&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bangkah&theme=tokyo-night" alt="Contribution Graph of Muhammad Dhiyaul Atha"/>
 </p>
 ---
 
