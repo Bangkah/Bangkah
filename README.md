@@ -46,6 +46,7 @@ Currently, I’m focusing on sharpening my skills in **web development, database
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Bangkah&theme=tokyonight" alt="GitHub Streak" width="450"/>
 </p>
+https://streak-stats.demolab.com?user=Bangkah&theme=tokyonight
 
 ---
 
@@ -54,7 +55,7 @@ Currently, I’m focusing on sharpening my skills in **web development, database
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bangkah&layout=compact&theme=radical&cache_seconds=3600" alt="Top Languages" width="450"/>
 </p>
 
----
+--- 
 
 ## 📈 Contribution Graph
 <p align="center">
