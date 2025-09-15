@@ -46,7 +46,7 @@ Currently, I’m focusing on sharpening my skills in **web development, database
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Bangkah&theme=tokyonight" alt="GitHub Streak" width="450"/>
 </p>
-https://streak-stats.demolab.com?user=Bangkah&theme=tokyonight
+
 
 ---
 
