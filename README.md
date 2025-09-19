@@ -102,6 +102,8 @@ Currently, I’m focusing on sharpening my skills in **web development, database
   <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee"/>
 </a>
 
+---
+
 <p align="center">✨ "Small steps, steady growth." ✨</p>
 <div align="center">
   <i>Thanks for visiting my profile! Feel free to explore my repositories and connect with me.</i>
