@@ -92,9 +92,14 @@ Currently, I’m focusing on sharpening my skills in **web development, database
 
 ## 💖 Support Me
 
-[![Sponsor](https://img.shields.io/badge/Sponsor-%E2%9D%A4-red?style=for-the-badge)](https://github.com/sponsors/Bangkah)
 <a href="https://github.com/sponsors/Bangkah">
-  <img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=ea4aaa" alt="Sponsor Me" />
+  <img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-red?style=for-the-badge&logo=github-sponsors" alt="Sponsor on GitHub"/>
+</a>
+<a href="https://saweria.co/mdhyaulatha">
+  <img src="https://img.shields.io/badge/Saweria-43B581?style=for-the-badge&logo=kofi&logoColor=white" alt="Saweria"/>
+</a>
+<a href="https://www.buymeacoffee.com/atha">
+  <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee"/>
 </a>
 
 <p align="center">✨ "Small steps, steady growth." ✨</p>
