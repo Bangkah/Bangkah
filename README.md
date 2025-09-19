@@ -90,6 +90,11 @@ Currently, I’m focusing on sharpening my skills in **web development, database
 
 ---
 
+## 💖 Support Me
+
+[![Sponsor](https://img.shields.io/badge/Sponsor-%E2%9D%A4-red?style=for-the-badge)](https://github.com/sponsors/Bangkah)
+
+
 <p align="center">
   <img
     src="https://capsule-render.vercel.app/api?type=waving&color=0:142D4C,50:9FD3C7,100:E1D5E7&height=100&section=footer"
