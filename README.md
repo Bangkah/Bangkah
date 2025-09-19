@@ -1,13 +1,12 @@
-
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:E1D5E7,50:9FD3C7,100:142D4C&height=180&section=header&text=Muhammad%20Dhiyaul%20Atha&fontSize=40&fontColor=ffffff&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:E1D5E7 ,50:9FD3C7,100:142D4C&height=180&section=header&text=Muhammad%20Dhiyaul%20Atha&fontSize=40&fontColor=ffffff&animation=fadeIn"
     alt="header"
   />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Bangkah&label=Profile%20Views&color=0e75b6&style=flat-square" alt="visitor badge"/>
+  <img src="https://komarev.com/ghpvc/?username=Bangkah&label=Profile%20Views&color=0e75b6&style=flat-square " alt="visitor badge"/>
 </p>
 
 <div align="center">
@@ -26,46 +25,46 @@ Currently, I’m focusing on sharpening my skills in **web development, database
 
 ## 🛠️ Technical Skills
 <p align="center">
-  <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white "/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white "/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black "/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white "/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white "/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white "/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white "/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white "/>
 </p>
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bangkah&show_icons=true&theme=radical&cache_seconds=3600" alt="GitHub Stats" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Bangkah&show_icons=true&theme=radical&cache_seconds=3600 " alt="GitHub Stats" width="450"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Bangkah&theme=tokyonight"/>
+  <img src="https://streak-stats.demolab.com?user=Bangkah&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
 </p>
 
 ---
 
 ## 📈 Top Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bangkah&layout=compact&theme=radical&cache_seconds=3600" alt="Top Languages" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bangkah&layout=compact&theme=radical&cache_seconds=3600 " alt="Top Languages" width="450"/>
 </p>
 
 --- 
 
 ## 📈 Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bangkah&theme=tokyo-night" alt="Contribution Graph of Muhammad Dhiyaul Atha" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bangkah&theme=tokyo-night " alt="Contribution Graph of Muhammad Dhiyaul Atha" width="100%"/>
 </p>
 
 ---
 
 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Bangkah&theme=tokyonight&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Bangkah&theme=tokyonight&row=1&column=6 " />
 </p>
 
 ---
@@ -73,19 +72,19 @@ Currently, I’m focusing on sharpening my skills in **web development, database
 ## 📫 Contact  
 <p align="center">
   <a href="mailto:mdhyaulatha@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white " alt="Gmail"/>
   </a>
-  <a href="https://portfolio-bangkahs-projects.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  <a href="https://portfolio-bangkahs-projects.vercel.app/ ">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white " alt="Portfolio"/>
   </a>
-  <a href="https://www.linkedin.com/in/muhammad-dhyaul-atha/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/muhammad-dhyaul-atha/ ">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white " alt="LinkedIn"/>
   </a>
-  <a href="https://instagram.com/mdhiyaulatha">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  <a href="https://instagram.com/mdhiyaulatha ">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white " alt="Instagram"/>
   </a>
-  <a href="https://github.com/Bangkah">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <a href="https://github.com/Bangkah ">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white " alt="GitHub"/>
   </a>
 </p>
 
@@ -93,7 +92,7 @@ Currently, I’m focusing on sharpening my skills in **web development, database
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:142D4C,50:9FD3C7,100:E1D5E7&height=100&section=footer"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:142D4C ,50:9FD3C7,100:E1D5E7&height=100&section=footer"
     alt="footer"
   />
 </p>
@@ -105,5 +104,5 @@ Currently, I’m focusing on sharpening my skills in **web development, database
 
 ---
 
-![GitHub Snake Light](https://github.com/Bangkah/Bangkah/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)  
-![GitHub Snake Dark](https://github.com/Bangkah/Bangkah/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![GitHub Snake Light](https://github.com/Bangkah/Bangkah/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only )  
+![GitHub Snake Dark](https://github.com/Bangkah/Bangkah/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only )
