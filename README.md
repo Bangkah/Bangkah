@@ -90,6 +90,12 @@ Currently, I’m focusing on sharpening my skills in **web development, database
 
 ---
 
+## 💖 Support Me
+
+[![Sponsor](https://img.shields.io/badge/Sponsor-%E2%9D%A4-red?style=for-the-badge)](https://github.com/sponsors/Bangkah)
+<a href="https://github.com/sponsors/Bangkah">
+  <img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=ea4aaa" alt="Sponsor Me" />
+</a>
 
 <p align="center">✨ "Small steps, steady growth." ✨</p>
 <div align="center">
