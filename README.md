@@ -87,7 +87,7 @@ Currently, I’m focusing on sharpening my skills in **web development, database
 ---
 
 ## 💖 Support Me
-
+<p align+"center">
 <a href="https://github.com/sponsors/Bangkah">
   <img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-red?style=for-the-badge&logo=github-sponsors" alt="Sponsor on GitHub"/>
 </a>
@@ -97,7 +97,7 @@ Currently, I’m focusing on sharpening my skills in **web development, database
 <a href="https://www.buymeacoffee.com/atha">
   <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee"/>
 </a>
-
+</p>
 ---
 
 <p align="center">✨ "Small steps, steady growth." ✨</p>
