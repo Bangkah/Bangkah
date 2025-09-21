@@ -65,6 +65,11 @@ Currently, I’m focusing on sharpening my skills in **web development, database
 
 ---
 
+## ⏱️ WakaTime Stats
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+
 ## 📫 Contact  
 <p align="center">
   <a href="mailto:mdhyaulatha@gmail.com">
@@ -100,10 +105,6 @@ Currently, I’m focusing on sharpening my skills in **web development, database
 </p>
 
 ---
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
 
 <p align="center">✨ "Small steps, steady growth." ✨</p>
 <div align="center">
