@@ -101,6 +101,10 @@ Currently, I’m focusing on sharpening my skills in **web development, database
 
 ---
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+
 <p align="center">✨ "Small steps, steady growth." ✨</p>
 <div align="center">
   <i>Thanks for visiting my profile! Feel free to explore my repositories and connect with me.</i>
