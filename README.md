@@ -36,34 +36,27 @@ Currently, I’m focusing on sharpening my skills in **web development, database
 </p>
 
 ---
+
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Bangkah&show_icons=true&theme=tokyonight&cache_seconds=1" alt="GitHub Stats" width="450"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Bangkah&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="450" />
 </p>
 
----
-
 ## 📈 Top Languages
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bangkah&layout=compact&theme=tokyonight&langs_count=200" width="450"/>
 </p>
-
----
 
 ## 📊 Contribution Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bangkah&theme=tokyo-night" alt="Contribution Graph of Muhammad Dhiyaul Atha" width="100%"/>
 </p>
 
----
-
 ## 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Bangkah&theme=tokyonight&row=1&column=6" alt="GitHub Trophies"/>
 </p>
-
----
 
 ## ⏱️ WakaTime Stats
 <!--START_SECTION:waka-->
