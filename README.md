@@ -45,7 +45,7 @@ Currently, I’m focusing on sharpening my skills in **web development, database
 
 ## 📈 Top Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bangkah&layout=compact&theme=tokyonight&langs_count=200" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bangkah&layout=compact&theme=tokyonight&langs_count=100" width="450"/>
 </p>
 
 ## 📊 Contribution Graph
