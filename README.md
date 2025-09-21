@@ -60,6 +60,13 @@ Currently, I’m focusing on sharpening my skills in **web development, database
 
 ## ⏱️ WakaTime Stats
 <!--START_SECTION:waka-->
+
+```txt
+From: 13 September 2025 - To: 20 September 2025
+
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 
