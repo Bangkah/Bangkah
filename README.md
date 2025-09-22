@@ -45,7 +45,7 @@ Currently, I’m focusing on sharpening my skills in **web development, database
 
 ## 📈 Top Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bangkah&layout=compact&theme=tokyonight&langs_count=100" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bangkah&layout=compact&theme=tokyonight&langs_count=60" width="450"/>
 </p>
 
 ## 📊 Contribution Graph
@@ -55,7 +55,7 @@ Currently, I’m focusing on sharpening my skills in **web development, database
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Bangkah&theme=tokyonight&row=1&column=6" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Bangkah&theme=tokyonight&row=1&column=7" alt="GitHub Trophies"/>
 </p>
 
 ## ⏱️ WakaTime Stats
