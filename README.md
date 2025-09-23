@@ -62,15 +62,15 @@ Currently, I’m focusing on sharpening my skills in **web development, database
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 September 2025 - To: 22 September 2025
+From: 16 September 2025 - To: 23 September 2025
 
-Total Time: 33 mins
+Total Time: 3 hrs 40 mins
 
-Other                              1 hr 7 mins     ████████████████▓░░░░░░░░   66.54 %
-YAML                               9 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.02 %
-Kotlin                             7 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 %
-Markdown                           6 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.41 %
-Git Config                         4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 %
+Other                              4 hrs 39 mins   ██████████████░░░░░░░░░░░   55.88 %
+Java                               1 hr 47 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.49 %
+PHP                                30 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.19 %
+Markdown                           27 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.56 %
+Blade Template                     12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.60 %
 ```
 
 <!--END_SECTION:waka-->
