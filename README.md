@@ -5,8 +5,6 @@
   />
 </p>
 
-[![An image of @bangkah's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/bangkah)](https://holopin.io/@bangkah)
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Bangkah&label=Profile%20Views&color=0e75b6&style=flat-square" alt="visitor badge"/>
 </p>
@@ -24,6 +22,13 @@ I love exploring programming languages, web development, and system optimization
 Currently, I’m focusing on sharpening my skills in **web development, databases, and open-source projects**, while also enjoying experimenting with **Linux systems**.  
 
 ---
+
+
+
+## 🌟 Holopin Badges
+
+[![An image of @bangkah's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/bangkah)](https://holopin.io/@bangkah)
+
 
 ## 🛠️ Technical Skills
 <p align="center">
