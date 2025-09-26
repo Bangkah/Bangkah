@@ -5,6 +5,8 @@
   />
 </p>
 
+[![An image of @bangkah's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/bangkah)](https://holopin.io/@bangkah)
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Bangkah&label=Profile%20Views&color=0e75b6&style=flat-square" alt="visitor badge"/>
 </p>
