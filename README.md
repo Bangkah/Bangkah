@@ -57,7 +57,7 @@ Currently, I’m focusing on sharpening my skills in **web development, database
 
 ## 📊 Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bangkah&theme=tokyo-night" alt="Contribution Graph of Muhammad Dhiyaul Atha" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bangkah&theme=tokyo-night&cache_seconds=1" alt="Contribution Graph of Muhammad Dhiyaul Atha" width="100%"/>
 </p>
 
 ## 🏆 GitHub Trophies
