@@ -62,7 +62,7 @@ Currently, I’m focusing on sharpening my skills in **web development, database
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Bangkah&theme=tokyonight&row=1&column=9" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Bangkah&theme=tokyonight&row=1&column=8" alt="GitHub Trophies"/>
 </p>
 
 ## ⏱️ WakaTime Stats
