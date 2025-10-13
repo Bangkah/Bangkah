@@ -104,6 +104,17 @@ PHP              29 mins         █░░░░░░░░░░░░░░�
 
 ---
 
+## ✍️ Quote of the Day
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" alt="Quote"/>
+</p>
+
+## 🔝 Top Contributed Repo
+<div align="center">
+<img src="https://github-contributor-stats.vercel.app/api?username=AnjaliRayyy&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
+</div>
+
 ## 💖 Support Me
 <p align="center">
 <a href="https://github.com/sponsors/Bangkah">
