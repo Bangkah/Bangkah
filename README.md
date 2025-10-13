@@ -112,7 +112,7 @@ PHP              29 mins         █░░░░░░░░░░░░░░�
 
 ## 🔝 Top Contributed Repo
 <div align="center">
-<img src="https://github-contributor-stats.vercel.app/api?username=Bangkah&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
+<img src="https://github-contributor-stats.vercel.app/api?username=Bangkah&limit=3&theme=dark&combine_all_yearly_contributions=true"/>
 </div>
 
 ## 💖 Support Me
