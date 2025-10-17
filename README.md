@@ -70,15 +70,15 @@ Currently, I’m focusing on sharpening my skills in **web development, database
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 October 2025 - To: 16 October 2025
+From: 10 October 2025 - To: 17 October 2025
 
 Total Time: 1 hr 42 mins
 
-Other        5 hrs 52 mins   ███████████████████▒░░░░░   77.55 %
-Java         1 hr 18 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.28 %
-JavaScript   10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.39 %
-Bash         7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 %
-Solidity     2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
+Other        10 hrs 11 mins  █████████████████████▒░░░   85.68 %
+Java         1 hr 18 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.02 %
+JavaScript   10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 %
+Bash         7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
+Solidity     2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
 ```
 
 <!--END_SECTION:waka-->
