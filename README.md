@@ -47,7 +47,7 @@ Currently, I’m focusing on sharpening my skills in **web development, database
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Bangkah&show_icons=true&theme=tokyonight&cache&seconds=3" alt="GitHub Stats" width="450"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Bangkah&theme=tokyonight&hide_border=true&cache_seconds=2" alt="GitHub Streak" width="450" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Bangkah&theme=tokyonight&hide_border=true&cache_seconds=3" alt="GitHub Streak" width="450" />
 </p>
 
 ## 📈 Top Languages
