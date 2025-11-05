@@ -69,15 +69,15 @@ Currently, I’m focusing on sharpening my skills in **web development, database
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 October 2025 - To: 04 November 2025
+From: 29 October 2025 - To: 05 November 2025
 
-Total Time: 2 hrs 42 mins
+Total Time: 3 hrs 21 mins
 
-Other              38 hrs 29 mins  ███████████████████████▒░   93.44 %
-Python             1 hr 43 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 %
-JavaScript         45 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.84 %
-PostScript         7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
-Roff               2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
+Other              35 hrs 30 mins  ███████████████████████░░   91.37 %
+Python             1 hr 43 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 %
+SQL                52 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.24 %
+JavaScript         31 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 %
+PostScript         7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
 ```
 
 <!--END_SECTION:waka-->
