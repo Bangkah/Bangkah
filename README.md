@@ -1,4 +1,4 @@
-<p align="center">
+<!-- <p align="center">
   <img
     src="https://capsule-render.vercel.app/api?type=waving&color=0:E1D5E7,50:9FD3C7,100:142D4C&height=180&section=header&text=Muhammad%20Dhiyaul%20Atha&fontSize=40&fontColor=ffffff&animation=fadeIn"
     alt="header"
@@ -138,4 +138,4 @@ Python   0 secs          ░░░░░░░░░░░░░░░░░░�
 ---
 
 ![GitHub Snake Light](https://github.com/Bangkah/Bangkah/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)  
-![GitHub Snake Dark](https://github.com/Bangkah/Bangkah/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![GitHub Snake Dark](https://github.com/Bangkah/Bangkah/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only) -->
