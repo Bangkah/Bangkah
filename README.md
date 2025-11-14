@@ -68,7 +68,17 @@ Currently, I’m focusing on sharpening my skills in **web development, database
 ## ⏱️ WakaTime Stats
 <!--START_SECTION:waka-->
 
+```txt
+From: 06 November 2025 - To: 13 November 2025
 
+Total Time: 1 hr 25 mins
+
+Other    25 hrs 36 mins  ███████████████████████▓░   94.72 %
+SQL      59 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 %
+CSS      25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.60 %
+Dotenv   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Python   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+```
 
 <!--END_SECTION:waka-->
 
