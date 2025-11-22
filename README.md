@@ -126,7 +126,7 @@ No activity tracked
 
 ---
 
-<p align="center">✨ "Small steps, steady growth." ✨</p>
+<p align="center">✨ "Kamu bukan orang baik, tapi jangan pernah menjadi orang jahat" ✨</p>
 <div align="center">
   <i>Thanks for visiting my profile! Feel free to explore my repositories and connect with me.</i>
 </div>
