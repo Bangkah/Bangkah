@@ -138,8 +138,9 @@ No activity tracked
 
 ---
 
-<!-- GitHub Contribution Snake -->
+<!-- GitHub Contribution Snake 
 ![GitHub Snake Light](github-contribution-grid-snake.svg)
 ![GitHub Snake Dark](github-contribution-grid-snake-dark.svg)
 ---
 
+-->
