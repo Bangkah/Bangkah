@@ -17,7 +17,7 @@ jobs:
       - name: Generate GitHub Contribution Snake
         uses: platane/snk@v0.2.0
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.SNAKE_TOKEN }}
           output: ./github-contribution-grid-snake.svg
           dark_output: ./github-contribution-grid-snake-dark.svg
 
