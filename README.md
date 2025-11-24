@@ -138,5 +138,10 @@ No activity tracked
 
 ---
 
-![GitHub Snake Light](https://github.com/Bangkah/Bangkah/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)  
-![GitHub Snake Dark](https://github.com/Bangkah/Bangkah/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+<!-- GitHub Contribution Snake -->
+<p align="center">
+  <!-- Light Mode -->
+  <img src="https://github.com/Bangkah/Bangkah/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="GitHub Snake Light"/>
+  <!-- Dark Mode -->
+  <img src="https://github.com/Bangkah/Bangkah/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub Snake Dark"/>
+</p>
