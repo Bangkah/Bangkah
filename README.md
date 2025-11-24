@@ -140,7 +140,7 @@ No activity tracked
 
 <!-- GitHub Contribution Snake -->
 <p align="center">
- ![GitHub Snake Light](github-contribution-grid-snake.svg#gh-light-mode-only)
- ![GitHub Snake Dark](github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+     ![GitHub Snake Light](github-contribution-grid-snake.svg#gh-light-mode-only)
+     ![GitHub Snake Dark](github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 </p>
