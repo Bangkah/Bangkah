@@ -66,7 +66,7 @@ Currently, I’m focusing on sharpening my skills in **web development, database
 ## ⏱️ WakaTime Stats
 <!--START_SECTION:waka-->
 
-```txt
+```
 From: 19 November 2025 - To: 26 November 2025
 
 Total Time: 0 secs
