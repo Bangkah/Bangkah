@@ -3,6 +3,8 @@
 namespace Bangkah\Starter\Services;
 
 use Illuminate\Filesystem\Filesystem;
+use Illuminate\Support\Facades\Log;
+use Exception;
 
 class DockerService
 {
@@ -15,6 +17,12 @@ class DockerService
         $useNginx = (bool)($opts['nginx'] ?? false);
         $db = ($opts['db'] ?? 'mysql');
         $frontend = strtolower((string)($opts['frontend'] ?? 'none'));
+
+        Log::info('[Bangkah] Generating Docker configuration', [
+            'nginx' => $useNginx,
+            'database' => $db,
+            'frontend' => $frontend
+        ]);
 
         $services = [];
         $this->generateDockerfile($targetPath);
@@ -39,20 +47,68 @@ class DockerService
         $compose = $this->renderCompose($services);
 
         $this->files->put($targetPath.'/docker-compose.yml', $compose);
+        Log::info('[Bangkah] Created docker-compose.yml');
 
         if ($useNginx) {
-            $this->ensureDir($targetPath.'/docker/nginx');
-            $this->files->copy($this->stubsPath('nginx/nginx.conf.stub'), $targetPath.'/docker/nginx/nginx.conf');
+            $this->copyNginxConfig($targetPath);
         }
+    }
+
+    private function copyNginxConfig(string $targetPath): void
+    {
+        $this->ensureDir($targetPath.'/docker/nginx');
+        
+        $stubPath = $this->stubsPath('nginx/nginx.conf.stub');
+        
+        // Check if stub exists
+        if (!$this->files->exists($stubPath)) {
+            Log::warning('[Bangkah] Nginx stub not found, creating default config');
+            // Create default nginx config if stub doesn't exist
+            $defaultConfig = $this->getDefaultNginxConfig();
+            $this->files->put($targetPath.'/docker/nginx/nginx.conf', $defaultConfig);
+        } else {
+            $this->files->copy($stubPath, $targetPath.'/docker/nginx/nginx.conf');
+        }
+        
+        Log::info('[Bangkah] Nginx configuration created');
+    }
+
+    private function getDefaultNginxConfig(): string
+    {
+        return <<<'NGINX'
+server {
+    listen 80;
+    server_name localhost;
+    root /var/www/html/public;
+    index index.php index.html;
+
+    location / {
+        try_files $uri $uri/ /index.php?$query_string;
+    }
+
+    location ~ \.php$ {
+        fastcgi_pass app:9000;
+        fastcgi_index index.php;
+        fastcgi_param SCRIPT_FILENAME $document_root$fastcgi_script_name;
+        include fastcgi_params;
+    }
+
+    location ~ /\.ht {
+        deny all;
+    }
+}
+NGINX;
     }
 
     public function generateDockerfile(string $targetPath): void
     {
         $dockerfile = $targetPath.'/Dockerfile';
         if ($this->files->exists($dockerfile)) {
+            Log::info('[Bangkah] Dockerfile already exists, skipping');
             return;
         }
 
+        // Enhanced Dockerfile with better error handling and build caching
         $content = <<<'DOCKER'
 # syntax=docker/dockerfile:1
 
@@ -61,30 +117,61 @@ FROM composer:2 AS composer
 FROM php:8.4-fpm AS php-base
 RUN apt-get update \
     && apt-get install -y --no-install-recommends \
-        git unzip libpq-dev libzip-dev \
-    && docker-php-ext-install pdo pdo_mysql pdo_pgsql \
+        git unzip libpq-dev libzip-dev libonig-dev \
+    && docker-php-ext-install pdo pdo_mysql pdo_pgsql mbstring \
     && rm -rf /var/lib/apt/lists/*
 WORKDIR /var/www/html
 COPY --from=composer /usr/bin/composer /usr/bin/composer
 
 FROM php:8.4-cli AS php-cli
 RUN apt-get update \
-    && apt-get install -y --no-install-recommends git unzip libpq-dev libzip-dev \
-    && docker-php-ext-install pdo pdo_mysql pdo_pgsql \
+    && apt-get install -y --no-install-recommends \
+        git unzip libpq-dev libzip-dev libonig-dev \
+    && docker-php-ext-install pdo pdo_mysql pdo_pgsql mbstring \
     && rm -rf /var/lib/apt/lists/*
 WORKDIR /var/www/html
 COPY --from=composer /usr/bin/composer /usr/bin/composer
+
+# Copy composer files first for better layer caching
+COPY composer.json composer.lock ./
+
+# Install dependencies (will be cached if composer files haven't changed)
+RUN composer install --no-interaction --prefer-dist --no-progress --no-dev --no-scripts --no-autoloader
+
+# Copy application code
 COPY . .
-RUN composer install --no-interaction --prefer-dist --no-progress
+
+# Complete the composer installation with autoloader
+RUN composer install --no-interaction --prefer-dist --no-progress --no-dev --optimize-autoloader \
+    && php artisan config:cache || true \
+    && php artisan route:cache || true
 
 FROM php-base AS php-fpm
+
+# Copy composer files first for better layer caching
+COPY composer.json composer.lock ./
+
+# Install dependencies
+RUN composer install --no-interaction --prefer-dist --no-progress --no-dev --no-scripts --no-autoloader
+
+# Copy application code
 COPY . .
-RUN composer install --no-interaction --prefer-dist --no-progress \
-    && chown -R www-data:www-data storage bootstrap/cache
+
+# Complete installation and set permissions
+RUN composer install --no-interaction --prefer-dist --no-progress --no-dev --optimize-autoloader \
+    && mkdir -p storage/framework/{sessions,views,cache} \
+    && mkdir -p storage/logs \
+    && mkdir -p bootstrap/cache \
+    && chown -R www-data:www-data storage bootstrap/cache \
+    && chmod -R 775 storage bootstrap/cache \
+    && php artisan config:cache || true \
+    && php artisan route:cache || true
+
 CMD ["php-fpm"]
 DOCKER;
 
         $this->files->put($dockerfile, $content);
+        Log::info('[Bangkah] Dockerfile generated successfully');
     }
 
     private function phpCliService(): array
