@@ -1,0 +1,32 @@
+{
+  "name": "bangkah/bangkah",
+  "description": "Bangkah Laravel starter kit: interactive scaffolding, Docker, templates",
+  "type": "library",
+  "license": "MIT",
+  "keywords": ["laravel", "starter-kit", "scaffolding", "docker", "nginx", "laravel-12", "cli", "templates", "boilerplate"],
+  "homepage": "https://github.com/Bangkah/bangkah-launcher",
+  "bin": ["bin/bangkah"],
+  "autoload": {
+    "psr-4": {
+      "Bangkah\\Starter\\": "src/"
+    }
+  },
+  "extra": {
+    "laravel": {
+      "providers": [
+        "Bangkah\\Starter\\BangkahServiceProvider"
+      ]
+    }
+  },
+  "require": {
+    "php": ">=8.2",
+    "illuminate/support": "^11.0|^12.0",
+    "illuminate/console": "^11.0|^12.0",
+    "symfony/process": "^7.0|^6.4"
+  },
+  "require-dev": {
+    "composer/composer": "^2.0"
+  },
+  "minimum-stability": "stable",
+  "prefer-stable": true
+}
