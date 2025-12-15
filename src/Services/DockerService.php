@@ -15,15 +15,17 @@ class DockerService
         $useNginx = (bool)($opts['nginx'] ?? false);
         $db = ($opts['db'] ?? 'mysql');
         $frontend = strtolower((string)($opts['frontend'] ?? 'none'));
+        $prod = (bool)($opts['production'] ?? true);
 
         $services = [];
         $this->generateDockerfile($targetPath);
+        $this->generateDockerignore($targetPath);
 
         if ($useNginx) {
-            $services['app'] = $this->phpFpmService();
+            $services['app'] = $this->phpFpmService($prod);
             $services['nginx'] = $this->nginxService();
         } else {
-            $services['app'] = $this->phpCliService();
+            $services['app'] = $this->phpCliService($prod);
         }
 
         if ($db === 'mysql') {
@@ -91,7 +93,7 @@ DOCKER;
         $this->files->put($dockerfile, $content);
     }
 
-    private function phpCliService(): array
+    private function phpCliService(bool $production = true): array
     {
         return [
             'build' => [
@@ -103,8 +105,8 @@ DOCKER;
             'ports' => ['8000:8000'],
             'volumes' => ['.:/var/www/html'],
             'environment' => [
-                'APP_ENV=local',
-                'APP_DEBUG=true',
+                $production ? 'APP_ENV=production' : 'APP_ENV=local',
+                $production ? 'APP_DEBUG=false' : 'APP_DEBUG=true',
                 'APP_URL=http://localhost:8000',
                 'SESSION_DRIVER=file',
                 'DB_CONNECTION=mysql',
@@ -114,12 +116,20 @@ DOCKER;
                 'DB_USERNAME=root',
                 'DB_PASSWORD=',
             ],
-            'command' => 'sh -lc "if [ ! -f .env ]; then cp .env.example .env; fi; php artisan key:generate --force; php artisan serve --host=0.0.0.0 --port=8000"',
+            'command' => 'sh -lc "if [ ! -f .env ]; then cp .env.example .env; fi; php artisan key:generate --force; '.
+                ($production ? 'php artisan config:cache && php artisan route:cache && php artisan view:cache && ' : '').
+                'php artisan serve --host=0.0.0.0 --port=8000"',
             'depends_on' => ['db'],
+            'healthcheck' => [
+                'test' => ['CMD-SHELL', 'curl -fsS http://localhost:8000/api/health || exit 1'],
+                'interval' => '10s',
+                'timeout' => '3s',
+                'retries' => 5,
+            ],
         ];
     }
 
-    private function phpFpmService(): array
+    private function phpFpmService(bool $production = true): array
     {
         return [
             'build' => [
@@ -130,8 +140,8 @@ DOCKER;
             'working_dir' => '/var/www/html',
             'volumes' => ['.:/var/www/html'],
             'environment' => [
-                'APP_ENV=local',
-                'APP_DEBUG=true',
+                $production ? 'APP_ENV=production' : 'APP_ENV=local',
+                $production ? 'APP_DEBUG=false' : 'APP_DEBUG=true',
                 'APP_URL=http://localhost:8080',
                 'SESSION_DRIVER=file',
                 'DB_CONNECTION=mysql',
@@ -142,8 +152,16 @@ DOCKER;
                 'DB_PASSWORD=',
             ],
             'expose' => ['9000'],
-            'command' => 'sh -lc "if [ ! -f .env ]; then cp .env.example .env; fi; php artisan key:generate --force; chown -R www-data:www-data storage bootstrap/cache; php-fpm"',
+            'command' => 'sh -lc "if [ ! -f .env ]; then cp .env.example .env; fi; php artisan key:generate --force; '.
+                ($production ? 'php artisan config:cache && php artisan route:cache && php artisan view:cache && ' : '').
+                'chown -R www-data:www-data storage bootstrap/cache; php-fpm"',
             'depends_on' => ['db'],
+            'healthcheck' => [
+                'test' => ['CMD-SHELL', 'php -v || exit 1'],
+                'interval' => '30s',
+                'timeout' => '5s',
+                'retries' => 5,
+            ],
         ];
     }
 
@@ -157,6 +175,12 @@ DOCKER;
                 './docker/nginx/nginx.conf:/etc/nginx/conf.d/default.conf',
             ],
             'depends_on' => ['app'],
+            'healthcheck' => [
+                'test' => ['CMD-SHELL', 'wget -qO- http://localhost/ || exit 1'],
+                'interval' => '30s',
+                'timeout' => '5s',
+                'retries' => 5,
+            ],
         ];
     }
 
@@ -171,6 +195,13 @@ DOCKER;
                 'MYSQL_PASSWORD=secret',
             ],
             'volumes' => ['dbdata:/var/lib/mysql'],
+            // No published host port; use internal network for security
+            'healthcheck' => [
+                'test' => ['CMD-SHELL', 'mysqladmin ping -h 127.0.0.1 -uroot -psecret --silent'],
+                'interval' => '30s',
+                'timeout' => '5s',
+                'retries' => 10,
+            ],
         ];
     }
 
@@ -196,6 +227,12 @@ DOCKER;
             'volumes' => ['.:/var/www/html'],
             'command' => 'sh -lc "npm install && npx vite --host 0.0.0.0 --port 5173 --strictPort"',
             'ports' => ['5173:5173'],
+            'healthcheck' => [
+                'test' => ['CMD-SHELL', 'wget -qO- http://localhost:5173/ || exit 1'],
+                'interval' => '30s',
+                'timeout' => '5s',
+                'retries' => 5,
+            ],
         ];
     }
 
@@ -248,6 +285,16 @@ DOCKER;
         if (! $this->files->isDirectory($path)) {
             $this->files->makeDirectory($path, 0755, true);
         }
+    }
+
+    private function generateDockerignore(string $targetPath): void
+    {
+        $file = $targetPath.'/.dockerignore';
+        if ($this->files->exists($file)) {
+            return;
+        }
+        $content = "vendor\nnode_modules\n.git\n.tmp\n.DS_Store\nstorage/logs\nbootstrap/cache\n**/*.backup-*\n";
+        $this->files->put($file, $content);
     }
 
     private function stubsPath(string $suffix = ''): string

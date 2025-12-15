@@ -133,7 +133,7 @@
         </div>
 
         <div class="footer">
-            <p>Built with ❤️ using Bangkah Starter Kit</p>
+            <p>Built using Bangkah Launcher</p>
         </div>
     </div>
 </body>

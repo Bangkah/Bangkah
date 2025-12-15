@@ -1,5 +1,14 @@
 # Changelog
 
+## v1.0.4 (2025-12-15)
+- Publish cleanup: add `.gitattributes` to exclude non-essential files from archives.
+- Remove dev-only dependency to keep distribution lean.
+- No runtime changes.
+
+## v1.0.3 (2025-12-15)
+- Docker build optimizations and fixes.
+# Changelog
+
 All notable changes to `bangkah/bangkah` will be documented in this file.
 ## [1.0.3] - 2024-12-15
 

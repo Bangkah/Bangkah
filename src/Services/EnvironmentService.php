@@ -25,15 +25,15 @@ class EnvironmentService
             $this->updateEnv($targetPath, 'DB_HOST', $host);
             $this->updateEnv($targetPath, 'DB_PORT', '5432');
             $this->updateEnv($targetPath, 'DB_DATABASE', 'laravel');
-            $this->updateEnv($targetPath, 'DB_USERNAME', 'laravel');
-            $this->updateEnv($targetPath, 'DB_PASSWORD', 'secret');
+            $this->updateEnv($targetPath, 'DB_USERNAME', 'root');
+            $this->updateEnv($targetPath, 'DB_PASSWORD', '');
         } else {
             $this->updateEnv($targetPath, 'DB_CONNECTION', 'mysql');
             $this->updateEnv($targetPath, 'DB_HOST', $host);
             $this->updateEnv($targetPath, 'DB_PORT', '3306');
             $this->updateEnv($targetPath, 'DB_DATABASE', 'laravel');
-            $this->updateEnv($targetPath, 'DB_USERNAME', 'laravel');
-            $this->updateEnv($targetPath, 'DB_PASSWORD', 'secret');
+            $this->updateEnv($targetPath, 'DB_USERNAME', 'root');
+            $this->updateEnv($targetPath, 'DB_PASSWORD', '');
         }
 
         $this->updateEnvExample($targetPath, 'DB_CONNECTION', $dbType === 'postgresql' || $dbType === 'postgres' || $dbType === 'pgsql' ? 'pgsql' : 'mysql');
