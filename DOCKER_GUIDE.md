@@ -84,9 +84,8 @@ Nginx configuration for Laravel with:
 The Dockerfile is structured to maximize Docker's layer caching:
 
 ```dockerfile
-# Stage 1: Dependencies (cached unless composer files change)
+# Stage 1: Dependencies (cached unless composer.json changes)
 COPY composer.json ./
-COPY composer.lock* ./
 RUN composer install --no-dev --no-scripts
 
 # Stage 2: Application code (cached unless source changes)
@@ -117,13 +116,9 @@ RUN composer dump-autoload --optimize  # Optimized autoloader
 
 ### Handling Missing composer.lock
 
-```dockerfile
-COPY composer.lock* ./
-```
-
-The `*` wildcard makes the copy optional:
-- If `composer.lock` exists → copies it
-- If missing → silently skips (no error)
+`composer install` now works with or without `composer.lock`:
+- If `composer.lock` exists, Composer uses it for deterministic installs
+- If missing, Composer resolves from `composer.json` and creates the lock during build
 
 This handles fresh Laravel installations that may not have a lock file yet.
 
@@ -303,7 +298,7 @@ services:
 
 ### "COPY failed: composer.lock not found"
 
-**Solution:** Update to Bangkah v1.0.3+ which uses `COPY composer.lock* ./`
+**Solution:** Update to Bangkah v1.0.3+ which no longer requires copying `composer.lock`; build works with or without the file.
 
 ### "bangkah/bangkah" removed during build
 

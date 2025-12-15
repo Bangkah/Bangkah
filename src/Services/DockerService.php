@@ -75,14 +75,12 @@ RUN apt-get update \
 WORKDIR /var/www/html
 COPY --from=composer /usr/bin/composer /usr/bin/composer
 COPY composer.json ./
-COPY composer.lock* ./
 RUN composer install --no-interaction --prefer-dist --no-progress --no-dev --no-scripts
 COPY . .
 RUN composer dump-autoload --optimize
 
 FROM php-base AS php-fpm
 COPY composer.json ./
-COPY composer.lock* ./
 RUN composer install --no-interaction --prefer-dist --no-progress --no-dev --no-scripts
 COPY . .
 RUN composer dump-autoload --optimize \
