@@ -74,12 +74,18 @@ RUN apt-get update \
     && rm -rf /var/lib/apt/lists/*
 WORKDIR /var/www/html
 COPY --from=composer /usr/bin/composer /usr/bin/composer
+COPY composer.json ./
+COPY composer.lock* ./
+RUN composer install --no-interaction --prefer-dist --no-progress --no-dev --no-scripts
 COPY . .
-RUN composer install --no-interaction --prefer-dist --no-progress
+RUN composer dump-autoload --optimize
 
 FROM php-base AS php-fpm
+COPY composer.json ./
+COPY composer.lock* ./
+RUN composer install --no-interaction --prefer-dist --no-progress --no-dev --no-scripts
 COPY . .
-RUN composer install --no-interaction --prefer-dist --no-progress \
+RUN composer dump-autoload --optimize \
     && chown -R www-data:www-data storage bootstrap/cache
 CMD ["php-fpm"]
 DOCKER;
@@ -98,7 +104,19 @@ DOCKER;
             'working_dir' => '/var/www/html',
             'ports' => ['8000:8000'],
             'volumes' => ['.:/var/www/html'],
-            'command' => 'sh -lc "php artisan serve --host=0.0.0.0 --port=8000"',
+            'environment' => [
+                'APP_ENV=local',
+                'APP_DEBUG=true',
+                'APP_URL=http://localhost:8000',
+                'SESSION_DRIVER=file',
+                'DB_CONNECTION=mysql',
+                'DB_HOST=db',
+                'DB_PORT=3306',
+                'DB_DATABASE=laravel',
+                'DB_USERNAME=root',
+                'DB_PASSWORD=',
+            ],
+            'command' => 'sh -lc "if [ ! -f .env ]; then cp .env.example .env; fi; php artisan key:generate --force; php artisan serve --host=0.0.0.0 --port=8000"',
             'depends_on' => ['db'],
         ];
     }
@@ -113,7 +131,20 @@ DOCKER;
             ],
             'working_dir' => '/var/www/html',
             'volumes' => ['.:/var/www/html'],
+            'environment' => [
+                'APP_ENV=local',
+                'APP_DEBUG=true',
+                'APP_URL=http://localhost:8080',
+                'SESSION_DRIVER=file',
+                'DB_CONNECTION=mysql',
+                'DB_HOST=db',
+                'DB_PORT=3306',
+                'DB_DATABASE=laravel',
+                'DB_USERNAME=root',
+                'DB_PASSWORD=',
+            ],
             'expose' => ['9000'],
+            'command' => 'sh -lc "if [ ! -f .env ]; then cp .env.example .env; fi; php artisan key:generate --force; chown -R www-data:www-data storage bootstrap/cache; php-fpm"',
             'depends_on' => ['db'],
         ];
     }
@@ -122,7 +153,7 @@ DOCKER;
     {
         return [
             'image' => 'nginx:alpine',
-            'ports' => ['80:80'],
+            'ports' => ['8080:80'],
             'volumes' => [
                 '.:/var/www/html',
                 './docker/nginx/nginx.conf:/etc/nginx/conf.d/default.conf',
@@ -135,7 +166,6 @@ DOCKER;
     {
         return [
             'image' => 'mysql:8.0',
-            'ports' => ['3306:3306'],
             'environment' => [
                 'MYSQL_DATABASE=laravel',
                 'MYSQL_ROOT_PASSWORD=secret',
@@ -166,7 +196,7 @@ DOCKER;
             'image' => 'node:20-alpine',
             'working_dir' => '/var/www/html',
             'volumes' => ['.:/var/www/html'],
-            'command' => 'sh -lc "npm install && npm run dev"',
+            'command' => 'sh -lc "npm install && npx vite --host 0.0.0.0 --port 5173 --strictPort"',
             'ports' => ['5173:5173'],
         ];
     }

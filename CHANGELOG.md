@@ -1,6 +1,25 @@
 # Changelog
 
 All notable changes to `bangkah/bangkah` will be documented in this file.
+## [1.0.3] - 2024-12-15
+
+### Fixed
+- Fixed Docker build removing `bangkah/bangkah` package during `composer install`
+- Fixed build failure when `composer.lock` file doesn't exist in generated projects
+- Fixed inefficient Docker layer caching causing slow rebuilds
+
+### Changed
+- Dockerfile now copies composer files before copying all project files for better caching
+- Added `composer.lock*` with wildcard to handle optional lock file gracefully  
+- Split `composer install` into install phase + dump-autoload phase
+- Added `--no-dev --no-scripts` flags for production-optimized builds
+- Both `php-cli` and `php-fpm` stages now follow same optimized pattern
+
+### Improved
+- Docker builds are now faster thanks to proper layer caching
+- Smaller production images due to `--no-dev` flag
+- More reliable builds that handle edge cases
+
 
 ## [1.0.2] - 2024-12-15
 
