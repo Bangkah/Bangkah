@@ -16,7 +16,7 @@ php artisan bangkah:create
 
 ## Documentation
 
-Lihat [dokumentasi lengkap](../../README.md) untuk panduan detail.
+Lihat [dokumentasi lengkap](https://github.com/Bangkah/Bangkah-launcher/README.md) untuk panduan detail.
 
 ## License
 
