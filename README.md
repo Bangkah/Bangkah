@@ -77,7 +77,7 @@ Pagi: eksplorasi & membaca, <b>malam: ngoding dan berbagi</b>.<br>
       <img src="https://github-readme-stats.vercel.app/api?username=Bangkah&show_icons=true&theme=radical&hide=contribs"/>
     </td>
     <td align="center" width="48%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bangkah&layout=compact&langs_count=8&theme=radical"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bangkah&layout=compact&langs_count=28&theme=radical"/>
     </td>
   </tr>
   <tr>
