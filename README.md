@@ -30,7 +30,7 @@
   </a>
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1200&center=true&width=425&lines=Informatics+Engineering+Student;Backend+focus%20%7C%20Linux+Enthusiast;DevOps,+Cloud+and+Security+Explorer;Open+Source+and+Learning+everyday!"
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1200&center=true&width=425&lines=Informatics+Engineering+Student;Backend+focus%20%7C%20Linux+Enthusiast;DevOps+Cloud+and+Security+Explorer;Open+Source+and+Learning+everyday!"
 alt="typing banner" style="margin-bottom:8px;" />
 
 </div>
