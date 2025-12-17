@@ -108,7 +108,7 @@ Pagi: eksplorasi & membaca, <b>malam: ngoding dan berbagi</b>.<br>
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Bangkah/Bangkah/output/github-contribution-grid-snake-dark.svg" width="94%" />
-  <br>
+  <!-- <img src="https://raw.githubusercontent.com/Bangkah/Bangkah/output/github-contribution-grid-snake-dark.svg" width="94%" />
+  <br> -->
   <em>“Setiap eksperimen adalah satu langkah lebih dekat ke kemajuan.”</em>
 </p>
