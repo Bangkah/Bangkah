@@ -21,6 +21,6 @@ jobs:
       - name: Push output
         uses: peaceiris/actions-gh-pages@v4
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.SNAKE_TOKEN }}
           publish_dir: ./dist
           publish_branch: output
