@@ -150,3 +150,5 @@ Pagi: eksplorasi & membaca, <b>malam: ngoding dan berbagi</b>.<br>
   <img src="https://raw.githubusercontent.com/Bangkah/Bangkah/output/github-contribution-grid-snake-dark.svg" width="94%" />
   <br>
 </p>
+
+<p align="center"> Warna hijau tidak harus setiap hari. Istirahat juga bagian dari proses. </p>
