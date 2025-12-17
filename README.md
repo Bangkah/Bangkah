@@ -1,21 +1,25 @@
+<h1 align="center">Hi 👋, I'm Bangkah</h1>
+<img align="right" alt="Coder GIF" width="360" src="https://firebasestorage.googleapis.com/v0/b/nitc-permission-system.appspot.com/o/github-images%2Fdhwanish-coding.gif?alt=media&token=1bf44f70-8a12-43e7-bab7-f2992be2bff2" />
 
-<div align="center">
+## 🧬 About
+- 👨‍💻 **Nama:** Muhammad Dhiyaul Atha Bangkah  
+- 🎓 **Mahasiswa:** Teknik Informatika — Politeknik Negeri Lhokseumawe  
+- 📍 **Domisili:** Aceh, Indonesia (UTC+7)  
+- 💻 **Fokus:** Backend, DevOps, Scripting, Linux  
+- 🌐 **Website:** [mdhiyaulatha.me](https://mdhiyaulatha.me)  
+- 📩 **Email:** mdhyaulatha@gmail.com  
 
-<img src="https://avatars.githubusercontent.com/u/62450564?v=4"
-     width="115"
-     style="border-radius:50%; border:4px solid #ffffff; box-shadow:0 2px 18px #fd5c6380; margin-top:-65px; margin-bottom:12px;"
-     alt="Bangkah's avatar" />
+---
 
-<h2 style="margin-top:0.3em;margin-bottom:0.2em"><b>Muhammad Dhiyaul Atha</b></h2>
-
-<img src="https://komarev.com/ghpvc/?username=Bangkah&style=flat-square&color=fd5c63" alt="Profile Views" /><br>
-
-<p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Bangkah&style=flat-square&color=fd5c63" alt="Profile Views" />
+  <br><br>
   <img src="https://img.shields.io/badge/Aceh,%20Indonesia-019267?style=for-the-badge&logo=googlemaps&logoColor=white"/>
   <img src="https://img.shields.io/badge/Backend--focused-ff758c?style=for-the-badge&logo=server&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux%20Enthusiast-333c44?style=for-the-badge&logo=linux&logoColor=white"/>
 </p>
-<p>
+
+<p align="center">
   <a href="https://mdhiyaulatha.me">
     <img src="https://img.shields.io/badge/Website-mdhiyaulatha.me-8e54e9?style=for-the-badge&logo=Google-Chrome"/>
   </a>
@@ -30,41 +34,29 @@
   </a>
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1200&center=true&width=425&lines=Informatics+Engineering+Student;Backend+focus%20%7C%20Linux+Enthusiast;DevOps+Cloud+and+Security+Explorer;Open+Source+and+Learning+everyday!"
-alt="typing banner" style="margin-bottom:8px;" />
-
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1200&center=true&width=425&lines=Informatics+Engineering+Student;Backend+focus%20%7C%20Linux+Enthusiast;DevOps+Cloud+and+Security+Explorer;Open+Source+and+Learning+everyday!"
+  alt="typing banner" style="margin-bottom:8px;" />
+</p>
 
 ---
 
 <details>
-<summary><b>🌿 Motto & Personal Note</b> (klik untuk buka/utup)</summary>
+<summary><b>🌿 Motto & Personal Note (klik untuk buka/utup)</b></summary>
 <br>
-
-<p align="center" style="font-size:1.15em;">
+<p align="center" style="font-size:1.13em;">
 🌱 <i>Ketelitian hari ini menentukan stabilitas esok hari.<br>
 Pagi: eksplorasi & membaca, <b>malam: ngoding dan berbagi</b>.<br>
 "Lakukan hal kecil setiap hari, hingga menjadi kebiasaan besar."</i> 🚀
 </p>
-
 </details>
-
----
-
-## 🧬 About
-- 👨‍💻 **Nama:** Muhammad Dhiyaul Atha Bangkah
-- 🎓 **Mahasiswa:** Teknik Informatika — Politeknik Negeri Lhokseumawe
-- 📍 **Domisili:** Aceh, Indonesia (UTC+7)
-- 💻 **Fokus:** Backend, DevOps, Scripting, Linux
-- 🌐 **Website:** [mdhiyaulatha.me](https://mdhiyaulatha.me)
-- 📩 **Email:** mdhyaulatha@gmail.com
 
 ---
 
 ## ⚡ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,php,typescript,react,vue,nodejs,python,docker,nginx,linux,bash&theme=light" />
+  <img src="https://skillicons.dev/icons?i=laravel,php,typescript,react,vue,nodejs,python,docker,nginx,linux,bash,git,mysql,sqlite,cloudflare" />
 </p>
 
 ---
@@ -74,10 +66,10 @@ Pagi: eksplorasi & membaca, <b>malam: ngoding dan berbagi</b>.<br>
 <table>
   <tr>
     <td align="center" width="52%">
-      <img src="https://github-readme-stats.vercel.app/api?username=Bangkah&show_icons=true&theme=radical&cache_seconds=1&include_all_commits=false&count_private=false&show=reviews,discussions_answered,discussions_started,prs_merged,prs_merged_percentage" alt="Statistik GitHub Bangkah"/>
+      <img src="https://readme-stats-fabio-vicente.vercel.app/api?username=Bangkah&show_icons=true&theme=radical&cache_seconds=1&include_all_commits=false&count_private=false&show=reviews,discussions_answered,discussions_started,prs_merged,prs_merged_percentage" alt="Statistik GitHub Bangkah"/>
     </td>
     <td align="center" width="48%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bangkah&layout=compact&langs_count=28&theme=radical"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bangkah&layout=compact&langs_count=8&theme=radical"/>
     </td>
   </tr>
   <tr>
@@ -89,26 +81,72 @@ Pagi: eksplorasi & membaca, <b>malam: ngoding dan berbagi</b>.<br>
 
 ---
 
-## 🏆 Achievements & Activity
+## 🏆 GitHub Trophy
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Bangkah&theme=algolia&margin-w=15&column=6&no-bg=true&no-frame=true" />
+  <img width="100%" src="https://github-trophies.vercel.app/?username=Bangkah&theme=radical&no-frame=false&no-bg=true&margin-w=4&title=SuperRank,MultiLanguage,PullRequest,Stars,Repositories,Commits,Issues" alt="Trophies" />
 </p>
+
+---
+
+<h3 align="center">🚀 Highlighted Projects</h3>
+
+<table align="center">
+  <tr>
+    <td align="center" valign="top" width="50%">
+      <a href="https://github.com/Bangkah/AegisCrypt-Web">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bangkah&repo=AegisCrypt-Web&theme=radical&border_color=111"/>
+      </a>
+    </td>
+    <td align="center" valign="top" width="50%">
+      <a href="https://github.com/Bangkah/setup-archlinux">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bangkah&repo=setup-archlinux&theme=radical&border_color=111"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top">
+      <a href="https://github.com/Bangkah/malware-sample">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bangkah&repo=malware-sample&theme=radical&border_color=111"/>
+      </a>
+      <br>
+    </td>
+    <td align="center" valign="top">
+      <a href="https://github.com/Bangkah/ABSENSI-KARYAWAN">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bangkah&repo=ABSENSI-KARYAWAN&theme=radical&border_color=111"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top">
+      <a href="https://github.com/Bangkah/Muslim-Life">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bangkah&repo=Muslim-Life&theme=radical&border_color=111"/>
+      </a>
+    </td>
+    <td align="center" valign="top">
+      <a href="https://github.com/Bangkah/bangkah_launcher_app">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bangkah&repo=bangkah_launcher_app&theme=radical&border_color=111"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 💡 Fun Facts & Inside Bangkah
 
-- 🌄 **Pagi:** Eksplorasi tech baru, baca dokumentasi, kadang menulis blog
-- 🌙 **Malam:** Ngoding, debugging, kontribusi open source
-- 🔧 **Tambahan:** Security research, server troubleshooting, automation scripting
-- 🎶 **Teman:** Terminal, playlist lo-fi, dan secangkir kopi!
-- 🦄 **Unik:** Bisa setup Linux dari kosong, suka bikin dotfiles, & otomatisasi apapun
+- 🌄 **Pagi:** Eksplorasi tech baru, baca dokumentasi, kadang menulis blog.
+- 🌙 **Malam:** Ngoding, debugging, kontribusi open source.
+- 🔧 **Tambahan:** Security research, server troubleshooting, automation scripting.
+- 🎶 **Teman:** Terminal, playlist RebellionRose, dan secangkir kopi!
 
 ---
 
 <p align="center">
-  <!-- <img src="https://raw.githubusercontent.com/Bangkah/Bangkah/output/github-contribution-grid-snake-dark.svg" width="94%" />
-  <br> -->
   <em>“Setiap eksperimen adalah satu langkah lebih dekat ke kemajuan.”</em>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Bangkah/Bangkah/output/github-contribution-grid-snake-dark.svg" width="94%" />
+  <br>
 </p>
