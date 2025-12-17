@@ -1,5 +1,5 @@
 {
-  "name": "bangkah/bangkah",
+  "name": "bangkah/starter",
   "description": "Bangkah Laravel starter kit: interactive scaffolding, Docker, templates",
   "type": "library",
   "license": "MIT",
