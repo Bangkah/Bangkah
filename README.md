@@ -74,7 +74,7 @@ Pagi: eksplorasi & membaca, <b>malam: ngoding dan berbagi</b>.<br>
 <table>
   <tr>
     <td align="center" width="52%">
-      <img src="https://github-readme-stats.vercel.app/api?username=Bangkah&show_icons=true&theme=radical&cache_seconds=1"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=Bangkah&show_icons=true&theme=radical&cache_seconds=1&include_all_commits=false&count_private=false&show=reviews,discussions_answered,discussions_started,prs_merged,prs_merged_percentage" alt="Statistik GitHub Bangkah"/>
     </td>
     <td align="center" width="48%">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bangkah&layout=compact&langs_count=28&theme=radical"/>
