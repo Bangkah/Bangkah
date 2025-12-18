@@ -142,6 +142,13 @@ Pagi: eksplorasi & membaca, <b>malam: ngoding dan berbagi</b>.<br>
 
 ---
 
+## 📢 Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
 <p align="center">
   <em>“Setiap eksperimen adalah satu langkah lebih dekat ke kemajuan.”</em>
 </p>
