@@ -3,15 +3,12 @@ name: Update GitHub Activity
 on:
   schedule:
     - cron: "0 * * * *" # Berjalan otomatis setiap jam
-  workflow_dispatch: # Tombol manual
-  push:
-    branches: ["main", "master"]
+  workflow_dispatch: # Memungkinkan kamu klik tombol "Run" secara manual
 
 jobs:
   update-readme:
     name: Update Recent Activity
     runs-on: ubuntu-latest
-    # Token PAT biasanya sudah mencakup izin write, jadi kita tetap sertakan ini untuk keamanan
     permissions:
       contents: write
 
