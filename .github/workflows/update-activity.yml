@@ -1,16 +1,21 @@
-name: Update README with Recent Activity
+name: Update GitHub Activity
 
 on:
   schedule:
-    - cron: '0 */3 * * *'
+    - cron: "0 * * * *" # Berjalan otomatis setiap jam
   workflow_dispatch:
 
 jobs:
   update-readme:
+    name: Update Recent Activity
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
     steps:
-      - uses: Readme-Workflows/recent-activity@v2.5.1
+      - name: Update Activity
+        uses: jamesgeorge007/github-activity-readme@master
         with:
+          COMMIT_MSG: "📝 Update recent activity [skip ci]"
+          MAX_LINES: 5
           GH_USERNAME: Bangkah
-          COMMIT_MSG: "chore: Update recent activity in README"
-          MAX_LINES: 8
