@@ -3,7 +3,7 @@ name: Update GitHub Activity
 on:
   schedule:
     - cron: "0 * * * *" # Berjalan otomatis setiap jam
-  workflow_dispatch:
+  workflow_dispatch: # Memungkinkan Anda menjalankan secara manual dari tab Actions
 
 jobs:
   update-readme:
@@ -13,9 +13,13 @@ jobs:
       contents: write
 
     steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
       - name: Update Activity
         uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.SNAKE_TOKEN }}
         with:
           COMMIT_MSG: "📝 Update recent activity [skip ci]"
           MAX_LINES: 5
-          GH_USERNAME: Bangkah
