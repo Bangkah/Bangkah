@@ -133,19 +133,19 @@ Pagi: eksplorasi & membaca, <b>malam: ngoding dan berbagi</b>.<br>
 
 ---
 
+## 📢 Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
 ## 💡 Fun Facts & Inside Bangkah
 
 - 🌄 **Pagi:** Eksplorasi tech baru, baca dokumentasi, kadang menulis blog.
 - 🌙 **Malam:** Ngoding, debugging, kontribusi open source.
 - 🔧 **Tambahan:** Security research, server troubleshooting, automation scripting.
 - 🎶 **Teman:** Terminal, playlist RebellionRose, dan secangkir kopi!
-
----
-
-## 📢 Recent Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
 
 ---
 
