@@ -1,18 +1,28 @@
-name: Update README with Recent Activity
+name: Update GitHub Activity
 
 on:
   schedule:
-    - cron: '0 * * * *' # Setiap jam
-  workflow_dispatch:
+    - cron: "0 * * * *" # Berjalan otomatis setiap jam
+  workflow_dispatch: # Tombol manual
+  push:
+    branches: ["main", "master"]
 
 jobs:
   update-readme:
+    name: Update Recent Activity
     runs-on: ubuntu-latest
+    # Token PAT biasanya sudah mencakup izin write, jadi kita tetap sertakan ini untuk keamanan
+    permissions:
+      contents: write
+
     steps:
-      - uses: actions/checkout@v4
-      - name: Update README with recent GitHub activity
-        uses: Readme-Workflows/recent-activity@v2.5.1
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Update Activity
+        uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.SNAKE_TOKEN }}
         with:
-          GH_USERNAME: Bangkah
-          COMMIT_MSG: "chore: Update recent activity in README"
-          MAX_LINES: 7
+          COMMIT_MSG: "📝 Update recent activity [skip ci]"
+          MAX_LINES: 5
