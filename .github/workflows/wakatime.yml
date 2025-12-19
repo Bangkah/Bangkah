@@ -1,4 +1,8 @@
+
 name: WakaTime Readme Stats
+
+permissions:
+  contents: write
 
 on:
   schedule:
