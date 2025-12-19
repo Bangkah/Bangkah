@@ -17,7 +17,7 @@ jobs:
       - uses: actions/checkout@v4
       - uses: athul/waka-readme@v0.3.0
         with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          WAKATIME_API_KEY: ${{ secrets.SNAKE_TOKEN }}
           SHOW_TITLE: true
           BLOCKS: ░▒▓█
           TIME_RANGE: last_7_days
