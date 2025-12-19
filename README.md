@@ -159,11 +159,11 @@ Pagi: eksplorasi & membaca, <b>malam: ngoding dan berbagi</b>.<br>
 
 ---
 
-## ⏳ Weekly Development Breakdown
+
+## ⏱️ WakaTime Coding Activity
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-
 
 ---
 
