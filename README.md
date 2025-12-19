@@ -63,28 +63,42 @@ Pagi: eksplorasi & membaca, <b>malam: ngoding dan berbagi</b>.<br>
 
 ## 📊 GitHub Insights & Progress
 
-<table>
+<table align="center">
   <tr>
-    <td align="center" width="52%">
-      <img src="https://readme-stats-fabio-vicente.vercel.app/api?username=Bangkah&show_icons=true&theme=radical&cache_seconds=1&include_all_commits=false&count_private=false&show=reviews,discussions_answered,discussions_started,prs_merged,prs_merged_percentage" alt="Statistik GitHub Bangkah"/>
+    <td align="center" width="50%">
+      <img
+        src="https://readme-stats-fabio-vicente.vercel.app/api?username=Bangkah&show_icons=true&theme=radical&include_all_commits=true&count_private=true&show=reviews,discussions_answered,discussions_started,prs,prs_merged,prs_merged_percentage,issues,contribs"
+        alt="Statistik GitHub Bangkah"
+      />
     </td>
-    <td align="center" width="48%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bangkah&layout=compact&langs_count=8&theme=radical"/>
+    <td align="center" width="50%">
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bangkah&layout=compact&langs_count=12&theme=radical"
+        alt="Top Languages Bangkah"
+      />
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bangkah&theme=react-dark"/>
+      <img
+        src="https://github-readme-activity-graph.vercel.app/graph?username=Bangkah&theme=react-dark"
+        alt="GitHub Activity Graph Bangkah"
+      />
     </td>
   </tr>
 </table>
+
 
 ---
 
 ## 🏆 GitHub Trophy
 
 <p align="center">
-  <img width="100%" src="https://github-trophies.vercel.app/?username=Bangkah&theme=radical&no-frame=false&no-bg=true&margin-w=4&title=SuperRank,MultiLanguage,PullRequest,Stars,Repositories,Commits,Issues" alt="Trophies" />
+  <img
+    width="100%"
+    src="https://github-trophies.vercel.app/?username=Bangkah&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=6&title=SuperRank,MultiLanguage,PullRequest,PullRequestReviewer,Stars,Followers,Repositories,Commits,Issues,Experience,Organizations"
+    alt="GitHub Trophies Bangkah"
+  />
 </p>
 
 ---
