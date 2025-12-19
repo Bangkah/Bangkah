@@ -1,0 +1,21 @@
+name: WakaTime Stats
+
+
+on:
+  schedule:
+    - cron: "0 0 * * *" 
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    name: Update WakaTime stats
+    runs-on: ubuntu-latest
+    steps:
+      - uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          TIME_RANGE: last_7_days
+          LANG_COUNT: 8
+          SHOW_TIME: true
+          SHOW_TOTAL: true
+          BLOCKS: ░▒▓█

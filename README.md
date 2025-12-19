@@ -159,17 +159,14 @@ Pagi: eksplorasi & membaca, <b>malam: ngoding dan berbagi</b>.<br>
 
 ---
 
-## ⏱️ WakaTime Coding Activity
+## ⏳ Weekly Development Breakdown
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/wakatime?username=Bangkah&layout=compact&theme=radical&hide_progress=true"
-    alt="WakaTime Stats Bangkah"
-  />
-</p>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 
 ---
+
 
 ## 💡 Fun Facts & Inside Bangkah
 
