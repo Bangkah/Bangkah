@@ -103,7 +103,7 @@ Pagi: eksplorasi & membaca, <b>malam: ngoding dan berbagi</b>.<br>
 
 ---
 
-<h3 align="center">🚀 Highlighted Projects</h3>
+<h3>🚀 Highlighted Projects</h3>
 
 <table align="center">
   <tr>
@@ -156,6 +156,18 @@ Pagi: eksplorasi & membaca, <b>malam: ngoding dan berbagi</b>.<br>
 4. ❗ Opened issue [#316](https://github.com/google/A2UI/issues/316) in [google/A2UI](https://github.com/google/A2UI)
 5. 🗣 Commented on [#63](https://github.com/IAmTomShaw/f1-race-replay/issues/63#issuecomment-3664853195) in [IAmTomShaw/f1-race-replay](https://github.com/IAmTomShaw/f1-race-replay)
 <!--END_SECTION:activity-->
+
+---
+
+## ⏱️ WakaTime Coding Activity
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/wakatime?username=Bangkah&layout=compact&theme=radical&hide_progress=true"
+    alt="WakaTime Stats Bangkah"
+  />
+</p>
+
 
 ---
 
