@@ -1,4 +1,3 @@
-
 name: WakaTime Readme Stats
 
 permissions:
@@ -13,11 +12,14 @@ jobs:
   update-readme:
     name: Update WakaTime stats in README
     runs-on: ubuntu-latest
+
     steps:
       - uses: actions/checkout@v4
+
       - uses: athul/waka-readme@v0.3.0
         with:
-          WAKATIME_API_KEY: ${{ secrets.SNAKE_TOKEN }}
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GH_PAT }}
           SHOW_TITLE: true
           BLOCKS: ░▒▓█
           TIME_RANGE: last_7_days
