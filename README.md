@@ -160,11 +160,11 @@ Pagi: eksplorasi & membaca, <b>malam: ngoding dan berbagi</b>.<br>
 ## 📢 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#316](https://github.com/google/A2UI/issues/316#issuecomment-3667635355) in [google/A2UI](https://github.com/google/A2UI)
-2. 🗣 Commented on [#8](https://github.com/apple/ml-sharp/issues/8#issuecomment-3665360716) in [apple/ml-sharp](https://github.com/apple/ml-sharp)
-3. ❗ Opened issue [#8](https://github.com/apple/ml-sharp/issues/8) in [apple/ml-sharp](https://github.com/apple/ml-sharp)
-4. ❗ Opened issue [#316](https://github.com/google/A2UI/issues/316) in [google/A2UI](https://github.com/google/A2UI)
-5. 🗣 Commented on [#63](https://github.com/IAmTomShaw/f1-race-replay/issues/63#issuecomment-3664853195) in [IAmTomShaw/f1-race-replay](https://github.com/IAmTomShaw/f1-race-replay)
+1. 🎉 Merged PR [#4](https://github.com/Bangkah/netinfo/pull/4) in [Bangkah/netinfo](https://github.com/Bangkah/netinfo)
+2. 💪 Opened PR [#4](https://github.com/Bangkah/netinfo/pull/4) in [Bangkah/netinfo](https://github.com/Bangkah/netinfo)
+3. 🎉 Merged PR [#3](https://github.com/Bangkah/netinfo/pull/3) in [Bangkah/netinfo](https://github.com/Bangkah/netinfo)
+4. 💪 Opened PR [#3](https://github.com/Bangkah/netinfo/pull/3) in [Bangkah/netinfo](https://github.com/Bangkah/netinfo)
+5. ❌ Closed PR [#2](https://github.com/Bangkah/netinfo/pull/2) in [Bangkah/netinfo](https://github.com/Bangkah/netinfo)
 <!--END_SECTION:activity-->
 
 ---
