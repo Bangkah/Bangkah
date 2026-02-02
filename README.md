@@ -60,21 +60,12 @@ Pagi: eksplorasi & membaca, <b>malam: ngoding dan berbagi</b>.<br>
 
 ---
 
-## 🌍 Developer Ranking (stardev.io)
+## 🌍 Developer Ranking
 
-<p align="center">
-  <a href="https://stardev.io/developers/Bangkah" target="_blank">
-    <img
-      src="https://stardev.io/developers/Bangkah/badge/languages/country.svg"
-      alt="Stardev.io Country Rank"
-    />
-  </a>
-  <br>
-  <sub>
-    🇮🇩 Country ranking based on total GitHub stars ·
-    <a href="https://stardev.io" target="_blank">stardev.io</a>
-  </sub>
-</p>
+[![Stardev.io Country Rank](https://stardev.io/developers/Bangkah/badge/languages/country.svg)](https://stardev.io/developers/Bangkah)
+
+<sub>🇮🇩 Country ranking based on total GitHub stars · Source: stardev.io</sub>
+
 
 
 ---
