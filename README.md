@@ -2,7 +2,7 @@
 <img align="right" alt="Coder GIF" width="360" src="https://firebasestorage.googleapis.com/v0/b/nitc-permission-system.appspot.com/o/github-images%2Fdhwanish-coding.gif?alt=media&token=1bf44f70-8a12-43e7-bab7-f2992be2bff2" />
 
 ## 🧬 About
-- 👨 **Nama:** Muhammad Dhiyaul Atha Bangkah  
+- 👨 **Nama:** Muhammad Dhiyaul Atha
 - 🎓 **Mahasiswa:** Teknik Informatika — Politeknik Negeri Lhokseumawe  
 - 📍 **Domisili:** Aceh, Indonesia (UTC+7)   
 - 🌐 **Website:** [mdhiyaulatha.me](https://mdhiyaulatha.me)  
@@ -62,7 +62,7 @@ Pagi: eksplorasi & membaca, <b>malam: ngoding dan berbagi</b>.<br>
 
 ## 🌍 Developer Ranking
 
-[![Check out Bangkah's profile on stardev.io](https://stardev.io/developers/Bangkah/badge/languages/country.svg)](https://stardev.io/developers/Bangkah)
+[![Check out Bangkah's profile on stardev.io](https://stardev.io/developers/Bangkah/badge/languages/locality.svg)](https://stardev.io/developers/Bangkah)
 
 <sub>🇮🇩 Country ranking based on total GitHub stars · Source: stardev.io</sub>
 
