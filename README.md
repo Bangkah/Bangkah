@@ -160,11 +160,11 @@ Pagi: eksplorasi & membaca, <b>malam: ngoding dan berbagi</b>.<br>
 ## 📢 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/Bangkah/netinfo/pull/4) in [Bangkah/netinfo](https://github.com/Bangkah/netinfo)
-2. 💪 Opened PR [#4](https://github.com/Bangkah/netinfo/pull/4) in [Bangkah/netinfo](https://github.com/Bangkah/netinfo)
-3. 🎉 Merged PR [#3](https://github.com/Bangkah/netinfo/pull/3) in [Bangkah/netinfo](https://github.com/Bangkah/netinfo)
-4. 💪 Opened PR [#3](https://github.com/Bangkah/netinfo/pull/3) in [Bangkah/netinfo](https://github.com/Bangkah/netinfo)
-5. ❌ Closed PR [#2](https://github.com/Bangkah/netinfo/pull/2) in [Bangkah/netinfo](https://github.com/Bangkah/netinfo)
+1. ❗ Opened issue [#121](https://github.com/frederik-h/acer-wmi-battery/issues/121) in [frederik-h/acer-wmi-battery](https://github.com/frederik-h/acer-wmi-battery)
+2. 🎉 Merged PR [#4](https://github.com/Bangkah/netinfo/pull/4) in [Bangkah/netinfo](https://github.com/Bangkah/netinfo)
+3. 💪 Opened PR [#4](https://github.com/Bangkah/netinfo/pull/4) in [Bangkah/netinfo](https://github.com/Bangkah/netinfo)
+4. 🎉 Merged PR [#3](https://github.com/Bangkah/netinfo/pull/3) in [Bangkah/netinfo](https://github.com/Bangkah/netinfo)
+5. 💪 Opened PR [#3](https://github.com/Bangkah/netinfo/pull/3) in [Bangkah/netinfo](https://github.com/Bangkah/netinfo)
 <!--END_SECTION:activity-->
 
 ---
