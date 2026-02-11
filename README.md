@@ -175,11 +175,11 @@ Pagi: eksplorasi & membaca, <b>malam: ngoding dan berbagi</b>.<br>
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 February 2026 - To: 10 February 2026
+From: 04 February 2026 - To: 11 February 2026
 
-Total Time: 1 hr 39 mins
+Total Time: 2 hrs 20 mins
 
-Other            7 hrs 23 mins   ████████████████████▒░░░░   81.69 %
+Other            13 hrs 37 mins  █████████████████████▒░░░   85.38 %
 ```
 
 <!--END_SECTION:waka-->
