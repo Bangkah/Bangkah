@@ -160,11 +160,11 @@ Pagi: eksplorasi & membaca, <b>malam: ngoding dan berbagi</b>.<br>
 ## 📢 Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#121](https://github.com/frederik-h/acer-wmi-battery/issues/121) in [frederik-h/acer-wmi-battery](https://github.com/frederik-h/acer-wmi-battery)
-2. 🎉 Merged PR [#4](https://github.com/Bangkah/netinfo/pull/4) in [Bangkah/netinfo](https://github.com/Bangkah/netinfo)
-3. 💪 Opened PR [#4](https://github.com/Bangkah/netinfo/pull/4) in [Bangkah/netinfo](https://github.com/Bangkah/netinfo)
-4. 🎉 Merged PR [#3](https://github.com/Bangkah/netinfo/pull/3) in [Bangkah/netinfo](https://github.com/Bangkah/netinfo)
-5. 💪 Opened PR [#3](https://github.com/Bangkah/netinfo/pull/3) in [Bangkah/netinfo](https://github.com/Bangkah/netinfo)
+1. 🗣 Commented on [#9](https://github.com/IMPHNEN/Ramadhan-Code-Fest-2026/pull/9#issuecomment-3928377585) in [IMPHNEN/Ramadhan-Code-Fest-2026](https://github.com/IMPHNEN/Ramadhan-Code-Fest-2026)
+2. 🗣 Commented on [#9](https://github.com/IMPHNEN/Ramadhan-Code-Fest-2026/pull/9#issuecomment-3928259545) in [IMPHNEN/Ramadhan-Code-Fest-2026](https://github.com/IMPHNEN/Ramadhan-Code-Fest-2026)
+3. 🗣 Commented on [#9](https://github.com/IMPHNEN/Ramadhan-Code-Fest-2026/pull/9#issuecomment-3928201474) in [IMPHNEN/Ramadhan-Code-Fest-2026](https://github.com/IMPHNEN/Ramadhan-Code-Fest-2026)
+4. 🗣 Commented on [#9](https://github.com/IMPHNEN/Ramadhan-Code-Fest-2026/pull/9#issuecomment-3928177388) in [IMPHNEN/Ramadhan-Code-Fest-2026](https://github.com/IMPHNEN/Ramadhan-Code-Fest-2026)
+5. 💪 Opened PR [#9](https://github.com/IMPHNEN/Ramadhan-Code-Fest-2026/pull/9) in [IMPHNEN/Ramadhan-Code-Fest-2026](https://github.com/IMPHNEN/Ramadhan-Code-Fest-2026)
 <!--END_SECTION:activity-->
 
 ---
