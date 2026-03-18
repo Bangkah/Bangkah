@@ -175,16 +175,15 @@ Pagi: eksplorasi & membaca, <b>malam: ngoding dan berbagi</b>.<br>
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 March 2026 - To: 17 March 2026
+From: 11 March 2026 - To: 18 March 2026
 
-Total Time: 2 hrs 25 mins
+Total Time: 1 hr 1 min
 
-PowerShell   33 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.68 %
-Markdown     31 mins         █████░░░░░░░░░░░░░░░░░░░░   20.30 %
-Docker       31 mins         █████░░░░░░░░░░░░░░░░░░░░   19.99 %
-Java         27 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.68 %
-Batchfile    14 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.38 %
-Other        11 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.08 %
+PowerShell   33 mins         ██████████████░░░░░░░░░░░   55.40 %
+Batchfile    14 mins         ██████░░░░░░░░░░░░░░░░░░░   23.98 %
+Markdown     7 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.98 %
+Text         3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.99 %
+JSON         1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.66 %
 ```
 
 <!--END_SECTION:waka-->
