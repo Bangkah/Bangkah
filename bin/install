@@ -1,0 +1,58 @@
+#!/usr/bin/env php
+<?php
+
+/**
+ * Bangkah Interactive Installer
+ * Prompts user interactively after composer require bangkah/bangkah
+ */
+
+use Symfony\Component\Console\Input\InputInterface;
+use Symfony\Component\Console\Output\OutputInterface;
+use Symfony\Component\Console\Style\SymfonyStyle;
+use Symfony\Component\Console\Question\ChoiceQuestion;
+use Symfony\Component\Console\Question\ConfirmationQuestion;
+
+// Auto-load composer if available
+if (file_exists(getcwd() . '/vendor/autoload.php')) {
+    require getcwd() . '/vendor/autoload.php';
+}
+
+// Get the project root
+$projectRoot = getcwd();
+
+// Check if we're in a Laravel app
+if (!file_exists($projectRoot . '/artisan')) {
+    echo "⚠️  artisan not found. Are you in a Laravel project root?\n";
+    exit(0); // Exit gracefully - might be in a non-Laravel context
+}
+
+// Create console I/O for interactive prompts
+$input = new \Symfony\Component\Console\Input\ArgvInput();
+$output = new \Symfony\Component\Console\Output\ConsoleOutput();
+$io = new SymfonyStyle($input, $output);
+
+$io->title('🚀 Bangkah Starter Kit');
+$io->writeln('');
+$io->writeln('<info>Bangkah telah terinstal. Mulai scaffold project sekarang?</info>');
+
+// Ask if user wants to scaffold
+$askScaffold = new ConfirmationQuestion(
+    '<question>Ingin membuat project scaffolding sekarang? (Y/n)</question>',
+    true
+);
+
+$helper = $this instanceof \Symfony\Component\Console\Application
+    ? $this->getHelperSet()
+    : new \Symfony\Component\Console\Helper\HelperSet([
+        new \Symfony\Component\Console\Helper\QuestionHelper(),
+    ]);
+
+if (!$helper->get('question')->ask($input, $output, $askScaffold)) {
+    $io->note('Anda dapat menjalankan "php artisan starter:create" kapan saja.');
+    exit(0);
+}
+
+// Run the interactive command
+$io->writeln('');
+passthru('php artisan starter:create', $exitCode);
+exit($exitCode);

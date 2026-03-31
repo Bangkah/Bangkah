@@ -1,0 +1,57 @@
+#!/usr/bin/env php
+<?php
+
+/**
+ * Bangkah Interactive Installer - Standalone CLI
+ * Run directly or via composer bin: vendor/bin/bangkah
+ */
+
+// Ensure we're in a Laravel project
+$projectRoot = getcwd();
+if (!file_exists($projectRoot . '/artisan')) {
+    echo "❌ Not a Laravel project. Please run from project root.\n";
+    exit(1);
+}
+
+// Display welcome banner
+echo "\n";
+echo "╔═══════════════════════════════════════════════════════╗\n";
+echo "║                                                       ║\n";
+echo "║   🚀  BANGKAH INTERACTIVE STARTER KIT INSTALLER   🚀  ║\n";
+echo "║                                                       ║\n";
+echo "╚═══════════════════════════════════════════════════════╝\n";
+echo "\n";
+
+// Check if being run via composer post-install
+$isPostInstall = getenv('COMPOSER_DEV_MODE') !== false;
+
+// Prompt user
+echo "Mulai membuat project scaffolding sekarang?\n";
+echo "(Pilih Y untuk melanjutkan, N untuk keluar)\n";
+
+// Get input from STDIN or fall back to environment variable
+if (function_exists('readline')) {
+    $response = readline('> ');
+} else {
+    $handle = fopen('php://stdin', 'r');
+    echo '> ';
+    $response = trim(fgets($handle));
+    fclose($handle);
+}
+
+if (strtolower($response) !== 'y' && strtolower($response) !== 'yes') {
+    echo "\n";
+    echo "✅ Anda dapat menjalankan 'php artisan bangkah:create' kapan saja.\n";
+    echo "   Atau gunakan:\n";
+    echo "   • php vendor/bin/bangkah\n";
+    echo "   • composer bangkah\n";
+    echo "   • php artisan bangkah:create\n";
+    echo "\n";
+    exit(0);
+}
+
+// Run the bangkah:create command interactively
+echo "\n";
+$exitCode = passthru('php ' . escapeshellarg($projectRoot . '/artisan') . ' bangkah:create');
+
+exit($exitCode ?? 0);

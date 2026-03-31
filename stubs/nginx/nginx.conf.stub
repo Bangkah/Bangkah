@@ -1,0 +1,24 @@
+server {
+    listen 80;
+    server_name localhost;
+
+    root /var/www/html/public;
+    index index.php index.html;
+
+    location / {
+        try_files $uri $uri/ /index.php?$query_string;
+    }
+
+    location ~ \.php$ {
+        include fastcgi_params;
+        fastcgi_param SCRIPT_FILENAME $realpath_root$fastcgi_script_name;
+        fastcgi_pass app:9000;
+        fastcgi_index index.php;
+    }
+
+    location ~* \.(css|js|jpg|jpeg|png|gif|ico|svg)$ {
+        try_files $uri =404;
+        expires max;
+        log_not_found off;
+    }
+}

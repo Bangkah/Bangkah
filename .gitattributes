@@ -1,0 +1,13 @@
+# Keep package lean when exported
+DOCKER_GUIDE.md export-ignore
+V1.0.3_RELEASE_NOTES.md export-ignore
+CHANGELOG.md export-ignore
+tests/ export-ignore
+phpunit.xml export-ignore
+README.md export-ignore
+docs/ export-ignore
+stubs/ export-ignore
+
+# Exclude examples and local dev files
+**/*.backup-* export-ignore
+tmp/ export-ignore
