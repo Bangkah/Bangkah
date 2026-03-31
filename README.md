@@ -175,17 +175,18 @@ Pagi: eksplorasi & membaca, <b>malam: ngoding dan berbagi</b>.<br>
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 March 2026 - To: 29 March 2026
+From: 23 March 2026 - To: 30 March 2026
 
-Total Time: 3 hrs 34 mins
+Total Time: 4 hrs 19 mins
 
-JavaScript   1 hr 28 mins    ██████████░░░░░░░░░░░░░░░   39.79 %
-HTML         34 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.30 %
-YAML         29 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.07 %
-XML          24 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.02 %
-Text         17 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 %
-Markdown     11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.16 %
-Other        8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 %
+JavaScript   1 hr 42 mins    █████████▓░░░░░░░░░░░░░░░   38.20 %
+HTML         34 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.73 %
+TSConfig     31 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.72 %
+YAML         29 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.87 %
+XML          24 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.17 %
+Text         17 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.49 %
+Markdown     11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 %
+Other        8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.11 %
 ```
 
 <!--END_SECTION:waka-->
