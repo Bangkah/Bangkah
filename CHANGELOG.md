@@ -1,5 +1,8 @@
 # Changelog
 
+## v1.0.6.1 (2026-03-31)
+- Expand symfony/process constraint to include `^8.0` for compatibility with latest Laravel 13 dependency updates.
+
 ## v1.0.6 (2026-03-30)
 - Rename package from `bangkah/starter` to `bangkah/bangkah` for Packagist install consistency.
 - Add Laravel 13 compatibility via `illuminate/support` and `illuminate/console` constraints.
