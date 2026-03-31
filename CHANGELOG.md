@@ -1,5 +1,10 @@
 # Changelog
 
+## v1.0.6 (2026-03-30)
+- Rename package from `bangkah/starter` to `bangkah/bangkah` for Packagist install consistency.
+- Add Laravel 13 compatibility via `illuminate/support` and `illuminate/console` constraints.
+- Lower PHP minimum requirement to `>=8.2` to align with broader Laravel project compatibility.
+
 ## v1.0.4 (2025-12-15)
 - Publish cleanup: add `.gitattributes` to exclude non-essential files from archives.
 - Remove dev-only dependency to keep distribution lean.
@@ -7,8 +12,6 @@
 
 ## v1.0.3 (2025-12-15)
 - Docker build optimizations and fixes.
-# Changelog
-
 All notable changes to `bangkah/bangkah` will be documented in this file.
 ## [1.0.3] - 2024-12-15
 
