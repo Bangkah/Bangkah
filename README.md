@@ -175,17 +175,15 @@ Pagi: eksplorasi & membaca, <b>malam: ngoding dan berbagi</b>.<br>
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 March 2026 - To: 31 March 2026
+From: 25 March 2026 - To: 01 April 2026
 
-Total Time: 6 hrs 8 mins
+Total Time: 8 hrs 30 mins
 
-JavaScript   1 hr 42 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.71 %
-Astro        47 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.97 %
-YAML         34 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 %
-HTML         34 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 %
-Markdown     32 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 %
-TSConfig     31 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 %
-Other        29 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.31 %
+Markdown     2 hrs 16 mins   ██████▒░░░░░░░░░░░░░░░░░░   24.85 %
+JavaScript   1 hr 27 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.90 %
+Astro        47 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 %
+Bash         40 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.33 %
+Other        39 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.16 %
 ```
 
 <!--END_SECTION:waka-->
