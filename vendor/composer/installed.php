@@ -3,7 +3,7 @@
         'name' => 'bangkah/bangkah',
         'pretty_version' => 'dev-main',
         'version' => 'dev-main',
-        'reference' => '175a02cc4e52498c81b6f3893116763b10c2ec30',
+        'reference' => '0bd77121bd9d8432e37ff4b54a96a68de2966a26',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -13,7 +13,7 @@
         'bangkah/bangkah' => array(
             'pretty_version' => 'dev-main',
             'version' => 'dev-main',
-            'reference' => '175a02cc4e52498c81b6f3893116763b10c2ec30',
+            'reference' => '0bd77121bd9d8432e37ff4b54a96a68de2966a26',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
