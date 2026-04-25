@@ -551,16 +551,6 @@ class Application implements ResetInterface
     }
 
     /**
-     * @deprecated since Symfony 7.4, use Application::addCommand() instead
-     */
-    public function add(Command $command): ?Command
-    {
-        trigger_deprecation('symfony/console', '7.4', 'The "%s()" method is deprecated and will be removed in Symfony 8.0, use "%s::addCommand()" instead.', __METHOD__, self::class);
-
-        return $this->addCommand($command);
-    }
-
-    /**
      * Adds a command object.
      *
      * If a command with the same name already exists, it will be overridden.
@@ -773,6 +763,21 @@ class Application implements ResetInterface
 
                 return $commandName === $nameOrAlias || !\in_array($commandName, $commands, true);
             }));
+        }
+
+        // check whether all commands left are aliases to the same one
+        if (\count($commands) > 1) {
+            $uniqueCommands = array_unique(array_map(function ($nameOrAlias) use (&$commandList) {
+                if (!$commandList[$nameOrAlias] instanceof Command) {
+                    $commandList[$nameOrAlias] = $this->commandLoader->get($nameOrAlias);
+                }
+
+                return $commandList[$nameOrAlias]->getName();
+            }, $commands));
+
+            if (1 === \count($uniqueCommands)) {
+                $commands = [reset($uniqueCommands)];
+            }
         }
 
         if (\count($commands) > 1) {
@@ -1335,14 +1340,8 @@ class Application implements ResetInterface
         }
         $this->initialized = true;
 
-        if ((new \ReflectionMethod($this, 'add'))->getDeclaringClass()->getName() !== (new \ReflectionMethod($this, 'addCommand'))->getDeclaringClass()->getName()) {
-            $adder = $this->add(...);
-        } else {
-            $adder = $this->addCommand(...);
-        }
-
         foreach ($this->getDefaultCommands() as $command) {
-            $adder($command);
+            $this->addCommand($command);
         }
     }
 }
