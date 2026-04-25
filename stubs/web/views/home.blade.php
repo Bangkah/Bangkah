@@ -128,7 +128,7 @@
         </div>
 
         <div class="cta">
-            <a href="https://laravel.com/docs" class="btn btn-primary" target="_blank">Documentation</a>
+            <a href="https://bangkah-lancher-docs.pages.dev/" class="btn btn-primary" target="_blank">Documentation</a>
             <a href="https://github.com/Bangkah" class="btn btn-secondary" target="_blank">GitHub</a>
         </div>
 

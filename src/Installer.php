@@ -27,7 +27,7 @@ class Installer
 
         $io->write("\n");
         $io->write("<info>╔══════════════════════════════════════╗</info>\n");
-        $io->write("<info>║   🚀 Bangkah Starter Kit Installed  ║</info>\n");
+        $io->write("<info>║    Bangkah Starter Kit Installed     ║</info>\n");
         $io->write("<info>╚══════════════════════════════════════╝</info>\n");
         $io->write("\n");
 
