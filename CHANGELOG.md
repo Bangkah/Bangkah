@@ -1,13 +1,11 @@
 # Changelog
 
 ## v1.0.6.1 (2026-03-31)
-- Expand symfony/process constraint to include `^8.0` for compatibility with latest Laravel 13 dependency updates.
 
+## v1.0.6.2 (2026-04-25)
+- Add explicit `license` field to composer.json for Packagist metadata compliance (shows MIT license correctly).
 ## v1.0.6 (2026-03-30)
 - Rename package from `bangkah/starter` to `bangkah/bangkah` for Packagist install consistency.
-- Add Laravel 13 compatibility via `illuminate/support` and `illuminate/console` constraints.
-- Lower PHP minimum requirement to `>=8.2` to align with broader Laravel project compatibility.
-
 ## v1.0.4 (2025-12-15)
 - Publish cleanup: add `.gitattributes` to exclude non-essential files from archives.
 - Remove dev-only dependency to keep distribution lean.
