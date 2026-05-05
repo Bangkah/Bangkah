@@ -21,6 +21,15 @@
       "/vendor/"
     ]
   },
+  "autoload-dev": {
+    "psr-4": {
+      "Bangkah\\Starter\\": "src/"
+    }
+  },
+  "files": [
+    "src/BangkahServiceProvider.php",
+    "src/Console/StarterCreateCommand.php"
+  ],
   "extra": {
     "laravel": {
       "providers": [
