@@ -44,19 +44,38 @@ class StarterCreateCommand extends Command
             ? ($nonInteractive ? (bool) $this->option('nginx') : $this->confirm('Gunakan Nginx?', true))
             : false;
 
-        $projectType = $this->option('type')
-            ? (strtolower($this->option('type')) === 'api' ? 'API' : 'Web')
-            : $this->choice('Tipe project?', ['Web', 'API'], 0);
+        if ($this->option('type')) {
+            $projectType = strtolower($this->option('type')) === 'api' ? 'API' : 'Web';
+        } elseif ($nonInteractive) {
+            $projectType = 'Web';
+        } else {
+            $projectType = $this->choice('Tipe project?', ['Web', 'API'], 0);
+        }
 
         $includeAuth = $this->option('auth') ? true : ($nonInteractive ? false : $this->confirm('Include auth scaffolding?', false));
 
-        $dbType = $this->option('db')
-            ? (strtolower($this->option('db')) === 'postgres' || strtolower($this->option('db')) === 'pgsql' || strtolower($this->option('db')) === 'postgresql' ? 'PostgreSQL' : 'MySQL')
-            : $this->choice('Tipe database?', ['MySQL', 'PostgreSQL'], 0);
+        if ($this->option('db')) {
+            $dbOption = strtolower($this->option('db'));
+            $dbType = $dbOption === 'postgres' || $dbOption === 'pgsql' || $dbOption === 'postgresql'
+                ? 'PostgreSQL'
+                : 'MySQL';
+        } elseif ($nonInteractive) {
+            $dbType = 'MySQL';
+        } else {
+            $dbType = $this->choice('Tipe database?', ['MySQL', 'PostgreSQL'], 0);
+        }
 
-        $frontend = $this->option('frontend')
-            ? (match (strtolower($this->option('frontend'))) { 'none' => 'None', 'bootstrap' => 'Bootstrap', default => 'Tailwind' })
-            : $this->choice('Frontend?', ['Tailwind', 'Bootstrap', 'None'], 0);
+        if ($this->option('frontend')) {
+            $frontend = match (strtolower($this->option('frontend'))) {
+                'none' => 'None',
+                'bootstrap' => 'Bootstrap',
+                default => 'Tailwind',
+            };
+        } elseif ($nonInteractive) {
+            $frontend = 'Tailwind';
+        } else {
+            $frontend = $this->choice('Frontend?', ['Tailwind', 'Bootstrap', 'None'], 0);
+        }
 
         // Apply templates based on project type
         if ($projectType === 'Web') {
