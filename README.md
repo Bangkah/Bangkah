@@ -1,12 +1,12 @@
-<h1 align="center">Hi 👋, I'm Bangkah</h1>
+<h1 align="center">Hi, I'm Bangkah</h1>
 <img align="right" alt="Coder GIF" width="360" src="https://firebasestorage.googleapis.com/v0/b/nitc-permission-system.appspot.com/o/github-images%2Fdhwanish-coding.gif?alt=media&token=1bf44f70-8a12-43e7-bab7-f2992be2bff2" />
 
-## 🧬 About
-- 👨 **Nama:** Muhammad Dhiyaul Atha
-- 🎓 **Mahasiswa:** Teknik Informatika — Politeknik Negeri Lhokseumawe  
-- 📍 **Domisili:** Aceh, Indonesia (UTC+7)   
-- 🌐 **Website:** [mdhiyaulatha.me](https://mdhiyaulatha.me)  
-- 📩 **Email:** mdhyaulatha@gmail.com  
+## About
+- **Nama:** Muhammad Dhiyaul Atha
+- **Mahasiswa:** Teknik Informatika — Politeknik Negeri Lhokseumawe  
+- **Domisili:** Aceh, Indonesia (UTC+7)   
+- **Website:** [mdhiyaulatha.me](https://mdhiyaulatha.me)  
+- **Email:** mdhyaulatha@gmail.com  
 
 ---
 
@@ -46,13 +46,13 @@
 <p align="center" style="font-size:1.13em;">
 🌱 <i>Ketelitian hari ini menentukan stabilitas esok hari.<br>
 Pagi: eksplorasi & membaca, <b>malam: ngoding dan berbagi</b>.<br>
-"Lakukan hal kecil setiap hari, hingga menjadi kebiasaan besar."</i> 🚀
+"Lakukan hal kecil setiap hari, hingga menjadi kebiasaan besar."</i>
 </p>
 </details>
 
 ---
 
-## ⚡ Tech Stack
+## Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=laravel,php,typescript,react,vue,nodejs,python,docker,nginx,linux,bash,git,mysql,sqlite,cloudflare" />
@@ -60,7 +60,7 @@ Pagi: eksplorasi & membaca, <b>malam: ngoding dan berbagi</b>.<br>
 
 ---
 
-## 🌍 Developer Ranking
+## Developer Ranking
 
 [![Check out Bangkah's profile on stardev.io](https://stardev.io/developers/Bangkah/badge/languages/locality.svg)](https://stardev.io/developers/Bangkah)
 
@@ -71,7 +71,7 @@ Pagi: eksplorasi & membaca, <b>malam: ngoding dan berbagi</b>.<br>
 ---
 
 
-## 📊 GitHub Insights & Progress
+## GitHub Insights & Progress
 
 <table align="center">
   <tr>
@@ -101,7 +101,7 @@ Pagi: eksplorasi & membaca, <b>malam: ngoding dan berbagi</b>.<br>
 
 ---
 
-## 🏆 GitHub Trophy
+## GitHub Trophy
 
 <p align="center">
   <img
@@ -113,17 +113,17 @@ Pagi: eksplorasi & membaca, <b>malam: ngoding dan berbagi</b>.<br>
 
 ---
 
-<h3>🚀 Highlighted Projects</h3>
+<h3 Highlighted Projects</h3>
 
 <table align="center">
   <tr>
     <td align="center" valign="top" width="50%">
-      <a href="https://github.com/Bangkah/AegisCrypt-Web">
+      <a href="https://github.com/Bangkah/bangkah-launcher">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bangkah&repo=AegisCrypt-Web&theme=radical&border_color=111"/>
       </a>
     </td>
     <td align="center" valign="top" width="50%">
-      <a href="https://github.com/Bangkah/setup-archlinux">
+      <a href="https://github.com/Bangkah/atha-nlp-sentiment-pipeline">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bangkah&repo=setup-archlinux&theme=radical&border_color=111"/>
       </a>
     </td>
@@ -148,7 +148,7 @@ Pagi: eksplorasi & membaca, <b>malam: ngoding dan berbagi</b>.<br>
       </a>
     </td>
     <td align="center" valign="top">
-      <a href="https://github.com/Bangkah/bangkah_launcher_app">
+      <a href="https://github.com/Bangkah/Atha">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bangkah&repo=bangkah_launcher_app&theme=radical&border_color=111"/>
       </a>
     </td>
@@ -157,7 +157,7 @@ Pagi: eksplorasi & membaca, <b>malam: ngoding dan berbagi</b>.<br>
 
 ---
 
-## 📢 Recent Activity
+## Recent Activity
 
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#9](https://github.com/IMPHNEN/Ramadhan-Code-Fest-2026/pull/9) in [IMPHNEN/Ramadhan-Code-Fest-2026](https://github.com/IMPHNEN/Ramadhan-Code-Fest-2026)
@@ -170,7 +170,7 @@ Pagi: eksplorasi & membaca, <b>malam: ngoding dan berbagi</b>.<br>
 ---
 
 
-## ⏱️ WakaTime Coding Activity
+## WakaTime Coding Activity
 
 <!--START_SECTION:waka-->
 
@@ -191,12 +191,12 @@ Other        39 mins         █▓░░░░░░░░░░░░░░░
 ---
 
 
-## 💡 Fun Facts & Inside Bangkah
+## Fun Facts & Inside Bangkah
 
-- 🌄 **Pagi:** Eksplorasi tech baru, baca dokumentasi, kadang menulis blog.
-- 🌙 **Malam:** Ngoding, debugging, kontribusi open source.
-- 🔧 **Tambahan:** Security research, server troubleshooting, automation scripting.
-- 🎶 **Teman:** Terminal, playlist RebellionRose, dan secangkir kopi!
+- **Pagi:** Eksplorasi tech baru, baca dokumentasi, kadang menulis blog.
+- **Malam:** Ngoding, debugging, kontribusi open source.
+- **Tambahan:** Security research, server troubleshooting, automation scripting.
+- **Teman:** Terminal, playlist RebellionRose, dan secangkir kopi!
 
 ---
 
