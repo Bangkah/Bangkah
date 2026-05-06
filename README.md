@@ -119,12 +119,12 @@ Pagi: eksplorasi & membaca, <b>malam: ngoding dan berbagi</b>.<br>
   <tr>
     <td align="center" valign="top" width="50%">
       <a href="https://github.com/Bangkah/bangkah-launcher">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bangkah&repo=AegisCrypt-Web&theme=radical&border_color=111"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bangkah&repo=bangkah-launcher&theme=radical&border_color=111"/>
       </a>
     </td>
     <td align="center" valign="top" width="50%">
       <a href="https://github.com/Bangkah/atha-nlp-sentiment-pipeline">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bangkah&repo=setup-archlinux&theme=radical&border_color=111"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bangkah&repo=atha-nlp-sentiment-pipeline&theme=radical&border_color=111"/>
       </a>
     </td>
   </tr>
@@ -149,7 +149,7 @@ Pagi: eksplorasi & membaca, <b>malam: ngoding dan berbagi</b>.<br>
     </td>
     <td align="center" valign="top">
       <a href="https://github.com/Bangkah/Atha">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bangkah&repo=bangkah_launcher_app&theme=radical&border_color=111"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bangkah&repo=Atha&theme=radical&border_color=111"/>
       </a>
     </td>
   </tr>
