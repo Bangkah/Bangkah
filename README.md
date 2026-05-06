@@ -160,11 +160,11 @@ Pagi: eksplorasi & membaca, <b>malam: ngoding dan berbagi</b>.<br>
 ## 📢 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#9](https://github.com/IMPHNEN/Ramadhan-Code-Fest-2026/pull/9) in [IMPHNEN/Ramadhan-Code-Fest-2026](https://github.com/IMPHNEN/Ramadhan-Code-Fest-2026)
-2. 🗣 Commented on [#9](https://github.com/IMPHNEN/Ramadhan-Code-Fest-2026/pull/9#issuecomment-3928377585) in [IMPHNEN/Ramadhan-Code-Fest-2026](https://github.com/IMPHNEN/Ramadhan-Code-Fest-2026)
-3. 🗣 Commented on [#9](https://github.com/IMPHNEN/Ramadhan-Code-Fest-2026/pull/9#issuecomment-3928259545) in [IMPHNEN/Ramadhan-Code-Fest-2026](https://github.com/IMPHNEN/Ramadhan-Code-Fest-2026)
-4. 🗣 Commented on [#9](https://github.com/IMPHNEN/Ramadhan-Code-Fest-2026/pull/9#issuecomment-3928201474) in [IMPHNEN/Ramadhan-Code-Fest-2026](https://github.com/IMPHNEN/Ramadhan-Code-Fest-2026)
-5. 🗣 Commented on [#9](https://github.com/IMPHNEN/Ramadhan-Code-Fest-2026/pull/9#issuecomment-3928177388) in [IMPHNEN/Ramadhan-Code-Fest-2026](https://github.com/IMPHNEN/Ramadhan-Code-Fest-2026)
+1. 🗣 Commented on [#6](https://github.com/Bangkah/portfolio/pull/6#issuecomment-4380711577) in [Bangkah/portfolio](https://github.com/Bangkah/portfolio)
+2. ❌ Closed PR [#3](https://github.com/Bangkah/portfolio/pull/3) in [Bangkah/portfolio](https://github.com/Bangkah/portfolio)
+3. 🗣 Commented on [#1](https://github.com/Bangkah/portfolio/pull/1#issuecomment-4380605071) in [Bangkah/portfolio](https://github.com/Bangkah/portfolio)
+4. 🗣 Commented on [#1](https://github.com/Bangkah/portfolio/pull/1#issuecomment-4380574842) in [Bangkah/portfolio](https://github.com/Bangkah/portfolio)
+5. 🗣 Commented on [#1](https://github.com/Bangkah/portfolio/pull/1#issuecomment-4380543355) in [Bangkah/portfolio](https://github.com/Bangkah/portfolio)
 <!--END_SECTION:activity-->
 
 ---
