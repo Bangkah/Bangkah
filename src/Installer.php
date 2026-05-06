@@ -32,7 +32,7 @@ class Installer
         $io->write("\n");
 
         if (!$io->isInteractive()) {
-            $io->writeError("<comment>Jalankan 'php artisan starter:create' untuk mulai scaffold project.</comment>\n");
+            $io->writeError("<comment>Jalankan 'php artisan bangkah:create' untuk mulai scaffold project.</comment>\n");
             return;
         }
 
@@ -42,18 +42,18 @@ class Installer
         );
 
         if (!$confirm) {
-            $io->writeError("<comment>Anda dapat menjalankan 'php artisan starter:create' kapan saja.</comment>\n");
+            $io->writeError("<comment>Anda dapat menjalankan 'php artisan bangkah:create' kapan saja.</comment>\n");
             return;
         }
 
-        $process = new Process(['php', 'artisan', 'starter:create']);
+        $process = new Process(['php', 'artisan', 'bangkah:create']);
         $process->setTty(true);
         $process->run(function ($type, $buffer) use ($io) {
             $io->write($buffer);
         });
 
         if (!$process->isSuccessful()) {
-            $io->writeError("<error>Gagal menjalankan starter:create!</error>");
+            $io->writeError("<error>Gagal menjalankan bangkah:create!</error>");
         }
     }
 }
