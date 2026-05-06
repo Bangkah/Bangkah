@@ -9,16 +9,16 @@
       "Bangkah\\Starter\\": "src/"
     },
     "exclude-from-classmap": [
-      "/app/",
-      "/bootstrap/",
-      "/config/",
-      "/database/",
-      "/public/",
-      "/resources/",
-      "/routes/",
-      "/storage/",
-      "/tests/",
-      "/vendor/"
+      "app/",
+      "bootstrap/",
+      "config/",
+      "database/",
+      "public/",
+      "resources/",
+      "routes/",
+      "storage/",
+      "tests/",
+      "vendor/"
     ]
   },
   "autoload-dev": {
@@ -26,10 +26,6 @@
       "Bangkah\\Starter\\": "src/"
     }
   },
-  "files": [
-    "src/BangkahServiceProvider.php",
-    "src/Console/StarterCreateCommand.php"
-  ],
   "extra": {
     "laravel": {
       "providers": [
