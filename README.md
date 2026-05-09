@@ -175,14 +175,14 @@ Pagi: eksplorasi & membaca, <b>malam: ngoding dan berbagi</b>.<br>
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 April 2026 - To: 07 May 2026
+From: 01 May 2026 - To: 08 May 2026
 
-Total Time: 6 hrs 51 mins
+Total Time: 7 hrs 36 mins
 
-Python       2 hrs 22 mins   ████████░░░░░░░░░░░░░░░░░   31.78 %
-Markdown     2 hrs 11 mins   ███████▒░░░░░░░░░░░░░░░░░   29.31 %
-CSV          44 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.87 %
-Other        37 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 %
+Python       2 hrs 52 mins   ████████▓░░░░░░░░░░░░░░░░   34.83 %
+Markdown     2 hrs 20 mins   ███████░░░░░░░░░░░░░░░░░░   28.53 %
+CSV          49 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.96 %
+Other        37 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 %
 ```
 
 <!--END_SECTION:waka-->
