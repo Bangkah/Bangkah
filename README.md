@@ -160,11 +160,11 @@ Pagi: eksplorasi & membaca, <b>malam: ngoding dan berbagi</b>.<br>
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6](https://github.com/Bangkah/portfolio/pull/6#issuecomment-4380711577) in [Bangkah/portfolio](https://github.com/Bangkah/portfolio)
-2. ❌ Closed PR [#3](https://github.com/Bangkah/portfolio/pull/3) in [Bangkah/portfolio](https://github.com/Bangkah/portfolio)
-3. 🗣 Commented on [#1](https://github.com/Bangkah/portfolio/pull/1#issuecomment-4380605071) in [Bangkah/portfolio](https://github.com/Bangkah/portfolio)
-4. 🗣 Commented on [#1](https://github.com/Bangkah/portfolio/pull/1#issuecomment-4380574842) in [Bangkah/portfolio](https://github.com/Bangkah/portfolio)
-5. 🗣 Commented on [#1](https://github.com/Bangkah/portfolio/pull/1#issuecomment-4380543355) in [Bangkah/portfolio](https://github.com/Bangkah/portfolio)
+1. 🎉 Merged PR [#1](https://github.com/scythe71/web-predict-laptop-price/pull/1) in [scythe71/web-predict-laptop-price](https://github.com/scythe71/web-predict-laptop-price)
+2. 💪 Opened PR [#1](https://github.com/scythe71/web-predict-laptop-price/pull/1) in [scythe71/web-predict-laptop-price](https://github.com/scythe71/web-predict-laptop-price)
+3. 🗣 Commented on [#6](https://github.com/Bangkah/portfolio/pull/6#issuecomment-4380711577) in [Bangkah/portfolio](https://github.com/Bangkah/portfolio)
+4. ❌ Closed PR [#3](https://github.com/Bangkah/portfolio/pull/3) in [Bangkah/portfolio](https://github.com/Bangkah/portfolio)
+5. 🗣 Commented on [#1](https://github.com/Bangkah/portfolio/pull/1#issuecomment-4380605071) in [Bangkah/portfolio](https://github.com/Bangkah/portfolio)
 <!--END_SECTION:activity-->
 
 ---
