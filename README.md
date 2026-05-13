@@ -175,16 +175,15 @@ Pagi: eksplorasi & membaca, <b>malam: ngoding dan berbagi</b>.<br>
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 May 2026 - To: 10 May 2026
+From: 04 May 2026 - To: 11 May 2026
 
-Total Time: 3 hrs 40 mins
+Total Time: 4 hrs 57 mins
 
-Markdown   1 hr 28 mins    █████████▓░░░░░░░░░░░░░░░   38.60 %
-Python     54 mins         ██████░░░░░░░░░░░░░░░░░░░   23.85 %
-PHP        30 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.27 %
-YAML       19 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 %
-JSON       14 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.28 %
-Other      10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 %
+Markdown   2 hrs 10 mins   ██████████▒░░░░░░░░░░░░░░   41.16 %
+Python     55 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.52 %
+PHP        24 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 %
+HTML       22 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.19 %
+Other      20 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.58 %
 ```
 
 <!--END_SECTION:waka-->
