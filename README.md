@@ -175,18 +175,18 @@ Pagi: eksplorasi & membaca, <b>malam: ngoding dan berbagi</b>.<br>
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 May 2026 - To: 21 May 2026
+From: 15 May 2026 - To: 22 May 2026
 
-Total Time: 4 hrs 48 mins
+Total Time: 4 hrs 39 mins
 
-Markdown         1 hr 33 mins    ████████░░░░░░░░░░░░░░░░░   32.36 %
-JavaScript       50 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.56 %
-PHP              49 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.94 %
-Blade Template   42 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.62 %
-Python           24 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 %
-HTML             16 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.66 %
-Git              4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 %
-CSV              3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
+Markdown         1 hr 29 mins    ████████░░░░░░░░░░░░░░░░░   31.95 %
+PHP              49 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.50 %
+JavaScript       47 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.91 %
+Blade Template   42 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.10 %
+Python           24 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.84 %
+HTML             16 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.85 %
+Git              4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.75 %
+CSV              3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 %
 ```
 
 <!--END_SECTION:waka-->
