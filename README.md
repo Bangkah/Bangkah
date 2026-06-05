@@ -175,18 +175,18 @@ Pagi: eksplorasi & membaca, <b>malam: ngoding dan berbagi</b>.<br>
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 May 2026 - To: 02 June 2026
+From: 27 May 2026 - To: 03 June 2026
 
-Total Time: 3 hrs 17 mins
+Total Time: 1 hr 58 mins
 
-JavaScript   1 hr 19 mins    ██████████░░░░░░░░░░░░░░░   40.39 %
-Markdown     58 mins         ███████▒░░░░░░░░░░░░░░░░░   29.71 %
-Bash         22 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.28 %
-YAML         14 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 %
-HTML         10 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.07 %
-JSON         6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.19 %
-Git Config   5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.66 %
-Text         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+Markdown          37 mins         ████████░░░░░░░░░░░░░░░░░   31.78 %
+JavaScript        28 mins         ██████░░░░░░░░░░░░░░░░░░░   24.28 %
+Java              19 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.46 %
+Bash              13 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.64 %
+HTML              9 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 %
+YAML              6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.24 %
+Groovy            1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
+Git Config        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
 ```
 
 <!--END_SECTION:waka-->
