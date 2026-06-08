@@ -160,11 +160,11 @@ Pagi: eksplorasi & membaca, <b>malam: ngoding dan berbagi</b>.<br>
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#7](https://github.com/Bangkah/portfolio/pull/7) in [Bangkah/portfolio](https://github.com/Bangkah/portfolio)
-2. ❌ Closed PR [#2](https://github.com/Bangkah/portfolio/pull/2) in [Bangkah/portfolio](https://github.com/Bangkah/portfolio)
-3. 🎉 Merged PR [#2](https://github.com/scythe71/klasifikasi_diabetes/pull/2) in [scythe71/klasifikasi_diabetes](https://github.com/scythe71/klasifikasi_diabetes)
-4. 💪 Opened PR [#2](https://github.com/scythe71/klasifikasi_diabetes/pull/2) in [scythe71/klasifikasi_diabetes](https://github.com/scythe71/klasifikasi_diabetes)
-5. 🎉 Merged PR [#1](https://github.com/scythe71/klasifikasi_diabetes/pull/1) in [scythe71/klasifikasi_diabetes](https://github.com/scythe71/klasifikasi_diabetes)
+1. ❌ Closed PR [#3](https://github.com/ammarramma/klasifikasi_diabetes/pull/3) in [ammarramma/klasifikasi_diabetes](https://github.com/ammarramma/klasifikasi_diabetes)
+2. 💪 Opened PR [#3](https://github.com/ammarramma/klasifikasi_diabetes/pull/3) in [ammarramma/klasifikasi_diabetes](https://github.com/ammarramma/klasifikasi_diabetes)
+3. ❌ Closed PR [#7](https://github.com/Bangkah/portfolio/pull/7) in [Bangkah/portfolio](https://github.com/Bangkah/portfolio)
+4. ❌ Closed PR [#2](https://github.com/Bangkah/portfolio/pull/2) in [Bangkah/portfolio](https://github.com/Bangkah/portfolio)
+5. 🎉 Merged PR [#2](https://github.com/ammarramma/klasifikasi_diabetes/pull/2) in [ammarramma/klasifikasi_diabetes](https://github.com/ammarramma/klasifikasi_diabetes)
 <!--END_SECTION:activity-->
 
 ---
