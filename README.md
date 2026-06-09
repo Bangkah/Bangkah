@@ -160,11 +160,11 @@ Pagi: eksplorasi & membaca, <b>malam: ngoding dan berbagi</b>.<br>
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#3](https://github.com/ammarramma/klasifikasi_diabetes/pull/3) in [ammarramma/klasifikasi_diabetes](https://github.com/ammarramma/klasifikasi_diabetes)
-2. 💪 Opened PR [#3](https://github.com/ammarramma/klasifikasi_diabetes/pull/3) in [ammarramma/klasifikasi_diabetes](https://github.com/ammarramma/klasifikasi_diabetes)
-3. ❌ Closed PR [#7](https://github.com/Bangkah/portfolio/pull/7) in [Bangkah/portfolio](https://github.com/Bangkah/portfolio)
-4. ❌ Closed PR [#2](https://github.com/Bangkah/portfolio/pull/2) in [Bangkah/portfolio](https://github.com/Bangkah/portfolio)
-5. 🎉 Merged PR [#2](https://github.com/ammarramma/klasifikasi_diabetes/pull/2) in [ammarramma/klasifikasi_diabetes](https://github.com/ammarramma/klasifikasi_diabetes)
+1. ❌ Closed PR [#5](https://github.com/ammarramma/klasifikasi_diabetes/pull/5) in [ammarramma/klasifikasi_diabetes](https://github.com/ammarramma/klasifikasi_diabetes)
+2. 🗣 Commented on [#5](https://github.com/ammarramma/klasifikasi_diabetes/pull/5#issuecomment-4645315459) in [ammarramma/klasifikasi_diabetes](https://github.com/ammarramma/klasifikasi_diabetes)
+3. 💪 Opened PR [#5](https://github.com/ammarramma/klasifikasi_diabetes/pull/5) in [ammarramma/klasifikasi_diabetes](https://github.com/ammarramma/klasifikasi_diabetes)
+4. ❌ Closed PR [#4](https://github.com/ammarramma/klasifikasi_diabetes/pull/4) in [ammarramma/klasifikasi_diabetes](https://github.com/ammarramma/klasifikasi_diabetes)
+5. 💪 Opened PR [#4](https://github.com/ammarramma/klasifikasi_diabetes/pull/4) in [ammarramma/klasifikasi_diabetes](https://github.com/ammarramma/klasifikasi_diabetes)
 <!--END_SECTION:activity-->
 
 ---
