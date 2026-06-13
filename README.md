@@ -160,11 +160,11 @@ Pagi: eksplorasi & membaca, <b>malam: ngoding dan berbagi</b>.<br>
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1](https://github.com/ammarramma/Domain-Controller-Server/issues/1) in [ammarramma/Domain-Controller-Server](https://github.com/ammarramma/Domain-Controller-Server)
-2. ❌ Closed PR [#5](https://github.com/ammarramma/klasifikasi_diabetes/pull/5) in [ammarramma/klasifikasi_diabetes](https://github.com/ammarramma/klasifikasi_diabetes)
-3. 🗣 Commented on [#5](https://github.com/ammarramma/klasifikasi_diabetes/pull/5#issuecomment-4645315459) in [ammarramma/klasifikasi_diabetes](https://github.com/ammarramma/klasifikasi_diabetes)
-4. 💪 Opened PR [#5](https://github.com/ammarramma/klasifikasi_diabetes/pull/5) in [ammarramma/klasifikasi_diabetes](https://github.com/ammarramma/klasifikasi_diabetes)
-5. ❌ Closed PR [#4](https://github.com/ammarramma/klasifikasi_diabetes/pull/4) in [ammarramma/klasifikasi_diabetes](https://github.com/ammarramma/klasifikasi_diabetes)
+1. ❗ Opened issue [#47](https://github.com/Bangkah/bangkah-launcher/issues/47) in [Bangkah/bangkah-launcher](https://github.com/Bangkah/bangkah-launcher)
+2. ❗ Opened issue [#46](https://github.com/Bangkah/bangkah-launcher/issues/46) in [Bangkah/bangkah-launcher](https://github.com/Bangkah/bangkah-launcher)
+3. ❗ Opened issue [#45](https://github.com/Bangkah/bangkah-launcher/issues/45) in [Bangkah/bangkah-launcher](https://github.com/Bangkah/bangkah-launcher)
+4. ❗ Opened issue [#1](https://github.com/ammarramma/Domain-Controller-Server/issues/1) in [ammarramma/Domain-Controller-Server](https://github.com/ammarramma/Domain-Controller-Server)
+5. ❌ Closed PR [#5](https://github.com/ammarramma/klasifikasi_diabetes/pull/5) in [ammarramma/klasifikasi_diabetes](https://github.com/ammarramma/klasifikasi_diabetes)
 <!--END_SECTION:activity-->
 
 ---
