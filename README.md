@@ -175,14 +175,13 @@ Pagi: eksplorasi & membaca, <b>malam: ngoding dan berbagi</b>.<br>
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 June 2026 - To: 02 July 2026
+From: 26 June 2026 - To: 03 July 2026
 
-Total Time: 54 mins
+Total Time: 1 hr 13 mins
 
-Markdown     24 mins         ███████████░░░░░░░░░░░░░░   44.39 %
-Java         24 mins         ███████████░░░░░░░░░░░░░░   44.15 %
-YAML         4 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 %
-Other        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 %
+Markdown     26 mins         ███████▒░░░░░░░░░░░░░░░░░   28.93 %
+Java         24 mins         ██████▓░░░░░░░░░░░░░░░░░░   27.02 %
+Other        16 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.16 %
 ```
 
 <!--END_SECTION:waka-->
