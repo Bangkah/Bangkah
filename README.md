@@ -160,7 +160,7 @@ Pagi: eksplorasi & membaca, <b>malam: ngoding dan berbagi</b>.<br>
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#47](https://github.com/Bangkahdev/bangkah-launcher/issues/47) in [Bangkahdev/bangkah-launcher](https://github.com/Bangkahdev/bangkah-launcher)
+1. ❗ Opened issue [#9](https://github.com/rahmatsubandi/Spam-chat-Whatsapp/issues/9) in [rahmatsubandi/Spam-chat-Whatsapp](https://github.com/rahmatsubandi/Spam-chat-Whatsapp)
 2. ❗ Opened issue [#46](https://github.com/Bangkahdev/bangkah-launcher/issues/46) in [Bangkahdev/bangkah-launcher](https://github.com/Bangkahdev/bangkah-launcher)
 3. ❗ Opened issue [#45](https://github.com/Bangkahdev/bangkah-launcher/issues/45) in [Bangkahdev/bangkah-launcher](https://github.com/Bangkahdev/bangkah-launcher)
 4. ❗ Opened issue [#1](https://github.com/ammarramma/Domain-Controller-Server/issues/1) in [ammarramma/Domain-Controller-Server](https://github.com/ammarramma/Domain-Controller-Server)
