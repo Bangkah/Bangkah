@@ -62,8 +62,8 @@ Pagi: eksplorasi & membaca, <b>malam: ngoding dan berbagi</b>.<br>
 
 ## Developer Ranking
 
-[![Check out Bangkah's profile on stardev.io](https://stardev.io/developers/Bangkah/badge/languages/locality.svg)](https://stardev.io/developers/Bangkah)
-
+[![Check out Bangkah's profile on stardev.io](https://stardev.io/developers/Bangkah/badge/languages/country.svg)](https://stardev.io/developers/Bangkah)
+<br>
 <sub>🇮🇩 Country ranking based on total GitHub stars · Source: stardev.io</sub>
 
 
@@ -113,7 +113,7 @@ Pagi: eksplorasi & membaca, <b>malam: ngoding dan berbagi</b>.<br>
 
 ---
 
-<h3 align="center">Highlighted Projects</h3>
+<!-- <h3 align="center">Highlighted Projects</h3>
 
 <table align="center">
   <tr>
@@ -155,7 +155,7 @@ Pagi: eksplorasi & membaca, <b>malam: ngoding dan berbagi</b>.<br>
     </td>
   </tr>
 </table>
----
+--- -->
 
 ## Recent Activity
 
