@@ -77,13 +77,13 @@ Pagi: eksplorasi & membaca, <b>malam: ngoding dan berbagi</b>.<br>
   <tr>
     <td align="center" width="50%">
       <img
-        src="https://readme-stats-fabio-vicente.vercel.app/api?username=Bangkah&show_icons=true&theme=radical&include_all_commits=true&count_private=true&show=reviews,discussions_answered,discussions_started,prs,prs_merged,prs_merged_percentage,issues,contribs"
+        src="https://github-readme-stats-sigma-five.vercel.app/api?username=Bangkah&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&show=reviews,discussions_answered,discussions_started,prs,prs_merged,prs_merged_percentage,issues,contribs"
         alt="Statistik GitHub Bangkah"
       />
     </td>
     <td align="center" width="50%">
       <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bangkah&layout=compact&langs_count=12&theme=radical"
+        src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Bangkah&layout=compact&langs_count=12&theme=radical"
         alt="Top Languages Bangkah"
       />
     </td>
@@ -113,48 +113,48 @@ Pagi: eksplorasi & membaca, <b>malam: ngoding dan berbagi</b>.<br>
 
 ---
 
-<h3 Highlighted Projects</h3>
+<h3 align="center">Highlighted Projects</h3>
 
 <table align="center">
   <tr>
-    <td align="center" valign="top" width="50%">
+    <td width="50%" align="center">
       <a href="https://github.com/Bangkah/bangkah-launcher">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bangkah&repo=bangkah-launcher&theme=radical&border_color=111"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bangkah&repo=bangkah-launcher&theme=tokyonight&hide_border=true&show_owner=false&cache_seconds=86400"/>
       </a>
     </td>
-    <td align="center" valign="top" width="50%">
+    <td width="50%" align="center">
       <a href="https://github.com/Bangkah/atha-nlp-sentiment-pipeline">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bangkah&repo=atha-nlp-sentiment-pipeline&theme=radical&border_color=111"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bangkah&repo=atha-nlp-sentiment-pipeline&theme=tokyonight&hide_border=true&show_owner=false&cache_seconds=86400"/>
       </a>
     </td>
   </tr>
+
   <tr>
-    <td align="center" valign="top">
+    <td width="50%" align="center">
       <a href="https://github.com/Bangkah/malware-sample">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bangkah&repo=malware-sample&theme=radical&border_color=111"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bangkah&repo=malware-sample&theme=tokyonight&hide_border=true&show_owner=false&cache_seconds=86400"/>
       </a>
-      <br>
     </td>
-    <td align="center" valign="top">
+    <td width="50%" align="center">
       <a href="https://github.com/Bangkah/ABSENSI-KARYAWAN">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bangkah&repo=ABSENSI-KARYAWAN&theme=radical&border_color=111"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bangkah&repo=ABSENSI-KARYAWAN&theme=tokyonight&hide_border=true&show_owner=false&cache_seconds=86400"/>
       </a>
     </td>
   </tr>
+
   <tr>
-    <td align="center" valign="top">
+    <td width="50%" align="center">
       <a href="https://github.com/Bangkah/Muslim-Life">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bangkah&repo=Muslim-Life&theme=radical&border_color=111"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bangkah&repo=Muslim-Life&theme=tokyonight&hide_border=true&show_owner=false&cache_seconds=86400"/>
       </a>
     </td>
-    <td align="center" valign="top">
+    <td width="50%" align="center">
       <a href="https://github.com/Bangkah/Atha">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bangkah&repo=Atha&theme=radical&border_color=111"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bangkah&repo=Atha&theme=tokyonight&hide_border=true&show_owner=false&cache_seconds=86400"/>
       </a>
     </td>
   </tr>
 </table>
-
 ---
 
 ## Recent Activity
