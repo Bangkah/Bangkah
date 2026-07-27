@@ -62,7 +62,14 @@ Pagi: eksplorasi & membaca, <b>malam: ngoding dan berbagi</b>.<br>
 
 ## Developer Ranking
 
-![StarDev Languages](https://stardev.io/developers/Bangkah/badge/languages/global.svg)
+<p align="center">
+  <a href="https://stardev.io/developers/Bangkah">
+    <img
+      src="https://stardev.io/developers/Bangkah/badge/languages/global.svg"
+      alt="StarDev"
+      width="550">
+  </a>
+</p>
 <br>
 <sub>🇮🇩 Country ranking based on total GitHub stars · Source: stardev.io</sub>
 
