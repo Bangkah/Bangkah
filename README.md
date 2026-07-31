@@ -161,11 +161,11 @@ Pagi: eksplorasi & membaca, <b>malam: ngoding dan berbagi</b>.<br>
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1](https://github.com/isanbly06/ikhsan-movie/issues/1) in [isanbly06/ikhsan-movie](https://github.com/isanbly06/ikhsan-movie)
-2. 🗣 Commented on [#22](https://github.com/oliyh/stardev-feedback/issues/22#issuecomment-5039978498) in [oliyh/stardev-feedback](https://github.com/oliyh/stardev-feedback)
-3. ❗ Opened issue [#7](https://github.com/Bangkah/Muslim-Life/issues/7) in [Bangkah/Muslim-Life](https://github.com/Bangkah/Muslim-Life)
-4. ❗ Opened issue [#9](https://github.com/rahmatsubandi/Spam-chat-Whatsapp/issues/9) in [rahmatsubandi/Spam-chat-Whatsapp](https://github.com/rahmatsubandi/Spam-chat-Whatsapp)
-5. ❌ Closed PR [#5](https://github.com/ammarramma/klasifikasi_diabetes/pull/5) in [ammarramma/klasifikasi_diabetes](https://github.com/ammarramma/klasifikasi_diabetes)
+1. ❗ Opened issue [#2](https://github.com/patriotkusuma/kelontong/issues/2) in [patriotkusuma/kelontong](https://github.com/patriotkusuma/kelontong)
+2. ❗ Opened issue [#1](https://github.com/isanbly06/ikhsan-movie/issues/1) in [isanbly06/ikhsan-movie](https://github.com/isanbly06/ikhsan-movie)
+3. 🗣 Commented on [#22](https://github.com/oliyh/stardev-feedback/issues/22#issuecomment-5039978498) in [oliyh/stardev-feedback](https://github.com/oliyh/stardev-feedback)
+4. ❗ Opened issue [#7](https://github.com/Bangkah/Muslim-Life/issues/7) in [Bangkah/Muslim-Life](https://github.com/Bangkah/Muslim-Life)
+5. ❗ Opened issue [#9](https://github.com/rahmatsubandi/Spam-chat-Whatsapp/issues/9) in [rahmatsubandi/Spam-chat-Whatsapp](https://github.com/rahmatsubandi/Spam-chat-Whatsapp)
 <!--END_SECTION:activity-->
 
 ---
