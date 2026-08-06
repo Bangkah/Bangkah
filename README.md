@@ -161,11 +161,11 @@ Pagi: eksplorasi & membaca, <b>malam: ngoding dan berbagi</b>.<br>
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#57](https://github.com/Bangkahdev/bangkah-launcher/pull/57) in [Bangkahdev/bangkah-launcher](https://github.com/Bangkahdev/bangkah-launcher)
-2. 🔒 Closed issue [#45](https://github.com/Bangkahdev/bangkah-launcher/issues/45) in [Bangkahdev/bangkah-launcher](https://github.com/Bangkahdev/bangkah-launcher)
-3. 💪 Opened PR [#57](https://github.com/Bangkahdev/bangkah-launcher/pull/57) in [Bangkahdev/bangkah-launcher](https://github.com/Bangkahdev/bangkah-launcher)
-4. 🗣 Commented on [#45](https://github.com/Bangkahdev/bangkah-launcher/issues/45#issuecomment-5147051173) in [Bangkahdev/bangkah-launcher](https://github.com/Bangkahdev/bangkah-launcher)
-5. 🎉 Merged PR [#56](https://github.com/Bangkahdev/bangkah-launcher/pull/56) in [Bangkahdev/bangkah-launcher](https://github.com/Bangkahdev/bangkah-launcher)
+1. 🎉 Merged PR [#25](https://github.com/Bangkah/Bangkah/pull/25) in [Bangkah/Bangkah](https://github.com/Bangkah/Bangkah)
+2. 💪 Opened PR [#25](https://github.com/Bangkah/Bangkah/pull/25) in [Bangkah/Bangkah](https://github.com/Bangkah/Bangkah)
+3. 🎉 Merged PR [#57](https://github.com/Bangkahdev/bangkah-launcher/pull/57) in [Bangkahdev/bangkah-launcher](https://github.com/Bangkahdev/bangkah-launcher)
+4. 🔒 Closed issue [#45](https://github.com/Bangkahdev/bangkah-launcher/issues/45) in [Bangkahdev/bangkah-launcher](https://github.com/Bangkahdev/bangkah-launcher)
+5. 💪 Opened PR [#57](https://github.com/Bangkahdev/bangkah-launcher/pull/57) in [Bangkahdev/bangkah-launcher](https://github.com/Bangkahdev/bangkah-launcher)
 <!--END_SECTION:activity-->
 
 ---
