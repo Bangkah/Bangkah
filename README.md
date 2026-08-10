@@ -161,11 +161,11 @@ Pagi: eksplorasi & membaca, <b>malam: ngoding dan berbagi</b>.<br>
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#26](https://github.com/Bangkah/Bangkah/pull/26) in [Bangkah/Bangkah](https://github.com/Bangkah/Bangkah)
-2. 💪 Opened PR [#26](https://github.com/Bangkah/Bangkah/pull/26) in [Bangkah/Bangkah](https://github.com/Bangkah/Bangkah)
-3. 🎉 Merged PR [#9](https://github.com/Bangkah/Muslim-Life/pull/9) in [Bangkah/Muslim-Life](https://github.com/Bangkah/Muslim-Life)
-4. 💪 Opened PR [#9](https://github.com/Bangkah/Muslim-Life/pull/9) in [Bangkah/Muslim-Life](https://github.com/Bangkah/Muslim-Life)
-5. 🎉 Merged PR [#25](https://github.com/Bangkah/Bangkah/pull/25) in [Bangkah/Bangkah](https://github.com/Bangkah/Bangkah)
+1. 🎉 Merged PR [#14](https://github.com/Bangkah/Muslim-Life/pull/14) in [Bangkah/Muslim-Life](https://github.com/Bangkah/Muslim-Life)
+2. 💪 Opened PR [#14](https://github.com/Bangkah/Muslim-Life/pull/14) in [Bangkah/Muslim-Life](https://github.com/Bangkah/Muslim-Life)
+3. 🎉 Merged PR [#13](https://github.com/Bangkah/Muslim-Life/pull/13) in [Bangkah/Muslim-Life](https://github.com/Bangkah/Muslim-Life)
+4. 💪 Opened PR [#13](https://github.com/Bangkah/Muslim-Life/pull/13) in [Bangkah/Muslim-Life](https://github.com/Bangkah/Muslim-Life)
+5. 🎉 Merged PR [#12](https://github.com/Bangkah/Muslim-Life/pull/12) in [Bangkah/Muslim-Life](https://github.com/Bangkah/Muslim-Life)
 <!--END_SECTION:activity-->
 
 ---
