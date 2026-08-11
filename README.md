@@ -176,15 +176,15 @@ Pagi: eksplorasi & membaca, <b>malam: ngoding dan berbagi</b>.<br>
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 August 2026 - To: 09 August 2026
+From: 03 August 2026 - To: 10 August 2026
 
-Total Time: 45 mins
+Total Time: 1 hr 3 mins
 
-JavaScript   23 mins         █████████████░░░░░░░░░░░░   52.49 %
-TypeScript   11 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.63 %
-JSON         7 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.02 %
-Bash         2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.74 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+JavaScript   37 mins         ██████████████▓░░░░░░░░░░   59.26 %
+CSS          17 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.76 %
+JSON         4 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.73 %
+TypeScript   2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 %
+Bash         2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 %
 ```
 
 <!--END_SECTION:waka-->
