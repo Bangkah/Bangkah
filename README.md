@@ -161,11 +161,11 @@ Pagi: eksplorasi & membaca, <b>malam: ngoding dan berbagi</b>.<br>
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Bangkah/stackcraft/pull/1) in [Bangkah/stackcraft](https://github.com/Bangkah/stackcraft)
-2. 💪 Opened PR [#1](https://github.com/Bangkah/stackcraft/pull/1) in [Bangkah/stackcraft](https://github.com/Bangkah/stackcraft)
-3. 🎉 Merged PR [#16](https://github.com/Bangkah/Muslim-Life/pull/16) in [Bangkah/Muslim-Life](https://github.com/Bangkah/Muslim-Life)
-4. 💪 Opened PR [#16](https://github.com/Bangkah/Muslim-Life/pull/16) in [Bangkah/Muslim-Life](https://github.com/Bangkah/Muslim-Life)
-5. 🎉 Merged PR [#8](https://github.com/Bangkah/portfolio/pull/8) in [Bangkah/portfolio](https://github.com/Bangkah/portfolio)
+1. 🎉 Merged PR [#3](https://github.com/Bangkahdev/gacor-solution/pull/3) in [Bangkahdev/gacor-solution](https://github.com/Bangkahdev/gacor-solution)
+2. 💪 Opened PR [#3](https://github.com/Bangkahdev/gacor-solution/pull/3) in [Bangkahdev/gacor-solution](https://github.com/Bangkahdev/gacor-solution)
+3. 🎉 Merged PR [#1](https://github.com/Bangkah/stackcraft/pull/1) in [Bangkah/stackcraft](https://github.com/Bangkah/stackcraft)
+4. 💪 Opened PR [#1](https://github.com/Bangkah/stackcraft/pull/1) in [Bangkah/stackcraft](https://github.com/Bangkah/stackcraft)
+5. 🎉 Merged PR [#16](https://github.com/Bangkah/Muslim-Life/pull/16) in [Bangkah/Muslim-Life](https://github.com/Bangkah/Muslim-Life)
 <!--END_SECTION:activity-->
 
 ---
