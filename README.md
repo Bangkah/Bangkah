@@ -161,11 +161,11 @@ Pagi: eksplorasi & membaca, <b>malam: ngoding dan berbagi</b>.<br>
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Bangkah/analisis-sentimen/pull/1) in [Bangkah/analisis-sentimen](https://github.com/Bangkah/analisis-sentimen)
-2. 💪 Opened PR [#1](https://github.com/Bangkah/analisis-sentimen/pull/1) in [Bangkah/analisis-sentimen](https://github.com/Bangkah/analisis-sentimen)
-3. 🎉 Merged PR [#1](https://github.com/Bangkahdev/yourstory-portfolio/pull/1) in [Bangkahdev/yourstory-portfolio](https://github.com/Bangkahdev/yourstory-portfolio)
-4. 💪 Opened PR [#1](https://github.com/Bangkahdev/yourstory-portfolio/pull/1) in [Bangkahdev/yourstory-portfolio](https://github.com/Bangkahdev/yourstory-portfolio)
-5. 🎉 Merged PR [#1](https://github.com/Bangkahdev/.github/pull/1) in [Bangkahdev/.github](https://github.com/Bangkahdev/.github)
+1. 🎉 Merged PR [#6](https://github.com/Bangkah/Proyek-Klasifikasi-Gambar/pull/6) in [Bangkah/Proyek-Klasifikasi-Gambar](https://github.com/Bangkah/Proyek-Klasifikasi-Gambar)
+2. 💪 Opened PR [#6](https://github.com/Bangkah/Proyek-Klasifikasi-Gambar/pull/6) in [Bangkah/Proyek-Klasifikasi-Gambar](https://github.com/Bangkah/Proyek-Klasifikasi-Gambar)
+3. 🎉 Merged PR [#5](https://github.com/Bangkah/Proyek-Klasifikasi-Gambar/pull/5) in [Bangkah/Proyek-Klasifikasi-Gambar](https://github.com/Bangkah/Proyek-Klasifikasi-Gambar)
+4. 💪 Opened PR [#5](https://github.com/Bangkah/Proyek-Klasifikasi-Gambar/pull/5) in [Bangkah/Proyek-Klasifikasi-Gambar](https://github.com/Bangkah/Proyek-Klasifikasi-Gambar)
+5. 🎉 Merged PR [#4](https://github.com/Bangkah/Proyek-Klasifikasi-Gambar/pull/4) in [Bangkah/Proyek-Klasifikasi-Gambar](https://github.com/Bangkah/Proyek-Klasifikasi-Gambar)
 <!--END_SECTION:activity-->
 
 ---
