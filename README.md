@@ -161,11 +161,11 @@ Pagi: eksplorasi & membaca, <b>malam: ngoding dan berbagi</b>.<br>
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/Bangkah/Proyek-Klasifikasi-Gambar/pull/6) in [Bangkah/Proyek-Klasifikasi-Gambar](https://github.com/Bangkah/Proyek-Klasifikasi-Gambar)
-2. 💪 Opened PR [#6](https://github.com/Bangkah/Proyek-Klasifikasi-Gambar/pull/6) in [Bangkah/Proyek-Klasifikasi-Gambar](https://github.com/Bangkah/Proyek-Klasifikasi-Gambar)
-3. 🎉 Merged PR [#5](https://github.com/Bangkah/Proyek-Klasifikasi-Gambar/pull/5) in [Bangkah/Proyek-Klasifikasi-Gambar](https://github.com/Bangkah/Proyek-Klasifikasi-Gambar)
-4. 💪 Opened PR [#5](https://github.com/Bangkah/Proyek-Klasifikasi-Gambar/pull/5) in [Bangkah/Proyek-Klasifikasi-Gambar](https://github.com/Bangkah/Proyek-Klasifikasi-Gambar)
-5. 🎉 Merged PR [#4](https://github.com/Bangkah/Proyek-Klasifikasi-Gambar/pull/4) in [Bangkah/Proyek-Klasifikasi-Gambar](https://github.com/Bangkah/Proyek-Klasifikasi-Gambar)
+1. 🎉 Merged PR [#18](https://github.com/four-A-team/Software-Requirements-Specification---Sistem-Absensi-Karyawan/pull/18) in [four-A-team/Software-Requirements-Specification---Sistem-Absensi-Karyawan](https://github.com/four-A-team/Software-Requirements-Specification---Sistem-Absensi-Karyawan)
+2. 💪 Opened PR [#18](https://github.com/four-A-team/Software-Requirements-Specification---Sistem-Absensi-Karyawan/pull/18) in [four-A-team/Software-Requirements-Specification---Sistem-Absensi-Karyawan](https://github.com/four-A-team/Software-Requirements-Specification---Sistem-Absensi-Karyawan)
+3. 🎉 Merged PR [#17](https://github.com/four-A-team/Software-Requirements-Specification---Sistem-Absensi-Karyawan/pull/17) in [four-A-team/Software-Requirements-Specification---Sistem-Absensi-Karyawan](https://github.com/four-A-team/Software-Requirements-Specification---Sistem-Absensi-Karyawan)
+4. 💪 Opened PR [#17](https://github.com/four-A-team/Software-Requirements-Specification---Sistem-Absensi-Karyawan/pull/17) in [four-A-team/Software-Requirements-Specification---Sistem-Absensi-Karyawan](https://github.com/four-A-team/Software-Requirements-Specification---Sistem-Absensi-Karyawan)
+5. 🎉 Merged PR [#3](https://github.com/Bangkah/SMSML-Dicoding-Muhammad-Dhiyaul-Atha/pull/3) in [Bangkah/SMSML-Dicoding-Muhammad-Dhiyaul-Atha](https://github.com/Bangkah/SMSML-Dicoding-Muhammad-Dhiyaul-Atha)
 <!--END_SECTION:activity-->
 
 ---
