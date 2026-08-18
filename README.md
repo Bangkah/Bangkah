@@ -161,11 +161,11 @@ Pagi: eksplorasi & membaca, <b>malam: ngoding dan berbagi</b>.<br>
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#18](https://github.com/four-A-team/Software-Requirements-Specification---Sistem-Absensi-Karyawan/pull/18) in [four-A-team/Software-Requirements-Specification---Sistem-Absensi-Karyawan](https://github.com/four-A-team/Software-Requirements-Specification---Sistem-Absensi-Karyawan)
-2. 💪 Opened PR [#18](https://github.com/four-A-team/Software-Requirements-Specification---Sistem-Absensi-Karyawan/pull/18) in [four-A-team/Software-Requirements-Specification---Sistem-Absensi-Karyawan](https://github.com/four-A-team/Software-Requirements-Specification---Sistem-Absensi-Karyawan)
-3. 🎉 Merged PR [#17](https://github.com/four-A-team/Software-Requirements-Specification---Sistem-Absensi-Karyawan/pull/17) in [four-A-team/Software-Requirements-Specification---Sistem-Absensi-Karyawan](https://github.com/four-A-team/Software-Requirements-Specification---Sistem-Absensi-Karyawan)
-4. 💪 Opened PR [#17](https://github.com/four-A-team/Software-Requirements-Specification---Sistem-Absensi-Karyawan/pull/17) in [four-A-team/Software-Requirements-Specification---Sistem-Absensi-Karyawan](https://github.com/four-A-team/Software-Requirements-Specification---Sistem-Absensi-Karyawan)
-5. 🎉 Merged PR [#3](https://github.com/Bangkah/SMSML-Dicoding-Muhammad-Dhiyaul-Atha/pull/3) in [Bangkah/SMSML-Dicoding-Muhammad-Dhiyaul-Atha](https://github.com/Bangkah/SMSML-Dicoding-Muhammad-Dhiyaul-Atha)
+1. 🎉 Merged PR [#3](https://github.com/Bangkahdev/yourstory-portfolio/pull/3) in [Bangkahdev/yourstory-portfolio](https://github.com/Bangkahdev/yourstory-portfolio)
+2. 💪 Opened PR [#3](https://github.com/Bangkahdev/yourstory-portfolio/pull/3) in [Bangkahdev/yourstory-portfolio](https://github.com/Bangkahdev/yourstory-portfolio)
+3. 🎉 Merged PR [#2](https://github.com/Bangkahdev/yourstory-portfolio/pull/2) in [Bangkahdev/yourstory-portfolio](https://github.com/Bangkahdev/yourstory-portfolio)
+4. 💪 Opened PR [#2](https://github.com/Bangkahdev/yourstory-portfolio/pull/2) in [Bangkahdev/yourstory-portfolio](https://github.com/Bangkahdev/yourstory-portfolio)
+5. 🎉 Merged PR [#18](https://github.com/four-A-team/Software-Requirements-Specification---Sistem-Absensi-Karyawan/pull/18) in [four-A-team/Software-Requirements-Specification---Sistem-Absensi-Karyawan](https://github.com/four-A-team/Software-Requirements-Specification---Sistem-Absensi-Karyawan)
 <!--END_SECTION:activity-->
 
 ---
