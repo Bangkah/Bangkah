@@ -161,11 +161,11 @@ Pagi: eksplorasi & membaca, <b>malam: ngoding dan berbagi</b>.<br>
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/Bangkahdev/yourstory-portfolio/pull/3) in [Bangkahdev/yourstory-portfolio](https://github.com/Bangkahdev/yourstory-portfolio)
-2. 💪 Opened PR [#3](https://github.com/Bangkahdev/yourstory-portfolio/pull/3) in [Bangkahdev/yourstory-portfolio](https://github.com/Bangkahdev/yourstory-portfolio)
-3. 🎉 Merged PR [#2](https://github.com/Bangkahdev/yourstory-portfolio/pull/2) in [Bangkahdev/yourstory-portfolio](https://github.com/Bangkahdev/yourstory-portfolio)
-4. 💪 Opened PR [#2](https://github.com/Bangkahdev/yourstory-portfolio/pull/2) in [Bangkahdev/yourstory-portfolio](https://github.com/Bangkahdev/yourstory-portfolio)
-5. 🎉 Merged PR [#18](https://github.com/four-A-team/Software-Requirements-Specification---Sistem-Absensi-Karyawan/pull/18) in [four-A-team/Software-Requirements-Specification---Sistem-Absensi-Karyawan](https://github.com/four-A-team/Software-Requirements-Specification---Sistem-Absensi-Karyawan)
+1. 💪 Opened PR [#12](https://github.com/Bangkah/portfolio/pull/12) in [Bangkah/portfolio](https://github.com/Bangkah/portfolio)
+2. 🎉 Merged PR [#11](https://github.com/Bangkah/portfolio/pull/11) in [Bangkah/portfolio](https://github.com/Bangkah/portfolio)
+3. 💪 Opened PR [#11](https://github.com/Bangkah/portfolio/pull/11) in [Bangkah/portfolio](https://github.com/Bangkah/portfolio)
+4. 🎉 Merged PR [#3](https://github.com/Bangkahdev/yourstory-portfolio/pull/3) in [Bangkahdev/yourstory-portfolio](https://github.com/Bangkahdev/yourstory-portfolio)
+5. 💪 Opened PR [#3](https://github.com/Bangkahdev/yourstory-portfolio/pull/3) in [Bangkahdev/yourstory-portfolio](https://github.com/Bangkahdev/yourstory-portfolio)
 <!--END_SECTION:activity-->
 
 ---
