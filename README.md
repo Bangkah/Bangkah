@@ -161,11 +161,11 @@ Pagi: eksplorasi & membaca, <b>malam: ngoding dan berbagi</b>.<br>
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#6](https://github.com/indonesia/community/pull/6) in [indonesia/community](https://github.com/indonesia/community)
-2. 🎉 Merged PR [#13](https://github.com/Bangkah/portfolio/pull/13) in [Bangkah/portfolio](https://github.com/Bangkah/portfolio)
-3. 💪 Opened PR [#13](https://github.com/Bangkah/portfolio/pull/13) in [Bangkah/portfolio](https://github.com/Bangkah/portfolio)
-4. ❌ Closed PR [#12](https://github.com/Bangkah/portfolio/pull/12) in [Bangkah/portfolio](https://github.com/Bangkah/portfolio)
-5. 💪 Opened PR [#12](https://github.com/Bangkah/portfolio/pull/12) in [Bangkah/portfolio](https://github.com/Bangkah/portfolio)
+1. 🎉 Merged PR [#32](https://github.com/Bangkahdev/HR-Savage-CV-Reviewer-Roaster-AI/pull/32) in [Bangkahdev/HR-Savage-CV-Reviewer-Roaster-AI](https://github.com/Bangkahdev/HR-Savage-CV-Reviewer-Roaster-AI)
+2. 💪 Opened PR [#32](https://github.com/Bangkahdev/HR-Savage-CV-Reviewer-Roaster-AI/pull/32) in [Bangkahdev/HR-Savage-CV-Reviewer-Roaster-AI](https://github.com/Bangkahdev/HR-Savage-CV-Reviewer-Roaster-AI)
+3. 🎉 Merged PR [#31](https://github.com/Bangkahdev/HR-Savage-CV-Reviewer-Roaster-AI/pull/31) in [Bangkahdev/HR-Savage-CV-Reviewer-Roaster-AI](https://github.com/Bangkahdev/HR-Savage-CV-Reviewer-Roaster-AI)
+4. 💪 Opened PR [#31](https://github.com/Bangkahdev/HR-Savage-CV-Reviewer-Roaster-AI/pull/31) in [Bangkahdev/HR-Savage-CV-Reviewer-Roaster-AI](https://github.com/Bangkahdev/HR-Savage-CV-Reviewer-Roaster-AI)
+5. 🎉 Merged PR [#30](https://github.com/Bangkahdev/HR-Savage-CV-Reviewer-Roaster-AI/pull/30) in [Bangkahdev/HR-Savage-CV-Reviewer-Roaster-AI](https://github.com/Bangkahdev/HR-Savage-CV-Reviewer-Roaster-AI)
 <!--END_SECTION:activity-->
 
 ---
