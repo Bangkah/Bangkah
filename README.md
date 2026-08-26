@@ -161,11 +161,11 @@ Pagi: eksplorasi & membaca, <b>malam: ngoding dan berbagi</b>.<br>
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#59](https://github.com/Bangkahdev/bangkah-launcher/pull/59) in [Bangkahdev/bangkah-launcher](https://github.com/Bangkahdev/bangkah-launcher)
-2. 🎉 Merged PR [#32](https://github.com/Bangkahdev/HR-Savage-CV-Reviewer-Roaster-AI/pull/32) in [Bangkahdev/HR-Savage-CV-Reviewer-Roaster-AI](https://github.com/Bangkahdev/HR-Savage-CV-Reviewer-Roaster-AI)
-3. 💪 Opened PR [#32](https://github.com/Bangkahdev/HR-Savage-CV-Reviewer-Roaster-AI/pull/32) in [Bangkahdev/HR-Savage-CV-Reviewer-Roaster-AI](https://github.com/Bangkahdev/HR-Savage-CV-Reviewer-Roaster-AI)
-4. 🎉 Merged PR [#31](https://github.com/Bangkahdev/HR-Savage-CV-Reviewer-Roaster-AI/pull/31) in [Bangkahdev/HR-Savage-CV-Reviewer-Roaster-AI](https://github.com/Bangkahdev/HR-Savage-CV-Reviewer-Roaster-AI)
-5. 💪 Opened PR [#31](https://github.com/Bangkahdev/HR-Savage-CV-Reviewer-Roaster-AI/pull/31) in [Bangkahdev/HR-Savage-CV-Reviewer-Roaster-AI](https://github.com/Bangkahdev/HR-Savage-CV-Reviewer-Roaster-AI)
+1. 🎉 Merged PR [#63](https://github.com/Bangkahdev/bangkah-launcher/pull/63) in [Bangkahdev/bangkah-launcher](https://github.com/Bangkahdev/bangkah-launcher)
+2. 💪 Opened PR [#63](https://github.com/Bangkahdev/bangkah-launcher/pull/63) in [Bangkahdev/bangkah-launcher](https://github.com/Bangkahdev/bangkah-launcher)
+3. ❌ Closed PR [#28](https://github.com/Bangkahdev/HR-Savage-CV-Reviewer-Roaster-AI/pull/28) in [Bangkahdev/HR-Savage-CV-Reviewer-Roaster-AI](https://github.com/Bangkahdev/HR-Savage-CV-Reviewer-Roaster-AI)
+4. ❌ Closed PR [#26](https://github.com/Bangkahdev/HR-Savage-CV-Reviewer-Roaster-AI/pull/26) in [Bangkahdev/HR-Savage-CV-Reviewer-Roaster-AI](https://github.com/Bangkahdev/HR-Savage-CV-Reviewer-Roaster-AI)
+5. ❌ Closed PR [#24](https://github.com/Bangkahdev/HR-Savage-CV-Reviewer-Roaster-AI/pull/24) in [Bangkahdev/HR-Savage-CV-Reviewer-Roaster-AI](https://github.com/Bangkahdev/HR-Savage-CV-Reviewer-Roaster-AI)
 <!--END_SECTION:activity-->
 
 ---
