@@ -161,11 +161,11 @@ Pagi: eksplorasi & membaca, <b>malam: ngoding dan berbagi</b>.<br>
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5](https://github.com/Gowtham-Darkseid/AutoPentestX/pull/5#issuecomment-5464041796) in [Gowtham-Darkseid/AutoPentestX](https://github.com/Gowtham-Darkseid/AutoPentestX)
-2. 🔒 Closed issue [#65](https://github.com/Bangkahdev/bangkah-launcher/issues/65) in [Bangkahdev/bangkah-launcher](https://github.com/Bangkahdev/bangkah-launcher)
-3. ❌ Closed PR [#66](https://github.com/Bangkahdev/bangkah-launcher/pull/66) in [Bangkahdev/bangkah-launcher](https://github.com/Bangkahdev/bangkah-launcher)
-4. 💪 Opened PR [#66](https://github.com/Bangkahdev/bangkah-launcher/pull/66) in [Bangkahdev/bangkah-launcher](https://github.com/Bangkahdev/bangkah-launcher)
-5. 🗣 Commented on [#65](https://github.com/Bangkahdev/bangkah-launcher/issues/65#issuecomment-5463848970) in [Bangkahdev/bangkah-launcher](https://github.com/Bangkahdev/bangkah-launcher)
+1. 🎉 Merged PR [#1](https://github.com/RPL-TI-3B/perpustakaan/pull/1) in [RPL-TI-3B/perpustakaan](https://github.com/RPL-TI-3B/perpustakaan)
+2. 💪 Opened PR [#1](https://github.com/RPL-TI-3B/perpustakaan/pull/1) in [RPL-TI-3B/perpustakaan](https://github.com/RPL-TI-3B/perpustakaan)
+3. 🎉 Merged PR [#93](https://github.com/ukmpolicy/webpolicy_v2/pull/93) in [ukmpolicy/webpolicy_v2](https://github.com/ukmpolicy/webpolicy_v2)
+4. 💪 Opened PR [#93](https://github.com/ukmpolicy/webpolicy_v2/pull/93) in [ukmpolicy/webpolicy_v2](https://github.com/ukmpolicy/webpolicy_v2)
+5. 🗣 Commented on [#5](https://github.com/Gowtham-Darkseid/AutoPentestX/pull/5#issuecomment-5464041796) in [Gowtham-Darkseid/AutoPentestX](https://github.com/Gowtham-Darkseid/AutoPentestX)
 <!--END_SECTION:activity-->
 
 ---
