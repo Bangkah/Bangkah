@@ -176,17 +176,18 @@ Pagi: eksplorasi & membaca, <b>malam: ngoding dan berbagi</b>.<br>
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 August 2026 - To: 31 August 2026
+From: 25 August 2026 - To: 01 September 2026
 
-Total Time: 4 hrs 38 mins
+Total Time: 6 hrs 29 mins
 
-Bash         1 hr 19 mins    ███████░░░░░░░░░░░░░░░░░░   27.54 %
-Markdown     47 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.58 %
-YAML         44 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.36 %
-PHP          43 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.99 %
-TypeScript   31 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.04 %
-JSON         29 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.13 %
-Other        8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.13 %
+Markdown     1 hr 27 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.89 %
+Bash         1 hr 10 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.60 %
+Dart         54 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.67 %
+YAML         44 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.00 %
+PHP          43 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.73 %
+JSON         29 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.25 %
+Docker       28 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.18 %
+Go           15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 %
 ```
 
 <!--END_SECTION:waka-->
