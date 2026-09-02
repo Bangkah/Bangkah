@@ -161,11 +161,11 @@ Pagi: eksplorasi & membaca, <b>malam: ngoding dan berbagi</b>.<br>
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/RPL-TI-3B/perpustakaan/pull/1) in [RPL-TI-3B/perpustakaan](https://github.com/RPL-TI-3B/perpustakaan)
-2. 💪 Opened PR [#1](https://github.com/RPL-TI-3B/perpustakaan/pull/1) in [RPL-TI-3B/perpustakaan](https://github.com/RPL-TI-3B/perpustakaan)
-3. 🎉 Merged PR [#93](https://github.com/ukmpolicy/webpolicy_v2/pull/93) in [ukmpolicy/webpolicy_v2](https://github.com/ukmpolicy/webpolicy_v2)
-4. 💪 Opened PR [#93](https://github.com/ukmpolicy/webpolicy_v2/pull/93) in [ukmpolicy/webpolicy_v2](https://github.com/ukmpolicy/webpolicy_v2)
-5. 🗣 Commented on [#5](https://github.com/Gowtham-Darkseid/AutoPentestX/pull/5#issuecomment-5464041796) in [Gowtham-Darkseid/AutoPentestX](https://github.com/Gowtham-Darkseid/AutoPentestX)
+1. 💪 Opened PR [#2](https://github.com/Bangkah/CRM-Automation-System/pull/2) in [Bangkah/CRM-Automation-System](https://github.com/Bangkah/CRM-Automation-System)
+2. 🎉 Merged PR [#1](https://github.com/Bangkah/CRM-Automation-System/pull/1) in [Bangkah/CRM-Automation-System](https://github.com/Bangkah/CRM-Automation-System)
+3. 💪 Opened PR [#1](https://github.com/Bangkah/CRM-Automation-System/pull/1) in [Bangkah/CRM-Automation-System](https://github.com/Bangkah/CRM-Automation-System)
+4. 🎉 Merged PR [#1](https://github.com/RPL-TI-3B/perpustakaan/pull/1) in [RPL-TI-3B/perpustakaan](https://github.com/RPL-TI-3B/perpustakaan)
+5. 💪 Opened PR [#1](https://github.com/RPL-TI-3B/perpustakaan/pull/1) in [RPL-TI-3B/perpustakaan](https://github.com/RPL-TI-3B/perpustakaan)
 <!--END_SECTION:activity-->
 
 ---
