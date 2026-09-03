@@ -161,11 +161,11 @@ Pagi: eksplorasi & membaca, <b>malam: ngoding dan berbagi</b>.<br>
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/Bangkah/CRM-Automation-System/pull/2) in [Bangkah/CRM-Automation-System](https://github.com/Bangkah/CRM-Automation-System)
-2. 🎉 Merged PR [#1](https://github.com/Bangkah/CRM-Automation-System/pull/1) in [Bangkah/CRM-Automation-System](https://github.com/Bangkah/CRM-Automation-System)
-3. 💪 Opened PR [#1](https://github.com/Bangkah/CRM-Automation-System/pull/1) in [Bangkah/CRM-Automation-System](https://github.com/Bangkah/CRM-Automation-System)
-4. 🎉 Merged PR [#1](https://github.com/RPL-TI-3B/perpustakaan/pull/1) in [RPL-TI-3B/perpustakaan](https://github.com/RPL-TI-3B/perpustakaan)
-5. 💪 Opened PR [#1](https://github.com/RPL-TI-3B/perpustakaan/pull/1) in [RPL-TI-3B/perpustakaan](https://github.com/RPL-TI-3B/perpustakaan)
+1. 🎉 Merged PR [#14](https://github.com/Bangkah/portfolio/pull/14) in [Bangkah/portfolio](https://github.com/Bangkah/portfolio)
+2. 💪 Opened PR [#14](https://github.com/Bangkah/portfolio/pull/14) in [Bangkah/portfolio](https://github.com/Bangkah/portfolio)
+3. 🎉 Merged PR [#3](https://github.com/Bangkah/CRM-Automation-System/pull/3) in [Bangkah/CRM-Automation-System](https://github.com/Bangkah/CRM-Automation-System)
+4. 💪 Opened PR [#3](https://github.com/Bangkah/CRM-Automation-System/pull/3) in [Bangkah/CRM-Automation-System](https://github.com/Bangkah/CRM-Automation-System)
+5. 🎉 Merged PR [#2](https://github.com/Bangkah/CRM-Automation-System/pull/2) in [Bangkah/CRM-Automation-System](https://github.com/Bangkah/CRM-Automation-System)
 <!--END_SECTION:activity-->
 
 ---
