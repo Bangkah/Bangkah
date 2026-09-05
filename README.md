@@ -161,11 +161,11 @@ Pagi: eksplorasi & membaca, <b>malam: ngoding dan berbagi</b>.<br>
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Bangkah/linux-portfolio/pull/1) in [Bangkah/linux-portfolio](https://github.com/Bangkah/linux-portfolio)
-2. 💪 Opened PR [#1](https://github.com/Bangkah/linux-portfolio/pull/1) in [Bangkah/linux-portfolio](https://github.com/Bangkah/linux-portfolio)
-3. 🎉 Merged PR [#14](https://github.com/Bangkah/portfolio/pull/14) in [Bangkah/portfolio](https://github.com/Bangkah/portfolio)
-4. 💪 Opened PR [#14](https://github.com/Bangkah/portfolio/pull/14) in [Bangkah/portfolio](https://github.com/Bangkah/portfolio)
-5. 🎉 Merged PR [#3](https://github.com/Bangkah/CRM-Automation-System/pull/3) in [Bangkah/CRM-Automation-System](https://github.com/Bangkah/CRM-Automation-System)
+1. 🎉 Merged PR [#15](https://github.com/Bangkah/portfolio/pull/15) in [Bangkah/portfolio](https://github.com/Bangkah/portfolio)
+2. 💪 Opened PR [#15](https://github.com/Bangkah/portfolio/pull/15) in [Bangkah/portfolio](https://github.com/Bangkah/portfolio)
+3. 🎉 Merged PR [#1](https://github.com/Bangkah/linux-portfolio/pull/1) in [Bangkah/linux-portfolio](https://github.com/Bangkah/linux-portfolio)
+4. 💪 Opened PR [#1](https://github.com/Bangkah/linux-portfolio/pull/1) in [Bangkah/linux-portfolio](https://github.com/Bangkah/linux-portfolio)
+5. 🎉 Merged PR [#14](https://github.com/Bangkah/portfolio/pull/14) in [Bangkah/portfolio](https://github.com/Bangkah/portfolio)
 <!--END_SECTION:activity-->
 
 ---
