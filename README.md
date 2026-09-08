@@ -161,11 +161,11 @@ Pagi: eksplorasi & membaca, <b>malam: ngoding dan berbagi</b>.<br>
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#1](https://github.com/gathfam/BamCargo/issues/1) in [gathfam/BamCargo](https://github.com/gathfam/BamCargo)
-2. 🎉 Merged PR [#18](https://github.com/Bangkah/portfolio/pull/18) in [Bangkah/portfolio](https://github.com/Bangkah/portfolio)
-3. 💪 Opened PR [#18](https://github.com/Bangkah/portfolio/pull/18) in [Bangkah/portfolio](https://github.com/Bangkah/portfolio)
-4. 🎉 Merged PR [#17](https://github.com/Bangkah/portfolio/pull/17) in [Bangkah/portfolio](https://github.com/Bangkah/portfolio)
-5. 💪 Opened PR [#17](https://github.com/Bangkah/portfolio/pull/17) in [Bangkah/portfolio](https://github.com/Bangkah/portfolio)
+1. 🎉 Merged PR [#1](https://github.com/Bangkah/Bangk-Shield/pull/1) in [Bangkah/Bangk-Shield](https://github.com/Bangkah/Bangk-Shield)
+2. 💪 Opened PR [#1](https://github.com/Bangkah/Bangk-Shield/pull/1) in [Bangkah/Bangk-Shield](https://github.com/Bangkah/Bangk-Shield)
+3. 🔒 Closed issue [#1](https://github.com/gathfam/BamCargo/issues/1) in [gathfam/BamCargo](https://github.com/gathfam/BamCargo)
+4. 🎉 Merged PR [#18](https://github.com/Bangkah/portfolio/pull/18) in [Bangkah/portfolio](https://github.com/Bangkah/portfolio)
+5. 💪 Opened PR [#18](https://github.com/Bangkah/portfolio/pull/18) in [Bangkah/portfolio](https://github.com/Bangkah/portfolio)
 <!--END_SECTION:activity-->
 
 ---
