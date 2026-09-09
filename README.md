@@ -161,11 +161,11 @@ Pagi: eksplorasi & membaca, <b>malam: ngoding dan berbagi</b>.<br>
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Bangkah/Bangk-Shield/pull/1) in [Bangkah/Bangk-Shield](https://github.com/Bangkah/Bangk-Shield)
-2. 💪 Opened PR [#1](https://github.com/Bangkah/Bangk-Shield/pull/1) in [Bangkah/Bangk-Shield](https://github.com/Bangkah/Bangk-Shield)
-3. 🔒 Closed issue [#1](https://github.com/gathfam/BamCargo/issues/1) in [gathfam/BamCargo](https://github.com/gathfam/BamCargo)
-4. 🎉 Merged PR [#18](https://github.com/Bangkah/portfolio/pull/18) in [Bangkah/portfolio](https://github.com/Bangkah/portfolio)
-5. 💪 Opened PR [#18](https://github.com/Bangkah/portfolio/pull/18) in [Bangkah/portfolio](https://github.com/Bangkah/portfolio)
+1. 🎉 Merged PR [#4](https://github.com/Bangkah/Bangk-Shield/pull/4) in [Bangkah/Bangk-Shield](https://github.com/Bangkah/Bangk-Shield)
+2. 💪 Opened PR [#4](https://github.com/Bangkah/Bangk-Shield/pull/4) in [Bangkah/Bangk-Shield](https://github.com/Bangkah/Bangk-Shield)
+3. 💪 Opened PR [#94](https://github.com/ukmpolicy/webpolicy_v2/pull/94) in [ukmpolicy/webpolicy_v2](https://github.com/ukmpolicy/webpolicy_v2)
+4. 🎉 Merged PR [#3](https://github.com/Bangkah/Bangk-Shield/pull/3) in [Bangkah/Bangk-Shield](https://github.com/Bangkah/Bangk-Shield)
+5. 💪 Opened PR [#3](https://github.com/Bangkah/Bangk-Shield/pull/3) in [Bangkah/Bangk-Shield](https://github.com/Bangkah/Bangk-Shield)
 <!--END_SECTION:activity-->
 
 ---
