@@ -176,18 +176,18 @@ Pagi: eksplorasi & membaca, <b>malam: ngoding dan berbagi</b>.<br>
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 September 2026 - To: 09 September 2026
+From: 03 September 2026 - To: 10 September 2026
 
-Total Time: 21 hrs 7 mins
+Total Time: 18 hrs 15 mins
 
-JavaScript   7 hrs 37 mins   ████████▓░░░░░░░░░░░░░░░░   35.33 %
-TypeScript   4 hrs 13 mins   █████░░░░░░░░░░░░░░░░░░░░   19.53 %
-Dart         1 hr 37 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 %
-Python       1 hr 24 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.50 %
-HTML         1 hr 21 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.29 %
-JSON         1 hr 17 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.96 %
-Markdown     1 hr 3 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   04.89 %
-Docker       38 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.94 %
+JavaScript   7 hrs 51 mins   ██████████▒░░░░░░░░░░░░░░   41.91 %
+TypeScript   2 hrs 12 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.78 %
+Dart         1 hr 37 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 %
+Python       1 hr 24 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 %
+HTML         1 hr 21 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.25 %
+Markdown     1 hr 1 min      █▒░░░░░░░░░░░░░░░░░░░░░░░   05.43 %
+JSON         41 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 %
+Docker       38 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 %
 ```
 
 <!--END_SECTION:waka-->
