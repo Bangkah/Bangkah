@@ -161,11 +161,11 @@ Pagi: eksplorasi & membaca, <b>malam: ngoding dan berbagi</b>.<br>
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Bangkahdev/AegisCrypt-Web/pull/1) in [Bangkahdev/AegisCrypt-Web](https://github.com/Bangkahdev/AegisCrypt-Web)
-2. 💪 Opened PR [#1](https://github.com/Bangkahdev/AegisCrypt-Web/pull/1) in [Bangkahdev/AegisCrypt-Web](https://github.com/Bangkahdev/AegisCrypt-Web)
-3. 🎉 Merged PR [#4](https://github.com/Bangkah/Bangk-Shield/pull/4) in [Bangkah/Bangk-Shield](https://github.com/Bangkah/Bangk-Shield)
-4. 💪 Opened PR [#4](https://github.com/Bangkah/Bangk-Shield/pull/4) in [Bangkah/Bangk-Shield](https://github.com/Bangkah/Bangk-Shield)
-5. 💪 Opened PR [#94](https://github.com/ukmpolicy/webpolicy_v2/pull/94) in [ukmpolicy/webpolicy_v2](https://github.com/ukmpolicy/webpolicy_v2)
+1. 🎉 Merged PR [#7](https://github.com/Bangkah/insights/pull/7) in [Bangkah/insights](https://github.com/Bangkah/insights)
+2. 💪 Opened PR [#7](https://github.com/Bangkah/insights/pull/7) in [Bangkah/insights](https://github.com/Bangkah/insights)
+3. 🎉 Merged PR [#6](https://github.com/Bangkah/insights/pull/6) in [Bangkah/insights](https://github.com/Bangkah/insights)
+4. 💪 Opened PR [#6](https://github.com/Bangkah/insights/pull/6) in [Bangkah/insights](https://github.com/Bangkah/insights)
+5. 🎉 Merged PR [#5](https://github.com/Bangkah/insights/pull/5) in [Bangkah/insights](https://github.com/Bangkah/insights)
 <!--END_SECTION:activity-->
 
 ---
