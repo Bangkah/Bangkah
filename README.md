@@ -161,11 +161,11 @@ Pagi: eksplorasi & membaca, <b>malam: ngoding dan berbagi</b>.<br>
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Bangkahdev/hashcraft/pull/1) in [Bangkahdev/hashcraft](https://github.com/Bangkahdev/hashcraft)
-2. 💪 Opened PR [#1](https://github.com/Bangkahdev/hashcraft/pull/1) in [Bangkahdev/hashcraft](https://github.com/Bangkahdev/hashcraft)
-3. 🎉 Merged PR [#7](https://github.com/Bangkah/insights/pull/7) in [Bangkah/insights](https://github.com/Bangkah/insights)
-4. 💪 Opened PR [#7](https://github.com/Bangkah/insights/pull/7) in [Bangkah/insights](https://github.com/Bangkah/insights)
-5. 🎉 Merged PR [#6](https://github.com/Bangkah/insights/pull/6) in [Bangkah/insights](https://github.com/Bangkah/insights)
+1. 🚀 Published release [Hashcraft v0.1.0 - Initial Release](https://github.com/Bangkahdev/hashcraft/releases/tag/v0.1.0) in [Bangkahdev/hashcraft](https://github.com/Bangkahdev/hashcraft)
+2. 🎉 Merged PR [#1](https://github.com/Bangkahdev/hashcraft/pull/1) in [Bangkahdev/hashcraft](https://github.com/Bangkahdev/hashcraft)
+3. 💪 Opened PR [#1](https://github.com/Bangkahdev/hashcraft/pull/1) in [Bangkahdev/hashcraft](https://github.com/Bangkahdev/hashcraft)
+4. 🎉 Merged PR [#7](https://github.com/Bangkah/insights/pull/7) in [Bangkah/insights](https://github.com/Bangkah/insights)
+5. 💪 Opened PR [#7](https://github.com/Bangkah/insights/pull/7) in [Bangkah/insights](https://github.com/Bangkah/insights)
 <!--END_SECTION:activity-->
 
 ---
