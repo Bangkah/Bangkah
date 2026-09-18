@@ -161,11 +161,11 @@ Pagi: eksplorasi & membaca, <b>malam: ngoding dan berbagi</b>.<br>
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Hashcraft v0.1.0 - Initial Release](https://github.com/Bangkahdev/hashcraft/releases/tag/v0.1.0) in [Bangkahdev/hashcraft](https://github.com/Bangkahdev/hashcraft)
-2. 🎉 Merged PR [#1](https://github.com/Bangkahdev/hashcraft/pull/1) in [Bangkahdev/hashcraft](https://github.com/Bangkahdev/hashcraft)
-3. 💪 Opened PR [#1](https://github.com/Bangkahdev/hashcraft/pull/1) in [Bangkahdev/hashcraft](https://github.com/Bangkahdev/hashcraft)
-4. 🎉 Merged PR [#7](https://github.com/Bangkah/insights/pull/7) in [Bangkah/insights](https://github.com/Bangkah/insights)
-5. 💪 Opened PR [#7](https://github.com/Bangkah/insights/pull/7) in [Bangkah/insights](https://github.com/Bangkah/insights)
+1. 🚀 Published release [v2.0.0 - Stable Release](https://github.com/Bangkahdev/hashcraft/releases/tag/v2.0.0) in [Bangkahdev/hashcraft](https://github.com/Bangkahdev/hashcraft)
+2. 🎉 Merged PR [#3](https://github.com/Bangkahdev/hashcraft/pull/3) in [Bangkahdev/hashcraft](https://github.com/Bangkahdev/hashcraft)
+3. 💪 Opened PR [#3](https://github.com/Bangkahdev/hashcraft/pull/3) in [Bangkahdev/hashcraft](https://github.com/Bangkahdev/hashcraft)
+4. 🎉 Merged PR [#2](https://github.com/Bangkahdev/hashcraft/pull/2) in [Bangkahdev/hashcraft](https://github.com/Bangkahdev/hashcraft)
+5. 💪 Opened PR [#2](https://github.com/Bangkahdev/hashcraft/pull/2) in [Bangkahdev/hashcraft](https://github.com/Bangkahdev/hashcraft)
 <!--END_SECTION:activity-->
 
 ---
