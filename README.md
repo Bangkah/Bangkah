@@ -161,11 +161,11 @@ Pagi: eksplorasi & membaca, <b>malam: ngoding dan berbagi</b>.<br>
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v2.0.0 - Stable Release](https://github.com/Bangkahdev/hashcraft/releases/tag/v2.0.0) in [Bangkahdev/hashcraft](https://github.com/Bangkahdev/hashcraft)
-2. 🎉 Merged PR [#3](https://github.com/Bangkahdev/hashcraft/pull/3) in [Bangkahdev/hashcraft](https://github.com/Bangkahdev/hashcraft)
-3. 💪 Opened PR [#3](https://github.com/Bangkahdev/hashcraft/pull/3) in [Bangkahdev/hashcraft](https://github.com/Bangkahdev/hashcraft)
-4. 🎉 Merged PR [#2](https://github.com/Bangkahdev/hashcraft/pull/2) in [Bangkahdev/hashcraft](https://github.com/Bangkahdev/hashcraft)
-5. 💪 Opened PR [#2](https://github.com/Bangkahdev/hashcraft/pull/2) in [Bangkahdev/hashcraft](https://github.com/Bangkahdev/hashcraft)
+1. ℹ️ Assigned issue [#14](https://github.com/Bangkahdev/Atha/issues/14) in [Bangkahdev/Atha](https://github.com/Bangkahdev/Atha)
+2. 🎉 Merged PR [#15](https://github.com/Bangkahdev/Atha/pull/15) in [Bangkahdev/Atha](https://github.com/Bangkahdev/Atha)
+3. 💪 Opened PR [#15](https://github.com/Bangkahdev/Atha/pull/15) in [Bangkahdev/Atha](https://github.com/Bangkahdev/Atha)
+4. ℹ️ Unlabeled issue [#14](https://github.com/Bangkahdev/Atha/issues/14) in [Bangkahdev/Atha](https://github.com/Bangkahdev/Atha)
+5. ℹ️ Labeled issue [#14](https://github.com/Bangkahdev/Atha/issues/14) in [Bangkahdev/Atha](https://github.com/Bangkahdev/Atha)
 <!--END_SECTION:activity-->
 
 ---
