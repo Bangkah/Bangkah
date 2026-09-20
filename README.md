@@ -176,17 +176,12 @@ Pagi: eksplorasi & membaca, <b>malam: ngoding dan berbagi</b>.<br>
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 September 2026 - To: 17 September 2026
+From: 11 September 2026 - To: 18 September 2026
 
-Total Time: 7 hrs 55 mins
+Total Time: 11 hrs 49 mins
 
-Python       2 hrs 31 mins   ███████▓░░░░░░░░░░░░░░░░░   30.89 %
-Dart         1 hr 51 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.71 %
-YAML         50 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.41 %
-Rust         40 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.23 %
-Markdown     37 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 %
-Docker       20 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 %
-Other        14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.89 %
+Python       2 hrs 58 mins   █████░░░░░░░░░░░░░░░░░░░░   20.33 %
+Other        2 hrs 48 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.16 %
 ```
 
 <!--END_SECTION:waka-->
