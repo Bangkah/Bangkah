@@ -161,11 +161,11 @@ Pagi: eksplorasi & membaca, <b>malam: ngoding dan berbagi</b>.<br>
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Assigned issue [#14](https://github.com/Bangkahdev/Atha/issues/14) in [Bangkahdev/Atha](https://github.com/Bangkahdev/Atha)
-2. 🎉 Merged PR [#15](https://github.com/Bangkahdev/Atha/pull/15) in [Bangkahdev/Atha](https://github.com/Bangkahdev/Atha)
-3. 💪 Opened PR [#15](https://github.com/Bangkahdev/Atha/pull/15) in [Bangkahdev/Atha](https://github.com/Bangkahdev/Atha)
-4. ℹ️ Unlabeled issue [#14](https://github.com/Bangkahdev/Atha/issues/14) in [Bangkahdev/Atha](https://github.com/Bangkahdev/Atha)
-5. ℹ️ Labeled issue [#14](https://github.com/Bangkahdev/Atha/issues/14) in [Bangkahdev/Atha](https://github.com/Bangkahdev/Atha)
+1. 💪 Opened PR [#2](https://github.com/go-drive/aigemini/pull/2) in [go-drive/aigemini](https://github.com/go-drive/aigemini)
+2. ❗ Opened issue [#1](https://github.com/go-drive/aigemini/issues/1) in [go-drive/aigemini](https://github.com/go-drive/aigemini)
+3. 💪 Opened PR [#18](https://github.com/Bangkahdev/Atha/pull/18) in [Bangkahdev/Atha](https://github.com/Bangkahdev/Atha)
+4. 🎉 Merged PR [#17](https://github.com/Bangkahdev/Atha/pull/17) in [Bangkahdev/Atha](https://github.com/Bangkahdev/Atha)
+5. 💪 Opened PR [#17](https://github.com/Bangkahdev/Atha/pull/17) in [Bangkahdev/Atha](https://github.com/Bangkahdev/Atha)
 <!--END_SECTION:activity-->
 
 ---
