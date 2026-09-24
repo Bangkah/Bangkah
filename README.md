@@ -161,11 +161,11 @@ Pagi: eksplorasi & membaca, <b>malam: ngoding dan berbagi</b>.<br>
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#20](https://github.com/Bangkahdev/Atha/pull/20) in [Bangkahdev/Atha](https://github.com/Bangkahdev/Atha)
-2. 💪 Opened PR [#20](https://github.com/Bangkahdev/Atha/pull/20) in [Bangkahdev/Atha](https://github.com/Bangkahdev/Atha)
-3. 🎉 Merged PR [#19](https://github.com/Bangkahdev/Atha/pull/19) in [Bangkahdev/Atha](https://github.com/Bangkahdev/Atha)
-4. 💪 Opened PR [#19](https://github.com/Bangkahdev/Atha/pull/19) in [Bangkahdev/Atha](https://github.com/Bangkahdev/Atha)
-5. 🎉 Merged PR [#18](https://github.com/Bangkahdev/Atha/pull/18) in [Bangkahdev/Atha](https://github.com/Bangkahdev/Atha)
+1. 🎉 Merged PR [#5](https://github.com/Bangkah/CRM-Automation-System/pull/5) in [Bangkah/CRM-Automation-System](https://github.com/Bangkah/CRM-Automation-System)
+2. 💪 Opened PR [#5](https://github.com/Bangkah/CRM-Automation-System/pull/5) in [Bangkah/CRM-Automation-System](https://github.com/Bangkah/CRM-Automation-System)
+3. 🚀 Published release [BEDA AI Inquiry Processing System v1.0.0](https://github.com/Bangkah/CRM-Automation-System/releases/tag/v1.0.0) in [Bangkah/CRM-Automation-System](https://github.com/Bangkah/CRM-Automation-System)
+4. 🎉 Merged PR [#4](https://github.com/Bangkah/CRM-Automation-System/pull/4) in [Bangkah/CRM-Automation-System](https://github.com/Bangkah/CRM-Automation-System)
+5. 💪 Opened PR [#4](https://github.com/Bangkah/CRM-Automation-System/pull/4) in [Bangkah/CRM-Automation-System](https://github.com/Bangkah/CRM-Automation-System)
 <!--END_SECTION:activity-->
 
 ---
