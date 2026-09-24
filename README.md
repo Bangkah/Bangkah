@@ -176,12 +176,11 @@ Pagi: eksplorasi & membaca, <b>malam: ngoding dan berbagi</b>.<br>
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 September 2026 - To: 21 September 2026
+From: 15 September 2026 - To: 22 September 2026
 
-Total Time: 13 hrs 42 mins
+Total Time: 12 hrs 41 mins
 
-Python       2 hrs 53 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.47 %
-Other        2 hrs 48 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.99 %
+Other        2 hrs 48 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.11 %
 ```
 
 <!--END_SECTION:waka-->
