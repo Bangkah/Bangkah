@@ -161,11 +161,11 @@ Pagi: eksplorasi & membaca, <b>malam: ngoding dan berbagi</b>.<br>
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/Bangkah/CRM-Automation-System/pull/5) in [Bangkah/CRM-Automation-System](https://github.com/Bangkah/CRM-Automation-System)
-2. 💪 Opened PR [#5](https://github.com/Bangkah/CRM-Automation-System/pull/5) in [Bangkah/CRM-Automation-System](https://github.com/Bangkah/CRM-Automation-System)
-3. 🚀 Published release [BEDA AI Inquiry Processing System v1.0.0](https://github.com/Bangkah/CRM-Automation-System/releases/tag/v1.0.0) in [Bangkah/CRM-Automation-System](https://github.com/Bangkah/CRM-Automation-System)
-4. 🎉 Merged PR [#4](https://github.com/Bangkah/CRM-Automation-System/pull/4) in [Bangkah/CRM-Automation-System](https://github.com/Bangkah/CRM-Automation-System)
-5. 💪 Opened PR [#4](https://github.com/Bangkah/CRM-Automation-System/pull/4) in [Bangkah/CRM-Automation-System](https://github.com/Bangkah/CRM-Automation-System)
+1. 💪 Opened PR [#25](https://github.com/Bangkahdev/Atha/pull/25) in [Bangkahdev/Atha](https://github.com/Bangkahdev/Atha)
+2. 🎉 Merged PR [#21](https://github.com/Bangkahdev/Atha/pull/21) in [Bangkahdev/Atha](https://github.com/Bangkahdev/Atha)
+3. 💪 Opened PR [#21](https://github.com/Bangkahdev/Atha/pull/21) in [Bangkahdev/Atha](https://github.com/Bangkahdev/Atha)
+4. 🎉 Merged PR [#5](https://github.com/Bangkah/CRM-Automation-System/pull/5) in [Bangkah/CRM-Automation-System](https://github.com/Bangkah/CRM-Automation-System)
+5. 💪 Opened PR [#5](https://github.com/Bangkah/CRM-Automation-System/pull/5) in [Bangkah/CRM-Automation-System](https://github.com/Bangkah/CRM-Automation-System)
 <!--END_SECTION:activity-->
 
 ---
