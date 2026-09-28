@@ -176,18 +176,18 @@ Pagi: eksplorasi & membaca, <b>malam: ngoding dan berbagi</b>.<br>
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 September 2026 - To: 25 September 2026
+From: 19 September 2026 - To: 26 September 2026
 
-Total Time: 7 hrs 33 mins
+Total Time: 6 hrs 32 mins
 
-Python       2 hrs 1 min     ██████▓░░░░░░░░░░░░░░░░░░   26.81 %
-Dart         1 hr 32 mins    █████░░░░░░░░░░░░░░░░░░░░   20.25 %
-PHP          1 hr 6 mins     ███▓░░░░░░░░░░░░░░░░░░░░░   14.69 %
-JavaScript   59 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.00 %
-YAML         39 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.59 %
-Markdown     24 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.47 %
-Bash         20 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 %
-Rust         12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.73 %
+Python       2 hrs 1 min     ███████▓░░░░░░░░░░░░░░░░░   31.02 %
+Dart         1 hr 32 mins    ██████░░░░░░░░░░░░░░░░░░░   23.43 %
+PHP          1 hr 6 mins     ████▒░░░░░░░░░░░░░░░░░░░░   17.00 %
+JavaScript   48 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.43 %
+YAML         29 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 %
+Markdown     14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 %
+Go           8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.16 %
+HTML         7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 %
 ```
 
 <!--END_SECTION:waka-->
