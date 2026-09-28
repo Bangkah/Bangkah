@@ -161,11 +161,11 @@ Pagi: eksplorasi & membaca, <b>malam: ngoding dan berbagi</b>.<br>
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/muliadi50/muliadi50.github.io/pull/2) in [muliadi50/muliadi50.github.io](https://github.com/muliadi50/muliadi50.github.io)
-2. 💪 Opened PR [#2](https://github.com/muliadi50/muliadi50.github.io/pull/2) in [muliadi50/muliadi50.github.io](https://github.com/muliadi50/muliadi50.github.io)
-3. 🎉 Merged PR [#1](https://github.com/muliadi50/muliadi50.github.io/pull/1) in [muliadi50/muliadi50.github.io](https://github.com/muliadi50/muliadi50.github.io)
-4. 💪 Opened PR [#1](https://github.com/muliadi50/muliadi50.github.io/pull/1) in [muliadi50/muliadi50.github.io](https://github.com/muliadi50/muliadi50.github.io)
-5. 💪 Opened PR [#26](https://github.com/Bangkahdev/Atha/pull/26) in [Bangkahdev/Atha](https://github.com/Bangkahdev/Atha)
+1. 💪 Opened PR [#2](https://github.com/Bangkah/biometric-smart-door/pull/2) in [Bangkah/biometric-smart-door](https://github.com/Bangkah/biometric-smart-door)
+2. 💪 Opened PR [#1](https://github.com/Bangkah/biometric-smart-door/pull/1) in [Bangkah/biometric-smart-door](https://github.com/Bangkah/biometric-smart-door)
+3. 🎉 Merged PR [#26](https://github.com/Bangkahdev/Atha/pull/26) in [Bangkahdev/Atha](https://github.com/Bangkahdev/Atha)
+4. 🎉 Merged PR [#2](https://github.com/muliadi50/muliadi50.github.io/pull/2) in [muliadi50/muliadi50.github.io](https://github.com/muliadi50/muliadi50.github.io)
+5. 💪 Opened PR [#2](https://github.com/muliadi50/muliadi50.github.io/pull/2) in [muliadi50/muliadi50.github.io](https://github.com/muliadi50/muliadi50.github.io)
 <!--END_SECTION:activity-->
 
 ---
