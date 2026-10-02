@@ -5,4 +5,4 @@ tidak terdaftar di tujuanku
 <br>
 dan aku harus fokus dengan tujuan hidupku
 <br>
-kemudian kita bertemu pada versi terbaik kita
+semoga kita bisa bertemu pada versi terbaik kita
