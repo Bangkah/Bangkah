@@ -13,9 +13,7 @@
       </a>
     </td>
     <td>
-      <a href="https://github-streak-bijay-shre-stha.vercel.app/bangkah?theme=github" target="_blank">
-        <img src="https://github-streak-bijay-shre-stha.vercel.app/api/streak-image?username=bangkah&theme=github" alt="GitHub Streak">
-      </a>
+      <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=bangkah" alt="GitHub Streak" /></a>
     </td>
   </tr>
 </table>
