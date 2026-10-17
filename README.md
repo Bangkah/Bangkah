@@ -1,8 +1,1 @@
-```
-aku menyukaimu
-tapi menjadi pacar mu
-tidak terdaftar di tujuanku
-dan aku harus fokus dengan tujuan hidupku
-semoga kita bisa bertemu pada versi terbaik kita
-```
-## lagi ikut hacktoberfest, jangan heran banyak repo beserak
+[![bangkah's GitHubCard](https://githubcard.com/bangkah.svg?d=yiA17-sAY-2a)](https://githubcard.com/bangkah/card?utm_source=github&utm_medium=readme)
