@@ -5,6 +5,10 @@
   <a href="https://instagram.com/mdhiyaulatha" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 </p>
 
+<p align="center">
+  <a href="https://bangkah.tech" target="_blank"><img src="https://img.shields.io/badge/Bangkah-Gudang_Project_Publik-FFD93D?style=flat-square" alt="Bangkah — gudang project publik"></a>
+</p>
+
 <table align="center">
   <tr>
     <td>
@@ -17,6 +21,10 @@
     </td>
   </tr>
 </table>
+
+### Gudang project publik
+
+Dokumentasi, alat, dan catatan kerja ada di **[bangkah.tech](https://bangkah.tech)** — terbuka tanpa akun dan tanpa paywall.
 
 
 ```
