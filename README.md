@@ -3,9 +3,6 @@
   <a href="https://mdhiyaulatha.me" target="_blank"><img src="https://img.shields.io/badge/Website-%23FF7139.svg?&style=flat-square&logo=Firefox&logoColor=white" alt="portfolio"></a> 
   <a href="https://dev.to/bangkah" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV"></a> 
   <a href="https://instagram.com/mdhiyaulatha" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-</p>
-
-<p align="center">
   <a href="https://bangkah.tech" target="_blank"><img src="https://img.shields.io/badge/Bangkah-Gudang_Project_Publik-FFD93D?style=flat-square" alt="Bangkah — gudang project publik"></a>
 </p>
 
@@ -13,7 +10,7 @@
   <tr>
     <td>
       <a href="https://git.io/awesome-stats-card" target="_blank">
-        <img src="https://awesome-github-stats.azurewebsites.net/user-stats/bangkah?cardType=level&theme=vue-dark&fontFamily=&preferLogin=true&Points.DirectStars=1" alt="My Awesome Stats">
+        <img src="https://ghstats.dev/api/card?username=Bangkah">
       </a>
     </td>
     <td>
@@ -21,10 +18,6 @@
     </td>
   </tr>
 </table>
-
-### Gudang project publik
-
-Dokumentasi, alat, dan catatan kerja ada di **[bangkah.tech](https://bangkah.tech)** — terbuka tanpa akun dan tanpa paywall.
 
 
 ```
